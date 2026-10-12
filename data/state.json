@@ -1,0 +1,38 @@
+{
+ "capital": 957.01,
+ "positions": [
+  {
+   "id": "2589812",
+   "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+   "regles": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made by the Federal Open Market Committee (FOMC) meetings.\n\nThis market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's October 2026 meeting.\n\nIf the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (e.g. if there's a cut/increase of 12.5 bps it will be considered to be 25 bps)\n\nThe resolution source for this market is the FOMC’s statement after its meeting scheduled for October 27-28, 2026 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.\n\nThe level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.\n\nThis market may resolve as soon as the FOMC’s statement for their October meeting with relevant data is issued. If no statement is released by the end date of the next scheduled meeting, this market will resolve to the \"No change\" bracket.",
+   "p_yes": 0.795,
+   "fin": "2026-10-29T03:59:00+00:00",
+   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+   "cote": "NO",
+   "prix": 0.215,
+   "mise": 42.99,
+   "p_ia": 0.65,
+   "raison": "À l'approche des élections de mi-mandat et avec une politique monétaire probablement proche du taux neutre fin 2026, le statu quo lors de cette réunion reste le scénario le plus probable.",
+   "ouverture": "2026-10-12T19:12:51.511245+00:00"
+  }
+ ],
+ "historique": [],
+ "predictions": [
+  {
+   "id": "2589812",
+   "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+   "p_ia": 0.65,
+   "p_yes": 0.795,
+   "fin": "2026-10-29T03:59:00+00:00",
+   "date": "2026-10-12T19:12:51.511092+00:00"
+  },
+  {
+   "id": "682705",
+   "question": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+   "p_ia": 0.35,
+   "p_yes": 0.305,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-12T19:13:38.030801+00:00"
+  }
+ ]
+}
