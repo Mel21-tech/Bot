@@ -18,6 +18,7 @@ import requests
 CAPITAL_DEPART = 1000.0     # capital fictif en $
 MARCHES_PAR_RUN = 8         # marchés analysés à chaque passage (quota gratuit)
 EDGE_MIN = 0.10             # écart mini IA vs marché pour miser (10 points)
+EDGE_MAX = 0.30             # au-delà de 30 points, c'est sûrement l'IA qui se trompe -> pas de pari
 KELLY_FRACTION = 0.25       # quart de Kelly (prudent)
 MISE_MAX_PCT = 0.05         # jamais plus de 5 % du capital sur un trade
 MISE_MIN = 1.0              # mise mini en $
@@ -163,15 +164,18 @@ def appel_gemini(prompt):
                 continue
             if r.status_code == 200:
                 try:
-                    parts = r.json()["candidates"][0]["content"]["parts"]
-                    return "".join(p.get("text", "") for p in parts), modele
+                    cand = r.json()["candidates"][0]
+                    parts = cand["content"]["parts"]
+                    gm = cand.get("groundingMetadata") or {}
+                    a_cherche = bool(gm.get("webSearchQueries") or gm.get("groundingChunks"))
+                    return "".join(p.get("text", "") for p in parts), modele, a_cherche
                 except (KeyError, IndexError):
                     log(f"{modele}: réponse vide")
                     continue
             log(f"{modele} (recherche={recherche}): HTTP {r.status_code} {r.text[:120]}")
             if r.status_code == 429:
                 time.sleep(20)
-    return None, None
+    return None, None, False
 
 
 def estimer(c):
@@ -187,7 +191,7 @@ the status quo (most things don't change quickly), and the exact resolution word
 Be calibrated: avoid extremes unless evidence is overwhelming.
 Reply with ONLY this JSON, nothing else:
 {{"proba": <0-1>, "confiance": "faible|moyenne|forte", "raison": "<1 phrase en français>"}}"""
-    texte, modele = appel_gemini(prompt)
+    texte, modele, a_cherche = appel_gemini(prompt)
     if not texte:
         return None
     m = re.search(r"\{.*\}", texte, re.S)
@@ -195,6 +199,7 @@ Reply with ONLY this JSON, nothing else:
         d = json.loads(m.group(0))
         d["proba"] = min(max(float(d["proba"]), 0.01), 0.99)
         d["modele"] = modele
+        d["recherche"] = a_cherche
         return d
     except (AttributeError, ValueError, KeyError, TypeError):
         log(f"JSON illisible: {texte[:150]}")
@@ -318,9 +323,17 @@ def main():
                 continue
             p_ia = est["proba"]
             st["predictions"].append({"id": c["id"], "question": c["question"], "p_ia": p_ia,
-                                      "p_yes": c["p_yes"], "fin": c["fin"], "date": now().isoformat()})
-            log(f"  IA {p_ia:.0%} vs marché {c['p_yes']:.0%} ({est.get('confiance')}) - {est.get('raison', '')}")
+                                      "p_yes": c["p_yes"], "fin": c["fin"], "date": now().isoformat(),
+                                      "recherche": est["recherche"]})
+            log(f"  IA {p_ia:.0%} vs marché {c['p_yes']:.0%} ({est.get('confiance')}, "
+                f"recherche={'oui' if est['recherche'] else 'NON'}) - {est.get('raison', '')}")
             if est.get("confiance") == "faible":
+                continue
+            if not est["recherche"]:
+                log("  ⛔ Pas de pari : l'IA n'a pas cherché d'actus récentes")
+                continue
+            if abs(p_ia - c["p_yes"]) > EDGE_MAX:
+                log("  ⛔ Pas de pari : écart trop gros, l'IA rate sûrement une info")
                 continue
             d = decider(p_ia, c["p_yes"], st["capital"])
             if d:
