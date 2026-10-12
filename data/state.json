@@ -1,5 +1,5 @@
 {
- "capital": 957.01,
+ "capital": 909.16,
  "positions": [
   {
    "id": "2589812",
@@ -14,6 +14,20 @@
    "p_ia": 0.65,
    "raison": "À l'approche des élections de mi-mandat et avec une politique monétaire probablement proche du taux neutre fin 2026, le statu quo lors de cette réunion reste le scénario le plus probable.",
    "ouverture": "2026-10-12T19:12:51.511245+00:00"
+  },
+  {
+   "id": "2757891",
+   "question": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
+   "regles": "This market will resolve to the next individual who officially assumes the office of Prime Minister of Serbia by June 30, 2028, 11:59 PM ET.\n\nTo count for resolution, the individual must be elected by the National Assembly and be formally sworn-in, resulting in the official formation of a new government. Any interim or caretaker Prime Minister who is not elected by the National Assembly will not count toward the resolution of this market.\n\nIf no such Prime Minister takes office by June 30, 2028, 11:59 PM ET, this market will resolve to “Other”.\n\nThis market will resolve based on a consensus of credible reporting. If there is ambiguity, this market will resolve solely based on official information from the Serbian government.",
+   "p_yes": 0.7375,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "slug": "will-aleksandar-vucic-be-the-next-prime-minister-of-serbia-20260629223938643",
+   "cote": "NO",
+   "prix": 0.272,
+   "mise": 47.85,
+   "p_ia": 0.08,
+   "raison": "Aleksandar Vučić étant président jusqu'en 2027, tout remaniement ou désignation d'un nouveau Premier ministre d'ici là concernerait une autre personnalité, rendant son accession directe à ce poste peu probable.",
+   "ouverture": "2026-10-12T19:24:05.483214+00:00"
   }
  ],
  "historique": [],
@@ -33,6 +47,22 @@
    "p_yes": 0.305,
    "fin": "2026-10-28T03:59:00+00:00",
    "date": "2026-10-12T19:13:38.030801+00:00"
+  },
+  {
+   "id": "5523557",
+   "question": "US x Yemen ceasefire continues through October 15?",
+   "p_ia": 0.88,
+   "p_yes": 0.945,
+   "fin": "2026-10-15T23:59:00+00:00",
+   "date": "2026-10-12T19:23:22.842711+00:00"
+  },
+  {
+   "id": "2757891",
+   "question": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
+   "p_ia": 0.08,
+   "p_yes": 0.7375,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "date": "2026-10-12T19:24:05.483073+00:00"
   }
  ]
 }
