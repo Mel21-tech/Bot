@@ -1,5 +1,5 @@
 {
- "capital": 909.16,
+ "capital": 820.51,
  "positions": [
   {
    "id": "2589812",
@@ -28,6 +28,34 @@
    "p_ia": 0.08,
    "raison": "Aleksandar Vučić étant président jusqu'en 2027, tout remaniement ou désignation d'un nouveau Premier ministre d'ici là concernerait une autre personnalité, rendant son accession directe à ce poste peu probable.",
    "ouverture": "2026-10-12T19:24:05.483214+00:00"
+  },
+  {
+   "id": "5158631",
+   "question": "Will Club Atlético de Madrid win on 2026-10-13?",
+   "regles": "In the upcoming game, scheduled for October 13, 2026\nIf Club Atlético de Madrid wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.505,
+   "fin": "2026-10-13T19:00:00+00:00",
+   "slug": "ucl-atm-mnu-2026-10-13-atm",
+   "cote": "NO",
+   "prix": 0.505,
+   "mise": 45.46,
+   "p_ia": 0.08,
+   "raison": "Le 13 octobre 2026 se situe en pleine trêve internationale FIFA, ce qui rend la tenue d'un match officiel de l'équipe première très improbable, entraînant une résolution en 'No'.",
+   "ouverture": "2026-10-12T19:34:49.425997+00:00"
+  },
+  {
+   "id": "4936103",
+   "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in October?",
+   "regles": "This market will resolve to \"Yes\" if, at any point after market creation and during a trading session of October 2026, any Pyth 1-minute candle for the Active Month of ICE Futures Europe WTI Crude Futures (denoted by Pyth as \"CLL\") has a final \"High\" or \"Low\" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, this market will resolve to \"No\".\n\nPrices will be used exactly as published by Pyth, without rounding.\n\nOnly prices achieved during an applicable trading session of the specified timeframe's business days will be considered (See: \"Trading Hours\" at https://www.ice.com/products/213/WTI-Crude-Futures). The trading session for a given business day typically begins at 8:00 PM ET on the prior calendar date, except for the session dated Monday, which begins at 6:00 PM ET on the preceding Sunday, and where modified by holiday or other special hours (See: https://www.ice.com/holiday-hours).\n\nThe Active Month is the nearest listed contract, except during that contract's final three trading sessions. At the open of the third-to-last trading session, the next listed contract becomes the Active Month.\n\nEach contract's last trading day will be determined by ICE Futures Europe per the WTI Crude Futures contract specification (generally the 4th US business day prior to the 25th calendar day of the month preceding the contract month, or five US business days prior if the 25th calendar day is not a US business day). The last trading da",
+   "p_yes": 0.455,
+   "fin": "2026-11-01T03:59:59.999000+00:00",
+   "slug": "will-wti-reach-100-in-october-2026",
+   "cote": "NO",
+   "prix": 0.555,
+   "mise": 43.19,
+   "p_ia": 0.04,
+   "raison": "Atteindre 100 $ d'ici la fin octobre nécessiterait une flambée brutale de plus de 25 % en moins de trois semaines, ce qui reste très improbable sans choc géopolitique majeur immédiat.",
+   "ouverture": "2026-10-12T19:37:51.859536+00:00"
   }
  ],
  "historique": [],
@@ -63,6 +91,46 @@
    "p_yes": 0.7375,
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-12T19:24:05.483073+00:00"
+  },
+  {
+   "id": "5223511",
+   "question": "Will Elon Musk post 320-339 tweets from October 6 to October 13, 2026?",
+   "p_ia": 0.09,
+   "p_yes": 0.082,
+   "fin": "2026-10-13T16:00:00+00:00",
+   "date": "2026-10-12T19:33:56.737511+00:00"
+  },
+  {
+   "id": "5158631",
+   "question": "Will Club Atlético de Madrid win on 2026-10-13?",
+   "p_ia": 0.08,
+   "p_yes": 0.505,
+   "fin": "2026-10-13T19:00:00+00:00",
+   "date": "2026-10-12T19:34:49.425774+00:00"
+  },
+  {
+   "id": "3128888",
+   "question": "US announces end of Iranian blockade by October 31, 2026?",
+   "p_ia": 0.05,
+   "p_yes": 0.135,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-12T19:36:44.047342+00:00"
+  },
+  {
+   "id": "4936103",
+   "question": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in October?",
+   "p_ia": 0.04,
+   "p_yes": 0.455,
+   "fin": "2026-11-01T03:59:59.999000+00:00",
+   "date": "2026-10-12T19:37:51.859364+00:00"
+  },
+  {
+   "id": "4824600",
+   "question": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+   "p_ia": 0.62,
+   "p_yes": 0.625,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "date": "2026-10-12T19:41:19.836828+00:00"
   }
  ]
 }
