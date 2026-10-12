@@ -22,7 +22,9 @@ KELLY_FRACTION = 0.25       # quart de Kelly (prudent)
 MISE_MAX_PCT = 0.05         # jamais plus de 5 % du capital sur un trade
 MISE_MIN = 1.0              # mise mini en $
 SLIPPAGE = 0.01             # on paie 1 centime de plus que le prix affiché
-JOURS_MIN, JOURS_MAX = 0.5, 21   # marchés qui se terminent bientôt = résultats rapides
+JOURS_MIN, JOURS_MAX = 0.5, 21   # fenêtre globale des marchés acceptés
+JOURS_COURT = 3             # "court" = se termine dans 3 jours max
+PART_COURTS = 0.5           # moitié des analyses sur des marchés courts
 LIQUIDITE_MIN = 5000        # ignore les marchés trop petits
 PRIX_MIN, PRIX_MAX = 0.05, 0.95
 PAUSE_IA = 13               # secondes entre 2 appels IA (limites gratuites)
@@ -252,7 +254,9 @@ def rapport(st):
     L = ["# 📊 Rapport du bot (argent FICTIF)",
          f"_Mis à jour : {now():%d/%m/%Y %H:%M} UTC_", "",
          f"**Capital total : {total:.2f} $** (départ {CAPITAL_DEPART:.0f} $) → **{roi:+.1f} %**",
+         "",
          f"Dispo : {st['capital']:.2f} $ · Engagé : {engage:.2f} $ sur {len(st['positions'])} positions",
+         "",
          f"Trades clôturés : {len(h)} · Gagnés : {gagnes}"
          + (f" ({gagnes / len(h) * 100:.0f} %)" if h else ""), "",
          "## 🧠 L'IA bat-elle le marché ?"]
@@ -269,10 +273,10 @@ def rapport(st):
             L.append("❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.")
     else:
         L.append("Aucune prédiction résolue pour l'instant.")
-    L += ["", "## Positions ouvertes", "| Marché | Côté | Prix | Mise | IA | Marché |",
-          "|---|---|---|---|---|---|"]
-    L += [f"| {p['question'][:55]} | {p['cote']} | {p['prix']:.2f} | {p['mise']:.2f} $ "
-          f"| {p['p_ia']:.0%} | {p['p_yes']:.0%} |" for p in st["positions"]]
+    L += ["", "## Positions ouvertes", "| Marché | Fin | Côté | Prix | Mise | IA | Marché |",
+          "|---|---|---|---|---|---|---|"]
+    L += [f"| {p['question'][:55]} | {parse_date(p['fin']):%d/%m} | {p['cote']} | {p['prix']:.2f} | {p['mise']:.2f} $ "
+          f"| {p['p_ia']:.0%} | {p['p_yes']:.0%} |" for p in sorted(st["positions"], key=lambda p: p["fin"])]
     L += ["", "## 10 derniers trades clôturés", "| Marché | Côté | Mise | PnL |", "|---|---|---|---|"]
     L += [f"| {t['question'][:55]} | {t['cote']} | {t['mise']:.2f} $ | {t['pnl']:+.2f} $ |"
           for t in h[-10:][::-1]]
@@ -297,7 +301,16 @@ def main():
         cands = [c for c in map(candidat, marches) if c and c["id"] not in deja]
         log(f"{len(marches)} marchés récupérés, {len(cands)} nouveaux candidats")
 
-        for c in cands[:MARCHES_PAR_RUN]:
+        def jours(c):
+            return (parse_date(c["fin"]) - now()).total_seconds() / 86400
+        courts = [c for c in cands if jours(c) <= JOURS_COURT]
+        longs = [c for c in cands if jours(c) > JOURS_COURT]
+        n_courts = round(MARCHES_PAR_RUN * PART_COURTS)
+        selection = courts[:n_courts] + longs[:MARCHES_PAR_RUN - n_courts]
+        selection += [c for c in cands if c not in selection][:MARCHES_PAR_RUN - len(selection)]
+        log(f"{len(courts)} courts / {len(longs)} longs dispo -> {len(selection)} analysés")
+
+        for c in selection:
             log(f"Analyse : {c['question'][:80]}")
             est = estimer(c)
             time.sleep(PAUSE_IA)
