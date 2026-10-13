@@ -2,7 +2,7 @@ name: Bot paper trading
 
 on:
   schedule:
-    - cron: "17 */3 * * *"   # toutes les 3 heures
+    - cron: "17 * * * *"   # toutes les 3 heures
   workflow_dispatch:          # bouton "Run workflow" pour lancer à la main
 
 permissions:
