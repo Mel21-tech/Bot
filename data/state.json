@@ -158,6 +158,33 @@
    "fin": "2026-10-31T23:55:00+00:00",
    "date": "2026-10-13T02:41:58.098364+00:00",
    "recherche": false
+  },
+  {
+   "id": "5158634",
+   "question": "Will Manchester United FC win on 2026-10-13?",
+   "p_ia": 0.02,
+   "p_yes": 0.255,
+   "fin": "2026-10-13T19:00:00+00:00",
+   "date": "2026-10-13T05:11:14.077645+00:00",
+   "recherche": false
+  },
+  {
+   "id": "5158622",
+   "question": "Will Club Brugge KV win on 2026-10-13?",
+   "p_ia": 0.38,
+   "p_yes": 0.075,
+   "fin": "2026-10-13T19:00:00+00:00",
+   "date": "2026-10-13T05:11:56.056279+00:00",
+   "recherche": false
+  },
+  {
+   "id": "2589813",
+   "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+   "p_ia": 0.02,
+   "p_yes": 0.195,
+   "fin": "2026-10-29T03:59:00+00:00",
+   "date": "2026-10-13T05:14:20.965061+00:00",
+   "recherche": false
   }
  ]
 }
