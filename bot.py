@@ -16,7 +16,7 @@ import requests
 
 # ================= RÉGLAGES =================
 CAPITAL_DEPART = 1000.0     # capital fictif en $
-MARCHES_PAR_RUN = 8         # marchés analysés à chaque passage (quota gratuit)
+MARCHES_PAR_RUN = 4         # marchés analysés à chaque passage (quota gratuit)
 EDGE_MIN = 0.10             # écart mini IA vs marché pour miser (10 points)
 EDGE_MAX = 0.30             # au-delà de 30 points, c'est sûrement l'IA qui se trompe -> pas de pari
 KELLY_FRACTION = 0.25       # quart de Kelly (prudent)
