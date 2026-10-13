@@ -140,6 +140,24 @@
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-12T19:48:10.982280+00:00",
    "recherche": false
+  },
+  {
+   "id": "5223514",
+   "question": "Will Elon Musk post 340-359 tweets from October 6 to October 13, 2026?",
+   "p_ia": 0.13,
+   "p_yes": 0.157,
+   "fin": "2026-10-13T16:00:00+00:00",
+   "date": "2026-10-13T02:37:40.895335+00:00",
+   "recherche": false
+  },
+  {
+   "id": "1235552",
+   "question": "Will the Cleveland Guardians win the 2026 World Series?",
+   "p_ia": 0.03,
+   "p_yes": 0.1395,
+   "fin": "2026-10-31T23:55:00+00:00",
+   "date": "2026-10-13T02:41:58.098364+00:00",
+   "recherche": false
   }
  ]
 }
