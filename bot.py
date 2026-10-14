@@ -147,34 +147,40 @@ def actus(question):
 
 
 # ================= IA =================
+EPUISES = set()   # modèles dont le quota est vide pour ce run
+
+
 def appel_gemini(prompt):
+    """1 seul appel par modèle, toujours AVEC recherche Google.
+    Si un modèle répond 429 (quota vide), on ne le réessaie plus de tout le run."""
     key = os.environ["GEMINI_API_KEY"]
     for modele in MODELES:
-        for recherche in ([True, False] if USE_SEARCH else [False]):
-            body = {"contents": [{"parts": [{"text": prompt}]}],
-                    "generationConfig": {"temperature": 0.2}}
-            if recherche:
-                body["tools"] = [{"google_search": {}}]
+        if modele in EPUISES:
+            continue
+        body = {"contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": 0.2}}
+        if USE_SEARCH:
+            body["tools"] = [{"google_search": {}}]
+        try:
+            r = requests.post(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{modele}:generateContent",
+                headers={"x-goog-api-key": key}, json=body, timeout=120)
+        except requests.RequestException as e:
+            log(f"{modele}: erreur réseau {e}")
+            continue
+        if r.status_code == 200:
             try:
-                r = requests.post(
-                    f"https://generativelanguage.googleapis.com/v1beta/models/{modele}:generateContent",
-                    headers={"x-goog-api-key": key}, json=body, timeout=120)
-            except requests.RequestException as e:
-                log(f"{modele}: erreur réseau {e}")
+                cand = r.json()["candidates"][0]
+                parts = cand["content"]["parts"]
+                gm = cand.get("groundingMetadata") or {}
+                a_cherche = bool(gm.get("webSearchQueries") or gm.get("groundingChunks"))
+                return "".join(p.get("text", "") for p in parts), modele, a_cherche
+            except (KeyError, IndexError):
+                log(f"{modele}: réponse vide")
                 continue
-            if r.status_code == 200:
-                try:
-                    cand = r.json()["candidates"][0]
-                    parts = cand["content"]["parts"]
-                    gm = cand.get("groundingMetadata") or {}
-                    a_cherche = bool(gm.get("webSearchQueries") or gm.get("groundingChunks"))
-                    return "".join(p.get("text", "") for p in parts), modele, a_cherche
-                except (KeyError, IndexError):
-                    log(f"{modele}: réponse vide")
-                    continue
-            log(f"{modele} (recherche={recherche}): HTTP {r.status_code} {r.text[:120]}")
-            if r.status_code == 429:
-                time.sleep(20)
+        log(f"{modele}: HTTP {r.status_code} {r.text[:120]}")
+        if r.status_code in (429, 404):
+            EPUISES.add(modele)
     return None, None, False
 
 
@@ -316,12 +322,18 @@ def main():
         log(f"{len(courts)} courts / {len(longs)} longs dispo -> {len(selection)} analysés")
 
         for c in selection:
+            if len(EPUISES) >= len(MODELES):
+                log("🛑 Quota Gemini épuisé : arrêt des analyses jusqu'au prochain run")
+                break
             log(f"Analyse : {c['question'][:80]}")
             est = estimer(c)
             time.sleep(PAUSE_IA)
             if not est:
                 continue
             p_ia = est["proba"]
+            if not est["recherche"]:
+                log(f"  ⏭️ Ignoré (pas de recherche Google), il sera réanalysé plus tard")
+                continue
             st["predictions"].append({"id": c["id"], "question": c["question"], "p_ia": p_ia,
                                       "p_yes": c["p_yes"], "fin": c["fin"], "date": now().isoformat(),
                                       "recherche": est["recherche"]})
