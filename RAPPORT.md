@@ -1,5 +1,5 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 14/10/2026 19:27 UTC_
+_Mis à jour : 14/10/2026 23:16 UTC_
 
 **Capital total : 954.54 $** (départ 1000 $) → **-4.5 %**
 
@@ -8,8 +8,8 @@ Dispo : 820.51 $ · Engagé : 134.03 $ sur 3 positions
 Trades clôturés : 1 · Gagnés : 0 (0 %)
 
 ## 🧠 L'IA bat-elle le marché ?
-Prédictions résolues : 6
-Score Brier IA : **0.3598** · Marché : **0.2268** (plus bas = meilleur)
+Prédictions résolues : 7
+Score Brier IA : **0.3290** · Marché : **0.2323** (plus bas = meilleur)
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
 ## Positions ouvertes
