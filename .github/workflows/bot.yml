@@ -27,7 +27,7 @@ jobs:
 
       - name: Installation
         timeout-minutes: 3
-        run: pip install -- timeout 30 --retries 3 requests
+        run: pip install requests
 
       - name: Lancement du bot
         env:
