@@ -26,7 +26,8 @@ jobs:
           python-version: "3.12"
 
       - name: Installation
-        run: pip install requests
+      timeout-minutes: 3
+        run: pip install -- timeout 30 --retries 3 requests
 
       - name: Lancement du bot
         env:
