@@ -1,4 +1,4 @@
-name: Bot paper trading
+name: Bot trading
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
           python-version: "3.12"
 
       - name: Installation
-      timeout-minutes: 3
+        timeout-minutes: 3
         run: pip install -- timeout 30 --retries 3 requests
 
       - name: Lancement du bot
