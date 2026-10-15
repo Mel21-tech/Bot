@@ -1,9 +1,9 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 15/10/2026 09:06 UTC_
+_Mis à jour : 15/10/2026 11:00 UTC_
 
 **Capital total : 954.54 $** (départ 1000 $) → **-4.5 %**
 
-Dispo : 820.51 $ · Engagé : 134.03 $ sur 3 positions
+Dispo : 780.40 $ · Engagé : 174.14 $ sur 4 positions
 
 Trades clôturés : 1 · Gagnés : 0 (0 %)
 
@@ -18,6 +18,7 @@ Score Brier IA : **0.3290** · Marché : **0.2323** (plus bas = meilleur)
 | Will Aleksandar Vučić be the next Prime Minister of Ser | 25/10 | NO | 0.27 | 47.85 $ | 8% | 74% |
 | Will there be no change in Fed interest rates after the | 29/10 | NO | 0.21 | 42.99 $ | 65% | 80% |
 | Will WTI Crude Oil (WTI) hit (HIGH) $100 in October? | 01/11 | NO | 0.56 | 43.19 $ | 4% | 46% |
+| Will the Democratic Party control the House after the 2 | 04/11 | NO | 0.10 | 40.11 $ | 72% | 90% |
 
 ## 10 derniers trades clôturés
 | Marché | Côté | Mise | PnL |
