@@ -32,6 +32,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          USE_GOOGLE_SEARCH: "0"
         run: python bot.py
 
       - name: Sauvegarde des résultats
