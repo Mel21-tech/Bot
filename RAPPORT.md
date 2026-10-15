@@ -1,5 +1,5 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 14/10/2026 23:16 UTC_
+_Mis à jour : 15/10/2026 01:34 UTC_
 
 **Capital total : 954.54 $** (départ 1000 $) → **-4.5 %**
 
