@@ -305,6 +305,33 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-15T18:21:14.355487+00:00",
    "recherche": true
+  },
+  {
+   "id": "5686981",
+   "question": "US x Iran ceasefire continues through October 17?",
+   "p_ia": 0.2,
+   "p_yes": 0.9325,
+   "fin": "2026-10-18T03:59:00+00:00",
+   "date": "2026-10-15T22:22:41.829161+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5170739",
+   "question": "Will Bitcoin dip to $77,500 in October?",
+   "p_ia": 0.38,
+   "p_yes": 0.365,
+   "fin": "2026-11-01T04:00:00+00:00",
+   "date": "2026-10-15T22:23:04.615298+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5697537",
+   "question": "Israel x Iran ceasefire continues through October 18?",
+   "p_ia": 0.02,
+   "p_yes": 0.95,
+   "fin": "2026-10-19T03:59:00+00:00",
+   "date": "2026-10-15T22:24:01.575411+00:00",
+   "recherche": true
   }
  ]
 }
