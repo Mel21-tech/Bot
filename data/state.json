@@ -1,5 +1,5 @@
 {
- "capital": 683.38,
+ "capital": 723.5699441340782,
  "positions": [
   {
    "id": "2589812",
@@ -58,20 +58,6 @@
    "ouverture": "2026-10-15T10:59:49.585555+00:00"
   },
   {
-   "id": "5362539",
-   "question": "Will Elon Musk post 300-319 tweets from October 9 to October 16, 2026?",
-   "regles": "This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from October 9 12:00 PM ET to October 16, 2026 12:00 PM ET.\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nCommunity reposts which are not counted by the tracker not count toward the total.\n\nThe resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.",
-   "p_yes": 0.1475,
-   "fin": "2026-10-16T16:00:00+00:00",
-   "slug": "elon-musk-of-tweets-october-9-october-16-2026-300-319",
-   "cote": "YES",
-   "prix": 0.158,
-   "mise": 33.0,
-   "p_ia": 0.3,
-   "raison": "À 14 h UTC le 15 oct., 270 posts sont comptés ; il faut 30‑49 posts supplémentaires en 26 h. Le rythme récent (3‑4 posts/h) suggère que le total dépassera probablement 319, mais une décélération pourrait le placer dans la fourchette 300‑319, d'où une probabilité modérée.",
-   "ouverture": "2026-10-15T14:12:30.912794+00:00"
-  },
-  {
    "id": "5459797",
    "question": "Will the price of Bitcoin be above $84,000 on October 16?",
    "regles": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT closing at 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.\n\nPrice precision is determined by the number of decimal places in the source.",
@@ -84,20 +70,6 @@
    "p_ia": 0.25,
    "raison": "Le BTC tourne autour de 82 000 $, une hausse de plus de 2 % avant midi ET est plausible mais pas très probable, d'où une estimation d'environ 25 %.",
    "ouverture": "2026-10-16T01:23:41.836870+00:00"
-  },
-  {
-   "id": "1235572",
-   "question": "Will the Los Angeles Dodgers win the 2026 World Series?",
-   "regles": "This market will resolve according to the team that wins the 2026 MLB World Series. \n\nIf at any point it becomes impossible for a listed team to win the 2026 MLB World Series per the rules of MLB (e.g., they are eliminated in the playoffs), the corresponding market will resolve to “No”.\n\nIf the 2026 MLB season is cancelled, postponed after December 31, 2026 ET, or there is otherwise no winner declared within that timeframe, this market will resolve to “Other”.\n\nThe primary resolution source will be official information from MLB (https://www.mlb.com/); however, a consensus of credible reporting may also be used.",
-   "p_yes": 0.115,
-   "fin": "2026-10-31T23:55:00+00:00",
-   "slug": "will-the-los-angeles-dodgers-win-the-2026-world-series",
-   "cote": "NO",
-   "prix": 0.895,
-   "mise": 35.97,
-   "p_ia": 0.01,
-   "raison": "Les Dodgers ont été éliminés en NLCS, balayés 3-0, donc ils ne peuvent plus remporter la Série mondiale 2026.",
-   "ouverture": "2026-10-16T01:23:59.859507+00:00"
   }
  ],
  "historique": [
@@ -117,6 +89,40 @@
    "resultat": 1.0,
    "pnl": -45.46,
    "cloture": "2026-10-13T23:46:11.664238+00:00"
+  },
+  {
+   "id": "5362539",
+   "question": "Will Elon Musk post 300-319 tweets from October 9 to October 16, 2026?",
+   "regles": "This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from October 9 12:00 PM ET to October 16, 2026 12:00 PM ET.\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nCommunity reposts which are not counted by the tracker not count toward the total.\n\nThe resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.",
+   "p_yes": 0.1475,
+   "fin": "2026-10-16T16:00:00+00:00",
+   "slug": "elon-musk-of-tweets-october-9-october-16-2026-300-319",
+   "cote": "YES",
+   "prix": 0.158,
+   "mise": 33.0,
+   "p_ia": 0.3,
+   "raison": "À 14 h UTC le 15 oct., 270 posts sont comptés ; il faut 30‑49 posts supplémentaires en 26 h. Le rythme récent (3‑4 posts/h) suggère que le total dépassera probablement 319, mais une décélération pourrait le placer dans la fourchette 300‑319, d'où une probabilité modérée.",
+   "ouverture": "2026-10-15T14:12:30.912794+00:00",
+   "resultat": 0.0,
+   "pnl": -33.0,
+   "cloture": "2026-10-16T07:12:38.386924+00:00"
+  },
+  {
+   "id": "1235572",
+   "question": "Will the Los Angeles Dodgers win the 2026 World Series?",
+   "regles": "This market will resolve according to the team that wins the 2026 MLB World Series. \n\nIf at any point it becomes impossible for a listed team to win the 2026 MLB World Series per the rules of MLB (e.g., they are eliminated in the playoffs), the corresponding market will resolve to “No”.\n\nIf the 2026 MLB season is cancelled, postponed after December 31, 2026 ET, or there is otherwise no winner declared within that timeframe, this market will resolve to “Other”.\n\nThe primary resolution source will be official information from MLB (https://www.mlb.com/); however, a consensus of credible reporting may also be used.",
+   "p_yes": 0.115,
+   "fin": "2026-10-31T23:55:00+00:00",
+   "slug": "will-the-los-angeles-dodgers-win-the-2026-world-series",
+   "cote": "NO",
+   "prix": 0.895,
+   "mise": 35.97,
+   "p_ia": 0.01,
+   "raison": "Les Dodgers ont été éliminés en NLCS, balayés 3-0, donc ils ne peuvent plus remporter la Série mondiale 2026.",
+   "ouverture": "2026-10-16T01:23:59.859507+00:00",
+   "resultat": 0.0,
+   "pnl": 4.22,
+   "cloture": "2026-10-16T07:12:38.528922+00:00"
   }
  ],
  "predictions": [
@@ -142,7 +148,8 @@
    "p_ia": 0.88,
    "p_yes": 0.945,
    "fin": "2026-10-15T23:59:00+00:00",
-   "date": "2026-10-12T19:23:22.842711+00:00"
+   "date": "2026-10-12T19:23:22.842711+00:00",
+   "resultat": 1.0
   },
   {
    "id": "2757891",
@@ -386,6 +393,33 @@
    "p_yes": 0.645,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-16T01:27:07.359376+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5263885",
+   "question": "Will Fulham FC win on 2026-10-17?",
+   "p_ia": 0.58,
+   "p_yes": 0.565,
+   "fin": "2026-10-17T14:00:00+00:00",
+   "date": "2026-10-16T07:13:27.596647+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5697539",
+   "question": "Israel x Iran ceasefire continues through October 21?",
+   "p_ia": 0.02,
+   "p_yes": 0.925,
+   "fin": "2026-10-22T03:59:00+00:00",
+   "date": "2026-10-16T07:13:44.169704+00:00",
+   "recherche": true
+  },
+  {
+   "id": "1235568",
+   "question": "Will the Milwaukee Brewers win the 2026 World Series?",
+   "p_ia": 0.57,
+   "p_yes": 0.645,
+   "fin": "2026-10-31T23:55:00+00:00",
+   "date": "2026-10-16T07:15:06.102056+00:00",
    "recherche": true
   }
  ]
