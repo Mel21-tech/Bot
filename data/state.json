@@ -58,20 +58,6 @@
    "ouverture": "2026-10-15T10:59:49.585555+00:00"
   },
   {
-   "id": "5459797",
-   "question": "Will the price of Bitcoin be above $84,000 on October 16?",
-   "regles": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT closing at 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.\n\nPrice precision is determined by the number of decimal places in the source.",
-   "p_yes": 0.1075,
-   "fin": "2026-10-16T16:00:00+00:00",
-   "slug": "bitcoin-above-84k-on-october-16-2026",
-   "cote": "YES",
-   "prix": 0.117,
-   "mise": 28.05,
-   "p_ia": 0.25,
-   "raison": "Le BTC tourne autour de 82 000 $, une hausse de plus de 2 % avant midi ET est plausible mais pas très probable, d'où une estimation d'environ 25 %.",
-   "ouverture": "2026-10-16T01:23:41.836870+00:00"
-  },
-  {
    "id": "5611042",
    "event": "1177812",
    "question": "Will oil be below $80 on November 2 and the Republicans win the Senate?",
@@ -171,6 +157,24 @@
    "resultat": 0.0,
    "pnl": 4.22,
    "cloture": "2026-10-16T07:12:38.528922+00:00"
+  },
+  {
+   "id": "5459797",
+   "question": "Will the price of Bitcoin be above $84,000 on October 16?",
+   "regles": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT closing at 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.\n\nPrice precision is determined by the number of decimal places in the source.",
+   "p_yes": 0.1075,
+   "fin": "2026-10-16T16:00:00+00:00",
+   "slug": "bitcoin-above-84k-on-october-16-2026",
+   "cote": "YES",
+   "prix": 0.117,
+   "mise": 28.05,
+   "p_ia": 0.25,
+   "raison": "Le BTC tourne autour de 82 000 $, une hausse de plus de 2 % avant midi ET est plausible mais pas très probable, d'où une estimation d'environ 25 %.",
+   "ouverture": "2026-10-16T01:23:41.836870+00:00",
+   "resultat": 0.0,
+   "pnl": -28.05,
+   "cloture": "2026-10-16T17:01:01.454825+00:00",
+   "categorie": "Outsider"
   }
  ],
  "predictions": [
@@ -425,7 +429,8 @@
    "p_yes": 0.1075,
    "fin": "2026-10-16T16:00:00+00:00",
    "date": "2026-10-16T01:23:41.836735+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "1235572",
@@ -587,6 +592,24 @@
    "p_yes": 0.1125,
    "fin": "2026-11-01T03:59:00+00:00",
    "date": "2026-10-16T15:01:25.648786+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5715908",
+   "question": "US x Iran ceasefire continues through October 18?",
+   "p_ia": 0.02,
+   "p_yes": 0.943,
+   "fin": "2026-10-19T03:59:00+00:00",
+   "date": "2026-10-16T17:01:29.419166+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5263852",
+   "question": "Will Chelsea FC win on 2026-10-17?",
+   "p_ia": 0.42,
+   "p_yes": 0.435,
+   "fin": "2026-10-17T11:30:00+00:00",
+   "date": "2026-10-16T17:01:57.975302+00:00",
    "recherche": true
   }
  ]
