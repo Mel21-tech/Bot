@@ -17,7 +17,7 @@ Le bot part de **1 000 $**, analyse des dizaines de marchés chaque heure, parie
 ## ⚙️ Comment ça marche
 
 ```
-Polymarket ──► Sélection des marchés ──► IA (à l'aveugle) ──► Décision ──► Paris fictifs ──► RAPPORT.md
+Polymarket ──► Sélection des marchés ──► IA (à l'aveugle) ──► Décision ──► Paris ──► RAPPORT.md
 ```
 
 1. **📥 Récupération** — les 500 marchés les plus actifs de Polymarket (API publique, lecture seule).
