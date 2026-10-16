@@ -611,6 +611,15 @@
    "fin": "2026-10-17T11:30:00+00:00",
    "date": "2026-10-16T17:01:57.975302+00:00",
    "recherche": true
+  },
+  {
+   "id": "562794",
+   "question": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+   "p_ia": 0.38,
+   "p_yes": 0.365,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-16T17:26:46.238990+00:00",
+   "recherche": true
   }
  ]
 }

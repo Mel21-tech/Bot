@@ -1,5 +1,5 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 16/10/2026 17:02 UTC_
+_Mis à jour : 16/10/2026 17:28 UTC_
 
 ## 💰 Résumé
 
