@@ -421,6 +421,24 @@
    "fin": "2026-10-31T23:55:00+00:00",
    "date": "2026-10-16T07:15:06.102056+00:00",
    "recherche": true
+  },
+  {
+   "id": "5611043",
+   "question": "Will oil be below $80 on November 2 and the Democrats win the Senate?",
+   "p_ia": 0.02,
+   "p_yes": 0.039,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-16T07:44:11.425729+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5340068",
+   "question": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by at least 12%?",
+   "p_ia": 0.02,
+   "p_yes": 0.04,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "date": "2026-10-16T07:45:51.440281+00:00",
+   "recherche": true
   }
  ]
 }
