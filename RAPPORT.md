@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 16/10/2026 20:00 UTC_
+_Mis à jour : 16/10/2026 21:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **869.94 $** (-13.0 %) |
-| Disponible | 570.09 $ |
-| Engagé | 299.85 $ sur 8 positions |
+| Disponible | 526.59 $ |
+| Engagé | 343.35 $ sur 9 positions |
 | Trades clôturés | 5 · gagnés 1 (20 %) |
 | Gains/pertes réalisés | -130.06 $ |
 
@@ -15,7 +15,7 @@ _Mis à jour : 16/10/2026 20:00 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 2 (90 $) |
+| 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 3 (133 $) |
 | ⚖️ Équilibré | 2 | 0 (0 %) | 73.23 $ | -73.23 $ | -100.0 % | 1 (43 $) |
 | 🎲 Outsider | 2 | 0 (0 %) | 61.05 $ | -61.05 $ | -100.0 % | 5 (167 $) |
 
@@ -29,12 +29,13 @@ Prédictions résolues : **11** · Score Brier IA **0.2250** vs marché **0.1516
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (2)
+### 🛡️ Sûr (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Naftali Bennett be the next Prime Minister of Israel? | 28/10 | NO | 0.86 | 43.50 $ | +6.79 $ | 10% | 14% |
 | US-Iran ceasefire continues through the midterms? | 04/11 | YES | 0.79 | 46.29 $ | +12.68 $ | 85% | 78% |
+| 2026 Balance of Power: R Senate, D House | 04/11 | NO | 0.73 | 43.50 $ | +15.68 $ | 20% | 28% |
 
 ### ⚖️ Équilibré (1)
 

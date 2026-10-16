@@ -1,5 +1,5 @@
 {
- "capital": 570.0899441340783,
+ "capital": 526.5899441340783,
  "positions": [
   {
    "id": "2589812",
@@ -120,6 +120,22 @@
    "categorie": "Sûr",
    "raison": "Les sondages montrent Yashar en tête et Bennett ne compte qu’environ 11 sièges, et il a même déclaré être prêt à renoncer au poste de Premier ministre.",
    "ouverture": "2026-10-16T18:01:53.663967+00:00"
+  },
+  {
+   "id": "562830",
+   "event": "32228",
+   "question": "2026 Balance of Power: R Senate, D House",
+   "regles": "This market will resolve according to the party that wins control of the United States Senate and the party that wins control of the United States House of Representatives in the 2026 United States midterm election.\n\nA party wins control of the United States Senate if it wins a majority of the chamber’s voting seats. If no party wins a majority of voting seats, the party that wins control of the chamber is the party that wins half of the voting seats and holds the Vice Presidency. If the outcome remains ambiguous after applying the above criteria, the chamber will be deemed controlled by the party with which the first selected President Pro Tempore of the Congress that convenes after the specified election is affiliated.\n\nA party wins control of the United States House of Representatives if it wins a majority of the chamber’s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first elected Speaker of the House of the Congress that convenes after the 2026 midterm election is affiliated.\n\nThe following rules govern the counting of seats for determining which party wins control of the chambers.\n\nFor determining Senate control, all regular and special Senate elections that determine representation in the upcoming 120th Congress and are scheduled to take place in November 2026 as of October 31, 2026 are included. Vacant Senate seats for which no election or special election to fill the seat is scheduled to t",
+   "p_yes": 0.275,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "2026-balance-of-power-r-senate-d-house-444",
+   "cote": "NO",
+   "prix": 0.735,
+   "mise": 43.5,
+   "p_ia": 0.2,
+   "categorie": "Sûr",
+   "raison": "Les prévisions montrent 29 % de chances de contrôle républicain du Sénat et 81 % de chances de majorité démocrate à la Chambre, mais les deux issues sont corrélées, rendant la combinaison R‑Sénat/D‑Chambre moins probable que le simple produit, d'où une estimation d'environ 20 %.",
+   "ouverture": "2026-10-16T21:01:24.196373+00:00"
   }
  ],
  "historique": [
@@ -672,6 +688,15 @@
    "p_yes": 0.145,
    "fin": "2026-10-28T03:59:00+00:00",
    "date": "2026-10-16T18:01:53.663822+00:00",
+   "recherche": true
+  },
+  {
+   "id": "562830",
+   "question": "2026 Balance of Power: R Senate, D House",
+   "p_ia": 0.2,
+   "p_yes": 0.275,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-16T21:01:24.196228+00:00",
    "recherche": true
   }
  ]
