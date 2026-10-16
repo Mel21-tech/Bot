@@ -534,6 +534,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-16T12:29:08.379296+00:00",
    "recherche": true
+  },
+  {
+   "id": "5340069",
+   "question": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
+   "p_ia": 0.12,
+   "p_yes": 0.1045,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "date": "2026-10-16T13:01:19.143801+00:00",
+   "recherche": true
   }
  ]
 }
