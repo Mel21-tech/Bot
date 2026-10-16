@@ -1,5 +1,5 @@
 {
- "capital": 723.5699441340782,
+ "capital": 705.0499441340783,
  "positions": [
   {
    "id": "2589812",
@@ -70,6 +70,22 @@
    "p_ia": 0.25,
    "raison": "Le BTC tourne autour de 82 000 $, une hausse de plus de 2 % avant midi ET est plausible mais pas très probable, d'où une estimation d'environ 25 %.",
    "ouverture": "2026-10-16T01:23:41.836870+00:00"
+  },
+  {
+   "id": "5611042",
+   "event": "1177812",
+   "question": "Will oil be below $80 on November 2 and the Republicans win the Senate?",
+   "regles": "This market will resolve to \"Oil < $80; R Senate\" if oil is less than $80 at the close of trading on November 2, 2026, and the Republican Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil < $80; D Senate\" if oil is less than $80 at the close of trading on November 2, 2026, and the Democratic Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil ≥ $80; R Senate\" if oil is greater than or equal to $80 at the close of trading on November 2, 2026, and the Republican Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil ≥ $80; D Senate\" if oil is greater than or equal to $80 at the close of trading on November 2, 2026, and the Democratic Party wins control of the United States Senate in the 2026 United States midterm election.\n\nOil price: The oil price component will be determined based on the Close price for the Active Month of ICE Futures Europe WTI Crude Futures (denoted by Pyth as \"CLL\") for the November 2, 2026 trading day.\n\nFor a standard full trading session, the closing price refers to the Pyth \"Close\" value of the 1-minute candle corresponding to the final minute of regular trading hours on the primary exchange. Closing prices will be used exactly as published by Pyth, without rounding.\n\nIf the Active Month contract does not trade at all during the relevant t",
+   "p_yes": 0.0335,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "oil-below-80-on-november-2-and-the-republicans-win-the-senate",
+   "cote": "YES",
+   "prix": 0.044,
+   "mise": 18.52,
+   "p_ia": 0.15,
+   "categorie": "Outsider",
+   "raison": "Les sondages montrent un avantage démocrate de 62 % pour le Sénat, tandis que le prix du WTI est proche de 80 $ avec une probabilité d’environ 40 % de tomber sous ce seuil, donnant une probabilité conjointe d’environ 15 %.",
+   "ouverture": "2026-10-16T11:31:41.562119+00:00"
   }
  ],
  "historique": [
@@ -447,6 +463,24 @@
    "p_yes": 0.385,
    "fin": "2026-11-01T04:00:00+00:00",
    "date": "2026-10-16T09:07:47.329859+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5170734",
+   "question": "Will Bitcoin reach $90,000 in October?",
+   "p_ia": 0.22,
+   "p_yes": 0.235,
+   "fin": "2026-11-01T04:00:00+00:00",
+   "date": "2026-10-16T11:31:04.314093+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5611042",
+   "question": "Will oil be below $80 on November 2 and the Republicans win the Senate?",
+   "p_ia": 0.15,
+   "p_yes": 0.0335,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-16T11:31:41.561966+00:00",
    "recherche": true
   }
  ]
