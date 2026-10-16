@@ -1,13 +1,13 @@
-# 📊 Rapport du bot
-_Mis à jour : 16/10/2026 13:02 UTC_
+# 📊 Rapport du bot (argent FICTIF)
+_Mis à jour : 16/10/2026 14:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **925.76 $** (-7.4 %) |
-| Disponible | 658.76 $ |
-| Engagé | 267.00 $ sur 7 positions |
+| Disponible | 630.99 $ |
+| Engagé | 294.77 $ sur 8 positions |
 | Trades clôturés | 3 · gagnés 1 (33 %) |
 | Gains/pertes réalisés | -74.24 $ |
 
@@ -16,7 +16,7 @@ _Mis à jour : 16/10/2026 13:02 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 1 (46 $) |
-| ⚖️ Équilibré | 1 | 0 (0 %) | 45.46 $ | -45.46 $ | -100.0 % | 1 (43 $) |
+| ⚖️ Équilibré | 1 | 0 (0 %) | 45.46 $ | -45.46 $ | -100.0 % | 2 (71 $) |
 | 🎲 Outsider | 1 | 0 (0 %) | 33.00 $ | -33.00 $ | -100.0 % | 5 (178 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
@@ -35,10 +35,11 @@ Prédictions résolues : **8** · Score Brier IA **0.2897** vs marché **0.2037*
 |---|---|---|---|---|---|---|---|
 | US-Iran ceasefire continues through the midterms? | 04/11 | YES | 0.79 | 46.29 $ | +12.68 $ | 85% | 78% |
 
-### ⚖️ Équilibré (1)
+### ⚖️ Équilibré (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
+| Will Bitcoin dip to $81,000 on October 16? | 17/10 | NO | 0.70 | 27.77 $ | +11.90 $ | 2% | 31% |
 | Will WTI Crude Oil (WTI) hit (HIGH) $100 in October? | 01/11 | NO | 0.56 | 43.19 $ | +34.63 $ | 4% | 46% |
 
 ### 🎲 Outsider (5)

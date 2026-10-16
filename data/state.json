@@ -1,5 +1,5 @@
 {
- "capital": 658.7599441340783,
+ "capital": 630.9899441340783,
  "positions": [
   {
    "id": "2589812",
@@ -102,6 +102,22 @@
    "categorie": "Sûr",
    "raison": "Les États‑Unis n'ont pas mené d'attaque directe sur le territoire iranien depuis 2020 et évitent généralement d'escalader avant les élections, rendant une nouvelle frappe qualifiée avant les midterms peu probable.",
    "ouverture": "2026-10-16T12:01:17.154842+00:00"
+  },
+  {
+   "id": "5766179",
+   "event": "1197869",
+   "question": "Will Bitcoin dip to $81,000 on October 16?",
+   "regles": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTC/USDT) on the date specified in the title, between 12:00 AM ET and 11:59 PM ET has a final \"Low\" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Low\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "p_yes": 0.31,
+   "fin": "2026-10-17T04:00:00+00:00",
+   "slug": "will-bitcoin-dip-to-81k-on-october-16-2026",
+   "cote": "NO",
+   "prix": 0.7,
+   "mise": 27.77,
+   "p_ia": 0.02,
+   "categorie": "Équilibré",
+   "raison": "Le plus bas quotidien du 16 octobre 2026 était de 82 101,98 $, bien au-dessus de 81 000 $, rendant très improbable une chute à ce niveau.",
+   "ouverture": "2026-10-16T14:01:13.403318+00:00"
   }
  ],
  "historique": [
@@ -542,6 +558,24 @@
    "p_yes": 0.1045,
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-16T13:01:19.143801+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5766179",
+   "question": "Will Bitcoin dip to $81,000 on October 16?",
+   "p_ia": 0.02,
+   "p_yes": 0.31,
+   "fin": "2026-10-17T04:00:00+00:00",
+   "date": "2026-10-16T14:01:13.403163+00:00",
+   "recherche": true
+  },
+  {
+   "id": "630963",
+   "question": "Will the Democrats win the Texas Senate race in 2026?",
+   "p_ia": 0.57,
+   "p_yes": 0.625,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-16T14:01:29.024449+00:00",
    "recherche": true
   }
  ]
