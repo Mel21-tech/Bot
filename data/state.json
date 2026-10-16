@@ -1,5 +1,5 @@
 {
- "capital": 630.9899441340783,
+ "capital": 570.0899441340783,
  "positions": [
   {
    "id": "2589812",
@@ -90,20 +90,36 @@
    "ouverture": "2026-10-16T12:01:17.154842+00:00"
   },
   {
-   "id": "5766179",
-   "event": "1197869",
-   "question": "Will Bitcoin dip to $81,000 on October 16?",
-   "regles": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTC/USDT) on the date specified in the title, between 12:00 AM ET and 11:59 PM ET has a final \"Low\" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Low\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
-   "p_yes": 0.31,
-   "fin": "2026-10-17T04:00:00+00:00",
-   "slug": "will-bitcoin-dip-to-81k-on-october-16-2026",
+   "id": "5506689",
+   "event": "1165153",
+   "question": "Will the price of Bitcoin be above $80,000 on October 17?",
+   "regles": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT closing at 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.\n\nPrice precision is determined by the number of decimal places in the source.",
+   "p_yes": 0.913,
+   "fin": "2026-10-17T16:00:00+00:00",
+   "slug": "bitcoin-above-80k-on-october-17-2026",
    "cote": "NO",
-   "prix": 0.7,
-   "mise": 27.77,
-   "p_ia": 0.02,
-   "categorie": "Équilibré",
-   "raison": "Le plus bas quotidien du 16 octobre 2026 était de 82 101,98 $, bien au-dessus de 81 000 $, rendant très improbable une chute à ce niveau.",
-   "ouverture": "2026-10-16T14:01:13.403318+00:00"
+   "prix": 0.097,
+   "mise": 17.4,
+   "p_ia": 0.73,
+   "categorie": "Outsider",
+   "raison": "Le BTC se maintient autour de 82 000 $, légèrement au‑dessus de 80 000 $, et les prévisions d’octobre 2026 restent majoritairement haussières, rendant une chute de plus de 2 % en une journée peu probable.",
+   "ouverture": "2026-10-16T18:01:32.782083+00:00"
+  },
+  {
+   "id": "682706",
+   "event": "81557",
+   "question": "Will Naftali Bennett be the next Prime Minister of Israel?",
+   "regles": "Legislative elections are schedule to be held in Israel on October 27, 2026. \n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of Israel following the 2026 parliamentary election. If an election is called early, this market will immediately resolve to the individual who is officially appointed and sworn in after that election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2027, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of Israel; however, a consensus of credible reporting may also be used.",
+   "p_yes": 0.145,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "slug": "will-naftali-bennett-be-the-next-prime-minister-of-israel",
+   "cote": "NO",
+   "prix": 0.865,
+   "mise": 43.5,
+   "p_ia": 0.1,
+   "categorie": "Sûr",
+   "raison": "Les sondages montrent Yashar en tête et Bennett ne compte qu’environ 11 sièges, et il a même déclaré être prêt à renoncer au poste de Premier ministre.",
+   "ouverture": "2026-10-16T18:01:53.663967+00:00"
   }
  ],
  "historique": [
@@ -175,6 +191,25 @@
    "pnl": -28.05,
    "cloture": "2026-10-16T17:01:01.454825+00:00",
    "categorie": "Outsider"
+  },
+  {
+   "id": "5766179",
+   "event": "1197869",
+   "question": "Will Bitcoin dip to $81,000 on October 16?",
+   "regles": "This market will immediately resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTC/USDT) on the date specified in the title, between 12:00 AM ET and 11:59 PM ET has a final \"Low\" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to \"No.\"\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Low\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+   "p_yes": 0.31,
+   "fin": "2026-10-17T04:00:00+00:00",
+   "slug": "will-bitcoin-dip-to-81k-on-october-16-2026",
+   "cote": "NO",
+   "prix": 0.7,
+   "mise": 27.77,
+   "p_ia": 0.02,
+   "categorie": "Équilibré",
+   "raison": "Le plus bas quotidien du 16 octobre 2026 était de 82 101,98 $, bien au-dessus de 81 000 $, rendant très improbable une chute à ce niveau.",
+   "ouverture": "2026-10-16T14:01:13.403318+00:00",
+   "resultat": 1.0,
+   "pnl": -27.77,
+   "cloture": "2026-10-16T18:00:59.078807+00:00"
   }
  ],
  "predictions": [
@@ -619,6 +654,24 @@
    "p_yes": 0.365,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-16T17:26:46.238990+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5506689",
+   "question": "Will the price of Bitcoin be above $80,000 on October 17?",
+   "p_ia": 0.73,
+   "p_yes": 0.913,
+   "fin": "2026-10-17T16:00:00+00:00",
+   "date": "2026-10-16T18:01:32.781932+00:00",
+   "recherche": true
+  },
+  {
+   "id": "682706",
+   "question": "Will Naftali Bennett be the next Prime Minister of Israel?",
+   "p_ia": 0.1,
+   "p_yes": 0.145,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-16T18:01:53.663822+00:00",
    "recherche": true
   }
  ]
