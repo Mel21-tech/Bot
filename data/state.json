@@ -577,6 +577,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-16T14:01:29.024449+00:00",
    "recherche": true
+  },
+  {
+   "id": "5650402",
+   "question": "Katie Zacharia out as Press Secretary by October 31?",
+   "p_ia": 0.15,
+   "p_yes": 0.1125,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-16T15:01:25.648786+00:00",
+   "recherche": true
   }
  ]
 }
