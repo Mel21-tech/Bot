@@ -1,13 +1,13 @@
-# 📊 Rapport du bot
-_Mis à jour : 16/10/2026 11:45 UTC_
+# 📊 Rapport du bot (argent FICTIF)
+_Mis à jour : 16/10/2026 12:03 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **925.76 $** (-7.4 %) |
-| Disponible | 705.05 $ |
-| Engagé | 220.71 $ sur 6 positions |
+| Disponible | 658.76 $ |
+| Engagé | 267.00 $ sur 7 positions |
 | Trades clôturés | 3 · gagnés 1 (33 %) |
 | Gains/pertes réalisés | -74.24 $ |
 
@@ -15,7 +15,7 @@ _Mis à jour : 16/10/2026 11:45 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 0 (0 $) |
+| 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 1 (46 $) |
 | ⚖️ Équilibré | 1 | 0 (0 %) | 45.46 $ | -45.46 $ | -100.0 % | 1 (43 $) |
 | 🎲 Outsider | 1 | 0 (0 %) | 33.00 $ | -33.00 $ | -100.0 % | 5 (178 $) |
 
@@ -28,6 +28,12 @@ Prédictions résolues : **8** · Score Brier IA **0.2897** vs marché **0.2037*
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
 ## 📂 Positions ouvertes
+
+### 🛡️ Sûr (1)
+
+| Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
+|---|---|---|---|---|---|---|---|
+| US-Iran ceasefire continues through the midterms? | 04/11 | YES | 0.79 | 46.29 $ | +12.68 $ | 85% | 78% |
 
 ### ⚖️ Équilibré (1)
 

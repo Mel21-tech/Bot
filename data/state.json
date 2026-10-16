@@ -1,5 +1,5 @@
 {
- "capital": 705.0499441340783,
+ "capital": 658.7599441340783,
  "positions": [
   {
    "id": "2589812",
@@ -86,6 +86,22 @@
    "categorie": "Outsider",
    "raison": "Les sondages montrent un avantage démocrate de 62 % pour le Sénat, tandis que le prix du WTI est proche de 80 $ avec une probabilité d’environ 40 % de tomber sous ce seuil, donnant une probabilité conjointe d’environ 15 %.",
    "ouverture": "2026-10-16T11:31:41.562119+00:00"
+  },
+  {
+   "id": "5447182",
+   "event": "1156710",
+   "question": "US-Iran ceasefire continues through the midterms?",
+   "regles": "This market will resolve to “No” if the United States takes a qualifying military action against Iran by November 3, 2026, 11:59 PM ET. Otherwise this market will resolve to “Yes.”\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the United States, that directly impacts Iran. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Iran do not constitute a military action regardless of any damage incurred.\n\n“Iran” refers to the terrestrial territory of Iran, including its internal waters. Iran’s maritime territory and airspace are not encompassed. Where territorial borders are disp",
+   "p_yes": 0.775,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "us-iran-ceasefire-continues-through-the-midterms",
+   "cote": "YES",
+   "prix": 0.785,
+   "mise": 46.29,
+   "p_ia": 0.85,
+   "categorie": "Sûr",
+   "raison": "Les États‑Unis n'ont pas mené d'attaque directe sur le territoire iranien depuis 2020 et évitent généralement d'escalader avant les élections, rendant une nouvelle frappe qualifiée avant les midterms peu probable.",
+   "ouverture": "2026-10-16T12:01:17.154842+00:00"
   }
  ],
  "historique": [
@@ -490,6 +506,15 @@
    "p_yes": 0.375,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-16T11:43:14.882428+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5447182",
+   "question": "US-Iran ceasefire continues through the midterms?",
+   "p_ia": 0.85,
+   "p_yes": 0.775,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-16T12:01:17.154635+00:00",
    "recherche": true
   }
  ]
