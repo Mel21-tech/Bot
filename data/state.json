@@ -812,6 +812,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-17T06:01:59.905699+00:00",
    "recherche": true
+  },
+  {
+   "id": "5572738",
+   "question": "Will there be a Hormuz agreement and the Democrats win the Senate?",
+   "p_ia": 0.1,
+   "p_yes": 0.0385,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-17T07:01:33.290833+00:00",
+   "recherche": true
   }
  ]
 }
