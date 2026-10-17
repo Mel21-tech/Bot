@@ -741,6 +741,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-17T02:01:44.632853+00:00",
    "recherche": true
+  },
+  {
+   "id": "5686979",
+   "question": "US x Iran ceasefire continues through October 22?",
+   "p_ia": 0.91,
+   "p_yes": 0.895,
+   "fin": "2026-10-23T03:59:00+00:00",
+   "date": "2026-10-17T03:01:04.703377+00:00",
+   "recherche": true
   }
  ]
 }
