@@ -830,6 +830,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-17T08:02:21.490385+00:00",
    "recherche": true
+  },
+  {
+   "id": "5611881",
+   "question": "Will oil be at least $85 on November 2 and the Republicans win the Senate?",
+   "p_ia": 0.2,
+   "p_yes": 0.3025,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-17T09:01:12.994909+00:00",
+   "recherche": true
   }
  ]
 }
