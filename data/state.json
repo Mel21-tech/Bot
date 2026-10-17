@@ -90,22 +90,6 @@
    "ouverture": "2026-10-16T12:01:17.154842+00:00"
   },
   {
-   "id": "5506689",
-   "event": "1165153",
-   "question": "Will the price of Bitcoin be above $80,000 on October 17?",
-   "regles": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT closing at 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.\n\nPrice precision is determined by the number of decimal places in the source.",
-   "p_yes": 0.913,
-   "fin": "2026-10-17T16:00:00+00:00",
-   "slug": "bitcoin-above-80k-on-october-17-2026",
-   "cote": "NO",
-   "prix": 0.097,
-   "mise": 17.4,
-   "p_ia": 0.73,
-   "categorie": "Outsider",
-   "raison": "Le BTC se maintient autour de 82 000 $, légèrement au‑dessus de 80 000 $, et les prévisions d’octobre 2026 restent majoritairement haussières, rendant une chute de plus de 2 % en une journée peu probable.",
-   "ouverture": "2026-10-16T18:01:32.782083+00:00"
-  },
-  {
    "id": "682706",
    "event": "81557",
    "question": "Will Naftali Bennett be the next Prime Minister of Israel?",
@@ -258,6 +242,25 @@
    "resultat": 1.0,
    "pnl": -27.77,
    "cloture": "2026-10-16T18:00:59.078807+00:00"
+  },
+  {
+   "id": "5506689",
+   "event": "1165153",
+   "question": "Will the price of Bitcoin be above $80,000 on October 17?",
+   "regles": "This market will resolve to \"Yes\" if the Binance 1 minute candle for BTC/USDT closing at 12:00 in the ET timezone (noon) on the date specified in the title has a final \"Close\" price higher than the price specified in the title. Otherwise, this market will resolve to \"No\".\n\nThe resolution source for this market is Binance, specifically the BTC/USDT \"Close\" prices currently available at https://www.binance.com/en/trade/BTC_USDT with \"1m\" and \"Candles\" selected on the top bar.\n\nPlease note that this market is about the price according to Binance BTC/USDT, not according to other exchanges or trading pairs.\n\nPrice precision is determined by the number of decimal places in the source.",
+   "p_yes": 0.913,
+   "fin": "2026-10-17T16:00:00+00:00",
+   "slug": "bitcoin-above-80k-on-october-17-2026",
+   "cote": "NO",
+   "prix": 0.097,
+   "mise": 17.4,
+   "p_ia": 0.73,
+   "categorie": "Outsider",
+   "raison": "Le BTC se maintient autour de 82 000 $, légèrement au‑dessus de 80 000 $, et les prévisions d’octobre 2026 restent majoritairement haussières, rendant une chute de plus de 2 % en une journée peu probable.",
+   "ouverture": "2026-10-16T18:01:32.782083+00:00",
+   "resultat": 1.0,
+   "pnl": -17.4,
+   "cloture": "2026-10-17T17:00:54.954718+00:00"
   }
  ],
  "predictions": [
@@ -540,7 +543,8 @@
    "p_yes": 0.565,
    "fin": "2026-10-17T14:00:00+00:00",
    "date": "2026-10-16T07:13:27.596647+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5697539",
@@ -713,7 +717,8 @@
    "p_yes": 0.913,
    "fin": "2026-10-17T16:00:00+00:00",
    "date": "2026-10-16T18:01:32.781932+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "682706",
