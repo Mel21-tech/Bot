@@ -1,5 +1,5 @@
 {
- "capital": 500.4899441340783,
+ "capital": 474.3899441340783,
  "positions": [
   {
    "id": "2589812",
@@ -152,6 +152,22 @@
    "categorie": "Équilibré",
    "raison": "Le contrat WTI de novembre se négocie autour de 88,6 $, donc la probabilité d'un cours ≥ 85 $ est élevée (~0.8), tandis que les marchés de prédiction (Kalshi) placent les Démocrates à 52 % de chances de contrôler le Sénat, soit environ 0.55, donnant une probabilité conjointe d'environ 0.44.",
    "ouverture": "2026-10-17T02:01:44.633050+00:00"
+  },
+  {
+   "id": "2100981",
+   "event": "425728",
+   "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+   "regles": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the political party or coalition that wins the greatest number of seats in the Israeli Knesset as a result of this election.\n\nIf the results of this election are not definitively known by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties or coalitions for the most seats won, this market will resolve in favor of the party or coalition whose candidate list received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Israeli Knesset.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by Israel’s Central Election Committee (Va'adet HaBehirot HaMerkazit) (https://www.gov.il/en/departments/central-elections-committee/govil-landing-page).\n\nThe following rules govern the merging, joint contention, and splitting of listed parties:\n\n- If Likud or Together (or any successor party created through a merger) merge with or contest the election jointly with any other party, the option corresponding to Likud or Together will represent the",
+   "p_yes": 0.325,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election",
+   "cote": "NO",
+   "prix": 0.685,
+   "mise": 26.1,
+   "p_ia": 0.15,
+   "categorie": "Équilibré",
+   "raison": "Les sondages récents montrent Likud autour de 18‑20 sièges, tandis que Yashar et Together dépassent 20, ce qui rend peu probable qu’il reste le parti le plus fort.",
+   "ouverture": "2026-10-17T04:02:14.014268+00:00"
   }
  ],
  "historique": [
@@ -641,7 +657,8 @@
    "p_yes": 0.31,
    "fin": "2026-10-17T04:00:00+00:00",
    "date": "2026-10-16T14:01:13.403163+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "630963",
@@ -749,6 +766,24 @@
    "p_yes": 0.895,
    "fin": "2026-10-23T03:59:00+00:00",
    "date": "2026-10-17T03:01:04.703377+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5611880",
+   "question": "Will oil be below $85 on November 2 and the Democrats win the Senate?",
+   "p_ia": 0.04,
+   "p_yes": 0.0805,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-17T04:02:02.592310+00:00",
+   "recherche": true
+  },
+  {
+   "id": "2100981",
+   "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+   "p_ia": 0.15,
+   "p_yes": 0.325,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-17T04:02:14.014080+00:00",
    "recherche": true
   }
  ]

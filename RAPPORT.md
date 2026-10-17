@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 17/10/2026 03:03 UTC_
+_Mis à jour : 17/10/2026 04:02 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **869.94 $** (-13.0 %) |
-| Disponible | 500.49 $ |
-| Engagé | 369.45 $ sur 10 positions |
+| Disponible | 474.39 $ |
+| Engagé | 395.55 $ sur 11 positions |
 | Trades clôturés | 5 · gagnés 1 (20 %) |
 | Gains/pertes réalisés | -130.06 $ |
 
@@ -16,14 +16,14 @@ _Mis à jour : 17/10/2026 03:03 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 3 (133 $) |
-| ⚖️ Équilibré | 2 | 0 (0 %) | 73.23 $ | -73.23 $ | -100.0 % | 2 (69 $) |
+| ⚖️ Équilibré | 2 | 0 (0 %) | 73.23 $ | -73.23 $ | -100.0 % | 3 (95 $) |
 | 🎲 Outsider | 2 | 0 (0 %) | 61.05 $ | -61.05 $ | -100.0 % | 5 (167 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **11** · Score Brier IA **0.2250** vs marché **0.1516** (plus bas = meilleur)
+Prédictions résolues : **12** · Score Brier IA **0.2863** vs marché **0.1786** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
@@ -37,10 +37,11 @@ Prédictions résolues : **11** · Score Brier IA **0.2250** vs marché **0.1516
 | US-Iran ceasefire continues through the midterms? | 04/11 | YES | 0.79 | 46.29 $ | +12.68 $ | 85% | 78% |
 | 2026 Balance of Power: R Senate, D House | 04/11 | NO | 0.73 | 43.50 $ | +15.68 $ | 20% | 28% |
 
-### ⚖️ Équilibré (2)
+### ⚖️ Équilibré (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
+| Will Likud win the most seats in the 2026 Israeli legislative election | 28/10 | NO | 0.69 | 26.10 $ | +12.00 $ | 15% | 32% |
 | Will WTI Crude Oil (WTI) hit (HIGH) $100 in October? | 01/11 | NO | 0.56 | 43.19 $ | +34.63 $ | 4% | 46% |
 | Will oil be at least $85 on November 2 and the Democrats win the Senat | 04/11 | NO | 0.41 | 26.10 $ | +37.10 $ | 44% | 60% |
 
