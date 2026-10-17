@@ -1,5 +1,5 @@
 {
- "capital": 526.5899441340783,
+ "capital": 500.4899441340783,
  "positions": [
   {
    "id": "2589812",
@@ -136,6 +136,22 @@
    "categorie": "Sûr",
    "raison": "Les prévisions montrent 29 % de chances de contrôle républicain du Sénat et 81 % de chances de majorité démocrate à la Chambre, mais les deux issues sont corrélées, rendant la combinaison R‑Sénat/D‑Chambre moins probable que le simple produit, d'où une estimation d'environ 20 %.",
    "ouverture": "2026-10-16T21:01:24.196373+00:00"
+  },
+  {
+   "id": "5611882",
+   "event": "1177878",
+   "question": "Will oil be at least $85 on November 2 and the Democrats win the Senate?",
+   "regles": "This market will resolve to \"Oil < $85; R Senate\" if oil is less than $85 at the close of trading on November 2, 2026, and the Republican Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil < $85; D Senate\" if oil is less than $85 at the close of trading on November 2, 2026, and the Democratic Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil ≥ $85; R Senate\" if oil is greater than or equal to $85 at the close of trading on November 2, 2026, and the Republican Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Oil ≥ $85; D Senate\" if oil is greater than or equal to $85 at the close of trading on November 2, 2026, and the Democratic Party wins control of the United States Senate in the 2026 United States midterm election.\n\nOil price: The oil price component will be determined based on the Close price for the Active Month of ICE Futures Europe WTI Crude Futures (denoted by Pyth as \"CLL\") for the November 2, 2026 trading day.\n\nFor a standard full trading session, the closing price refers to the Pyth \"Close\" value of the 1-minute candle corresponding to the final minute of regular trading hours on the primary exchange. Closing prices will be used exactly as published by Pyth, without rounding.\n\nIf the Active Month contract does not trade at all during the relevant t",
+   "p_yes": 0.5965,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "oil-at-least-85-on-november-2-and-the-democrats-win-the-senate",
+   "cote": "NO",
+   "prix": 0.413,
+   "mise": 26.1,
+   "p_ia": 0.44,
+   "categorie": "Équilibré",
+   "raison": "Le contrat WTI de novembre se négocie autour de 88,6 $, donc la probabilité d'un cours ≥ 85 $ est élevée (~0.8), tandis que les marchés de prédiction (Kalshi) placent les Démocrates à 52 % de chances de contrôler le Sénat, soit environ 0.55, donnant une probabilité conjointe d'environ 0.44.",
+   "ouverture": "2026-10-17T02:01:44.633050+00:00"
   }
  ],
  "historique": [
@@ -715,6 +731,15 @@
    "p_yes": 0.315,
    "fin": "2026-10-17T11:30:00+00:00",
    "date": "2026-10-16T23:01:21.635135+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5611882",
+   "question": "Will oil be at least $85 on November 2 and the Democrats win the Senate?",
+   "p_ia": 0.44,
+   "p_yes": 0.5965,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-17T02:01:44.632853+00:00",
    "recherche": true
   }
  ]
