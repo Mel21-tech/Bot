@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 18/10/2026 04:01 UTC_
+_Mis à jour : 18/10/2026 05:03 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **852.54 $** (-14.7 %) |
-| Disponible | 453.35 $ |
-| Engagé | 399.19 $ sur 12 positions |
+| Disponible | 427.77 $ |
+| Engagé | 424.77 $ sur 13 positions |
 | Trades clôturés | 6 · gagnés 1 (17 %) |
 | Gains/pertes réalisés | -147.46 $ |
 
@@ -16,7 +16,7 @@ _Mis à jour : 18/10/2026 04:01 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 3 (133 $) |
-| ⚖️ Équilibré | 2 | 0 (0 %) | 73.23 $ | -73.23 $ | -100.0 % | 3 (95 $) |
+| ⚖️ Équilibré | 2 | 0 (0 %) | 73.23 $ | -73.23 $ | -100.0 % | 4 (121 $) |
 | 🎲 Outsider | 3 | 0 (0 %) | 78.45 $ | -78.45 $ | -100.0 % | 6 (171 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
@@ -37,10 +37,11 @@ Prédictions résolues : **17** · Score Brier IA **0.2827** vs marché **0.1626
 | US-Iran ceasefire continues through the midterms? | 04/11 | YES | 0.79 | 46.29 $ | +12.68 $ | 85% | 78% |
 | 2026 Balance of Power: R Senate, D House | 04/11 | NO | 0.73 | 43.50 $ | +15.68 $ | 20% | 28% |
 
-### ⚖️ Équilibré (3)
+### ⚖️ Équilibré (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
+| Will Olympique Lyonnais win on 2026-10-18? | 18/10 | YES | 0.52 | 25.58 $ | +24.09 $ | 68% | 50% |
 | Will Likud win the most seats in the 2026 Israeli legislative election | 28/10 | NO | 0.69 | 26.10 $ | +12.00 $ | 15% | 32% |
 | Will WTI Crude Oil (WTI) hit (HIGH) $100 in October? | 01/11 | NO | 0.56 | 43.19 $ | +34.63 $ | 4% | 46% |
 | Will oil be at least $85 on November 2 and the Democrats win the Senat | 04/11 | NO | 0.41 | 26.10 $ | +37.10 $ | 44% | 60% |

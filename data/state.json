@@ -1,5 +1,5 @@
 {
- "capital": 453.34994413407827,
+ "capital": 427.7699441340783,
  "positions": [
   {
    "id": "2589812",
@@ -184,6 +184,22 @@
    "categorie": "Outsider",
    "raison": "Les sondages nationaux montrent un avantage de 8 points aux Démocrates (51 % vs 43 %) et les évaluations des courses indiquent que les Démocrates ont déjà 196 sièges sûrs contre 159 pour les Républicains, nécessitant un gain net de seulement trois sièges pour reprendre la Chambre, ce qui rend probable une perte de contrôle républicaine.",
    "ouverture": "2026-10-18T04:01:06.564197+00:00"
+  },
+  {
+   "id": "5311944",
+   "event": "1134923",
+   "question": "Will Olympique Lyonnais win on 2026-10-18?",
+   "regles": "In the upcoming game, scheduled for October 18, 2026\nIf Olympique Lyonnais wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.505,
+   "fin": "2026-10-18T18:45:00+00:00",
+   "slug": "fl1-lyo-ogc-2026-10-18-lyo",
+   "cote": "YES",
+   "prix": 0.515,
+   "mise": 25.58,
+   "p_ia": 0.68,
+   "categorie": "Équilibré",
+   "raison": "Lyon a une forme à domicile forte, Nice a une mauvaise performance à l'extérieur et Lyon domine les confrontations récentes.",
+   "ouverture": "2026-10-18T05:01:21.516318+00:00"
   }
  ],
  "historique": [
@@ -950,6 +966,33 @@
    "p_yes": 0.095,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-18T04:01:06.564032+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5308198",
+   "question": "Will Juventus FC win on 2026-10-18?",
+   "p_ia": 0.57,
+   "p_yes": 0.595,
+   "fin": "2026-10-18T18:45:00+00:00",
+   "date": "2026-10-18T05:01:13.593820+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5311944",
+   "question": "Will Olympique Lyonnais win on 2026-10-18?",
+   "p_ia": 0.68,
+   "p_yes": 0.505,
+   "fin": "2026-10-18T18:45:00+00:00",
+   "date": "2026-10-18T05:01:21.516126+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5315589",
+   "question": "Will Sevilla FC win on 2026-10-18?",
+   "p_ia": 0.1,
+   "p_yes": 0.085,
+   "fin": "2026-10-18T19:00:00+00:00",
+   "date": "2026-10-18T05:03:02.938181+00:00",
    "recherche": true
   }
  ]
