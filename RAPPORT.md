@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 08:02 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 08:25 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1000.00 $** (+0.0 %) |
-| Disponible | 950.00 $ |
-| Engagé | 50.00 $ sur 1 positions |
+| Disponible | 900.00 $ |
+| Engagé | 100.00 $ sur 2 positions |
 | Trades clôturés | 0 · gagnés 0 |
 | Gains/pertes réalisés | +0.00 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 08:02 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 0 | 0 | 0.00 $ | +0.00 $ | – | 1 (50 $) |
+| 🛡️ Sûr | 0 | 0 | 0.00 $ | +0.00 $ | – | 2 (100 $) |
 | ⚖️ Équilibré | 0 | 0 | 0.00 $ | +0.00 $ | – | 0 (0 $) |
 | 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 0 (0 $) |
 
@@ -27,11 +27,12 @@ Aucune prédiction résolue pour l'instant.
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (1)
+### 🛡️ Sûr (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
+| NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 
 ## 🧾 15 derniers trades clôturés
 

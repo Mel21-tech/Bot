@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 950.0,
+ "capital": 900.0,
  "positions": [
   {
    "id": "682705",
@@ -18,6 +18,22 @@
    "categorie": "Sûr",
    "raison": "Les sondages d’octobre montrent l’opposition de Gadi Eisenkot en avance sur Likud, et les analystes prévoient que Netanyahu ne pourra pas former une majorité, rendant son accession au poste de Premier ministre très improbable.",
    "ouverture": "2026-10-18T07:22:11.984958+00:00"
+  },
+  {
+   "id": "3120760",
+   "event": "48930",
+   "question": "NATO x Russia military clash by October 31, 2026?",
+   "regles": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of a NATO country and Russia between market creation and October 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between NATO and Russian military forces. Non-violent actions, such as airspace violations, firing of warning shots (such as the June, 2021 Black Sea Confrontations between Russian forces and HMS Defender), or cyberattacks will not qualify.\n\nInterception of missiles or other one-way attack or loitering munitions (e.g. Shahed drones) which are targeting a 3rd party other than the listed countries or their respective forces will not alone qualify. Shooting down UAVs which are not munitions (e.g. MQ-9, Orlan 10, Orion, Bayraktar TB2, etc.) will qualify.\n\nIntentional physical collisions, including aerial interceptions and naval ramming without the direct use of weaponry, such as the 2023 Black Sea incident—where a Russian Su-27 damaged a U.S. MQ-9 Reaper drone's propeller, leading to its crash— will not qualify regardless of damage.\n\nMilitary contractors will qualify only if confirmed to be operating under the direct command or coordination of the respective state’s armed forces (e.g. the Battle of Khasham would not qualify).\n\nThe resolution source for this market will be a ",
+   "p_yes": 0.085,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "slug": "nato-x-russia-military-clash-by-october-31-2026",
+   "cote": "NO",
+   "prix": 0.925,
+   "mise": 50.0,
+   "p_ia": 0.04,
+   "categorie": "Sûr",
+   "raison": "Aucun incident militaire direct n’a été signalé avant le 31 octobre 2026, et les déclarations actuelles indiquent un risque faible mais non nul.",
+   "ouverture": "2026-10-18T08:24:59.777590+00:00"
   }
  ],
  "historique": [],
@@ -47,6 +63,24 @@
    "p_yes": 0.195,
    "fin": "2026-11-01T03:59:00+00:00",
    "date": "2026-10-18T08:01:34.914528+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5340069",
+   "question": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
+   "p_ia": 0.07,
+   "p_yes": 0.0905,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "date": "2026-10-18T08:23:34.102614+00:00",
+   "recherche": true
+  },
+  {
+   "id": "3120760",
+   "question": "NATO x Russia military clash by October 31, 2026?",
+   "p_ia": 0.04,
+   "p_yes": 0.085,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-18T08:24:59.777345+00:00",
    "recherche": true
   }
  ]
