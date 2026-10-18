@@ -211,6 +211,15 @@
    "fin": "2026-10-28T03:59:00+00:00",
    "date": "2026-10-18T16:01:25.821403+00:00",
    "recherche": true
+  },
+  {
+   "id": "2589813",
+   "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+   "p_ia": 0.18,
+   "p_yes": 0.135,
+   "fin": "2026-10-29T03:59:00+00:00",
+   "date": "2026-10-18T17:01:25.789128+00:00",
+   "recherche": true
   }
  ]
 }
