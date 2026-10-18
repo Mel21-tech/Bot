@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Mis à jour : 18/10/2026 00:00 UTC_
+_Mis à jour : 18/10/2026 01:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **852.54 $** (-14.7 %) |
-| Disponible | 474.39 $ |
-| Engagé | 378.15 $ sur 10 positions |
+| Disponible | 457.34 $ |
+| Engagé | 395.20 $ sur 11 positions |
 | Trades clôturés | 6 · gagnés 1 (17 %) |
 | Gains/pertes réalisés | -147.46 $ |
 
@@ -17,7 +17,7 @@ _Mis à jour : 18/10/2026 00:00 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 1 | 1 (100 %) | 35.97 $ | +4.22 $ | +11.7 % | 3 (133 $) |
 | ⚖️ Équilibré | 2 | 0 (0 %) | 73.23 $ | -73.23 $ | -100.0 % | 3 (95 $) |
-| 🎲 Outsider | 3 | 0 (0 %) | 78.45 $ | -78.45 $ | -100.0 % | 4 (149 $) |
+| 🎲 Outsider | 3 | 0 (0 %) | 78.45 $ | -78.45 $ | -100.0 % | 5 (167 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
@@ -45,11 +45,12 @@ Prédictions résolues : **16** · Score Brier IA **0.2603** vs marché **0.1724
 | Will WTI Crude Oil (WTI) hit (HIGH) $100 in October? | 01/11 | NO | 0.56 | 43.19 $ | +34.63 $ | 4% | 46% |
 | Will oil be at least $85 on November 2 and the Democrats win the Senat | 04/11 | NO | 0.41 | 26.10 $ | +37.10 $ | 44% | 60% |
 
-### 🎲 Outsider (4)
+### 🎲 Outsider (5)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | NO | 0.27 | 47.85 $ | +128.07 $ | 8% | 74% |
+| Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazil | 26/10 | YES | 0.20 | 17.05 $ | +66.12 $ | 33% | 20% |
 | Will there be no change in Fed interest rates after the October 2026 m | 29/10 | NO | 0.21 | 42.99 $ | +156.96 $ | 65% | 80% |
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 40.11 $ | +341.89 $ | 72% | 90% |
 | Will oil be below $80 on November 2 and the Republicans win the Senate | 04/11 | YES | 0.04 | 18.52 $ | +402.39 $ | 15% | 3% |
