@@ -159,6 +159,15 @@
    "fin": "2026-10-22T03:59:00+00:00",
    "date": "2026-10-18T12:01:51.656141+00:00",
    "recherche": true
+  },
+  {
+   "id": "5340072",
+   "question": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
+   "p_ia": 0.19,
+   "p_yes": 0.185,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "date": "2026-10-18T13:01:06.150315+00:00",
+   "recherche": true
   }
  ]
 }
