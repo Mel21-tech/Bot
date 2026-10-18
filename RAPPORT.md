@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 10:04 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 11:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1000.00 $** (+0.0 %) |
-| Disponible | 873.58 $ |
-| Engagé | 126.42 $ sur 3 positions |
+| Disponible | 853.58 $ |
+| Engagé | 146.42 $ sur 4 positions |
 | Trades clôturés | 0 · gagnés 0 |
 | Gains/pertes réalisés | +0.00 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 10:04 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 0 | 0 | 0.00 $ | +0.00 $ | – | 2 (100 $) |
 | ⚖️ Équilibré | 0 | 0 | 0.00 $ | +0.00 $ | – | 1 (26 $) |
-| 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 0 (0 $) |
+| 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 1 (20 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
@@ -39,6 +39,12 @@ Aucune prédiction résolue pour l'instant.
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | 2026 Balance of Power: D Senate, D House | 04/11 | NO | 0.39 | 26.42 $ | +42.20 $ | 55% | 62% |
+
+### 🎲 Outsider (1)
+
+| Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
+|---|---|---|---|---|---|---|---|
+| Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
 
 ## 🧾 15 derniers trades clôturés
 
