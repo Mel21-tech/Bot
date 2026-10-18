@@ -916,6 +916,15 @@
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-18T01:01:05.395469+00:00",
    "recherche": true
+  },
+  {
+   "id": "3758964",
+   "question": "Bab el-Mandeb Strait effectively closed by October 31?",
+   "p_ia": 0.04,
+   "p_yes": 0.0635,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-18T02:01:44.561440+00:00",
+   "recherche": true
   }
  ]
 }
