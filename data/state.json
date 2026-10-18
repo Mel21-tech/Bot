@@ -220,6 +220,24 @@
    "fin": "2026-10-29T03:59:00+00:00",
    "date": "2026-10-18T17:01:25.789128+00:00",
    "recherche": true
+  },
+  {
+   "id": "2589812",
+   "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+   "p_ia": 0.85,
+   "p_yes": 0.865,
+   "fin": "2026-10-29T03:59:00+00:00",
+   "date": "2026-10-18T18:01:23.501254+00:00",
+   "recherche": true
+  },
+  {
+   "id": "3399459",
+   "question": "Israel x Iran ceasefire continues through October 31?",
+   "p_ia": 0.02,
+   "p_yes": 0.855,
+   "fin": "2026-10-31T20:29:00+00:00",
+   "date": "2026-10-18T18:01:50.008685+00:00",
+   "recherche": true
   }
  ]
 }
