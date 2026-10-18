@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 853.58,
+ "capital": 823.58,
  "positions": [
   {
    "id": "682705",
@@ -66,6 +66,22 @@
    "categorie": "Outsider",
    "raison": "Les modèles actuels prévoient une majorité démocrate avec environ 70 % de probabilité.",
    "ouverture": "2026-10-18T11:01:35.212207+00:00"
+  },
+  {
+   "id": "5732709",
+   "event": "1194438",
+   "question": "Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?",
+   "regles": "This market will resolve according to the number of views the Grand Theft Auto VI Launch Trailer video gets in the first 7 days after being posted on the Rockstar Games YouTube channel. This market may not resolve until the 7 days are complete, regardless of whether a strike is reached earlier.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe resolution source for this market is Rockstar Games' YouTube channel (https://www.youtube.com/@RockstarGames), specifically the 'views' counter for the described video.\n\nNote: This market refers only to the \"Grand Theft Auto VI Launch Trailer\" video posted by Rockstar Games (see: https://www.youtube.com/watch?v=rz1B4B2yBZY).",
+   "p_yes": 0.58,
+   "fin": "2026-10-23T03:59:00+00:00",
+   "slug": "will-grand-theft-auto-vi-launch-trailer-get-between-40-and-60-million-views-on-week-1",
+   "cote": "NO",
+   "prix": 0.43,
+   "mise": 30.0,
+   "p_ia": 0.35,
+   "categorie": "Équilibré",
+   "raison": "Après 3 jours le trailer compte déjà 40,8 M de vues ; pour rester sous 60 M il faudrait moins de 4,8 M de vues par jour pendant les 4 jours restants, ce qui semble improbable compte tenu du fort engouement initial.",
+   "ouverture": "2026-10-18T16:01:15.573904+00:00"
   }
  ],
  "historique": [],
@@ -176,6 +192,24 @@
    "p_yes": 0.0445,
    "fin": "2026-11-01T03:59:00+00:00",
    "date": "2026-10-18T14:01:27.668595+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5732709",
+   "question": "Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?",
+   "p_ia": 0.35,
+   "p_yes": 0.58,
+   "fin": "2026-10-23T03:59:00+00:00",
+   "date": "2026-10-18T16:01:15.573737+00:00",
+   "recherche": true
+  },
+  {
+   "id": "682706",
+   "question": "Will Naftali Bennett be the next Prime Minister of Israel?",
+   "p_ia": 0.18,
+   "p_yes": 0.145,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-18T16:01:25.821403+00:00",
    "recherche": true
   }
  ]
