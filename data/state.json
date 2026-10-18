@@ -1,5 +1,5 @@
 {
- "capital": 457.3399441340783,
+ "capital": 453.34994413407827,
  "positions": [
   {
    "id": "2589812",
@@ -168,6 +168,22 @@
    "categorie": "Outsider",
    "raison": "Les derniers sondages (ex. Poll+Trend du 15 oct., MDA du 13‑15 oct., PoderData du même jour) montrent une course très serrée, souvent avec Bolsonaro légèrement en tête, et le premier tour était déjà très proche (43 % vs 42 %). Ainsi, la probabilité que Lula l'emporte et que l'écart soit inférieur à 4 % est d'environ 30 %.",
    "ouverture": "2026-10-18T01:01:05.395649+00:00"
+  },
+  {
+   "id": "562803",
+   "event": "32225",
+   "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+   "regles": "This market will resolve according to the party that wins control of the United States House of Representatives in the 2026 United States midterm election.\n\nA party wins control of the United States House of Representatives if it wins a majority of the chamber’s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first elected Speaker of the House of the Congress that convenes after the 2026 midterm election is affiliated.\n\nThe following rules govern the counting of seats for determining which party wins control of the chamber.\n\nAll House elections in the 2026 United States midterm election that elect voting members and determine representation in the upcoming 120th Congress are included. Where a seat is decided by a runoff, the runoff result will determine attribution of that seat.\n\nSeats are attributed to the party under which the member was elected. If a member-elect changes party affiliation, or vacates their seat, between election day and the formal organization of Congress, the seat is attributed to the party under which the member was elected.\n\nHouse members elected as independents who formally caucus with, or, for newly elected members, who announce their intent to caucus with, a party are included in that party’s count. If the caucus decisions of members of the House elected as independents cannot be determined on the date of the election, this market may remain open until the earlier of (i) an ",
+   "p_yes": 0.095,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+   "cote": "YES",
+   "prix": 0.105,
+   "mise": 3.99,
+   "p_ia": 0.27,
+   "categorie": "Outsider",
+   "raison": "Les sondages nationaux montrent un avantage de 8 points aux Démocrates (51 % vs 43 %) et les évaluations des courses indiquent que les Démocrates ont déjà 196 sièges sûrs contre 159 pour les Républicains, nécessitant un gain net de seulement trois sièges pour reprendre la Chambre, ce qui rend probable une perte de contrôle républicaine.",
+   "ouverture": "2026-10-18T04:01:06.564197+00:00"
   }
  ],
  "historique": [
@@ -504,7 +520,8 @@
    "p_yes": 0.9325,
    "fin": "2026-10-18T03:59:00+00:00",
    "date": "2026-10-15T22:22:41.829161+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5170739",
@@ -924,6 +941,15 @@
    "p_yes": 0.0635,
    "fin": "2026-11-01T03:59:00+00:00",
    "date": "2026-10-18T02:01:44.561440+00:00",
+   "recherche": true
+  },
+  {
+   "id": "562803",
+   "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+   "p_ia": 0.27,
+   "p_yes": 0.095,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-18T04:01:06.564032+00:00",
    "recherche": true
   }
  ]
