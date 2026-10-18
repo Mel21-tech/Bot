@@ -30,6 +30,24 @@
    "fin": "2026-10-28T03:59:00+00:00",
    "date": "2026-10-18T07:22:11.984795+00:00",
    "recherche": true
+  },
+  {
+   "id": "4641065",
+   "question": "US x Iran ceasefire continues through October 31?",
+   "p_ia": 0.02,
+   "p_yes": 0.815,
+   "fin": "2026-10-31T23:59:00+00:00",
+   "date": "2026-10-18T08:01:15.872492+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5784290",
+   "question": "Next White House Press Secretary announced by October 31, 2026?",
+   "p_ia": 0.99,
+   "p_yes": 0.195,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-18T08:01:34.914528+00:00",
+   "recherche": true
   }
  ]
 }
