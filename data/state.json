@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 823.58,
+ "capital": 783.58,
  "positions": [
   {
    "id": "682705",
@@ -82,6 +82,38 @@
    "categorie": "Équilibré",
    "raison": "Après 3 jours le trailer compte déjà 40,8 M de vues ; pour rester sous 60 M il faudrait moins de 4,8 M de vues par jour pendant les 4 jours restants, ce qui semble improbable compte tenu du fort engouement initial.",
    "ouverture": "2026-10-18T16:01:15.573904+00:00"
+  },
+  {
+   "id": "5686979",
+   "event": "1038648",
+   "question": "US x Iran ceasefire continues through October 22?",
+   "regles": "This market will resolve to “No” if the United States takes a qualifying military action against Iran by the specified date, 11:59 PM Iran Standard Time. Otherwise this market will resolve to “Yes.”\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the United States, that directly impacts Iran. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Iran do not constitute a military action regardless of any damage incurred.\n\n“Iran” refers to the terrestrial territory of Iran, including its internal waters. Iran’s maritime territory and airspace are not encompassed. Where territoria",
+   "p_yes": 0.935,
+   "fin": "2026-10-23T03:59:00+00:00",
+   "slug": "us-x-iran-ceasefire-continues-through-october-22",
+   "cote": "NO",
+   "prix": 0.075,
+   "mise": 20.0,
+   "p_ia": 0.81,
+   "categorie": "Outsider",
+   "raison": "Les négociations en cours et l'absence d'actions militaires récentes rendent improbable une frappe américaine qualifiée avant le 22 octobre, bien que la tension persiste.",
+   "ouverture": "2026-10-18T22:01:09.412987+00:00"
+  },
+  {
+   "id": "4824600",
+   "event": "1061332",
+   "question": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+   "regles": "Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.\n\nThis market will resolve to the electoral list that wins the greatest number of seats in the National Assembly of Serbia as a result of this election.\n\nElectoral lists will be primarily ranked by the number of seats won in the specified election. If two or more lists are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If lists remain tied, ties will be broken by alphabetical order of the listed names. This market will resolve to the list that occupies the highest finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named electoral list, as it appears on the ballot and official proclamations, regardless of which parties make up the list or how its members later organize themselves in the National Assembly.\n\nIf the results of the specified election are not definitively known by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Republic Electoral Commission of Serbia (https://www.rik.parlament.gov.rs/).",
+   "p_yes": 0.695,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "slug": "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+   "cote": "NO",
+   "prix": 0.315,
+   "mise": 20.0,
+   "p_ia": 0.4,
+   "categorie": "Outsider",
+   "raison": "Les sondages sont très divergents, aucune tendance claire.",
+   "ouverture": "2026-10-18T22:01:44.088461+00:00"
   }
  ],
  "historique": [],
@@ -237,6 +269,24 @@
    "p_yes": 0.855,
    "fin": "2026-10-31T20:29:00+00:00",
    "date": "2026-10-18T18:01:50.008685+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5686979",
+   "question": "US x Iran ceasefire continues through October 22?",
+   "p_ia": 0.81,
+   "p_yes": 0.935,
+   "fin": "2026-10-23T03:59:00+00:00",
+   "date": "2026-10-18T22:01:09.412798+00:00",
+   "recherche": true
+  },
+  {
+   "id": "4824600",
+   "question": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+   "p_ia": 0.4,
+   "p_yes": 0.695,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "date": "2026-10-18T22:01:44.088279+00:00",
    "recherche": true
   }
  ]

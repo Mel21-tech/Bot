@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 21:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 22:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1000.00 $** (+0.0 %) |
-| Disponible | 823.58 $ |
-| Engagé | 176.42 $ sur 5 positions |
+| Disponible | 783.58 $ |
+| Engagé | 216.42 $ sur 7 positions |
 | Trades clôturés | 0 · gagnés 0 |
 | Gains/pertes réalisés | +0.00 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 18/10/2026 21:00 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 0 | 0 | 0.00 $ | +0.00 $ | – | 2 (100 $) |
 | ⚖️ Équilibré | 0 | 0 | 0.00 $ | +0.00 $ | – | 2 (56 $) |
-| 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 1 (20 $) |
+| 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 3 (60 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
@@ -41,10 +41,12 @@ Aucune prédiction résolue pour l'instant.
 | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | 23/10 | NO | 0.43 | 30.00 $ | +39.77 $ | 35% | 58% |
 | 2026 Balance of Power: D Senate, D House | 04/11 | NO | 0.39 | 26.42 $ | +42.20 $ | 55% | 62% |
 
-### 🎲 Outsider (1)
+### 🎲 Outsider (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
+| US x Iran ceasefire continues through October 22? | 23/10 | NO | 0.07 | 20.00 $ | +246.67 $ | 81% | 94% |
+| Will Aleksandar Vučić – United Serbia win the most seats in the 2026 S | 25/10 | NO | 0.32 | 20.00 $ | +43.49 $ | 40% | 70% |
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
 
 ## 🧾 15 derniers trades clôturés
