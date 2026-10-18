@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 783.58,
+ "capital": 753.58,
  "positions": [
   {
    "id": "682705",
@@ -114,6 +114,22 @@
    "categorie": "Outsider",
    "raison": "Les sondages sont très divergents, aucune tendance claire.",
    "ouverture": "2026-10-18T22:01:44.088461+00:00"
+  },
+  {
+   "id": "5340070",
+   "event": "1138953",
+   "question": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4–8%?",
+   "regles": "The second round of the presidential election is scheduled to take place in Brazil on October 25, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the second round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the “margin of victory” is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf a candidate other than Flávio Bolsonaro or Luiz Inácio Lula da Silva receives the most valid votes in the second round, or if the top two candidates receive exactly the same number of valid votes, this market will resolve to \"Other\".\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of cre",
+   "p_yes": 0.315,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "slug": "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-48",
+   "cote": "NO",
+   "prix": 0.695,
+   "mise": 30.0,
+   "p_ia": 0.12,
+   "categorie": "Équilibré",
+   "raison": "Les derniers sondages montrent des écarts très variables autour de 0 % – 2 % et rares fois 5 % en faveur de Flávio, ce qui rend une victoire de 4–8 % peu probable mais plausible.",
+   "ouverture": "2026-10-18T23:01:05.180604+00:00"
   }
  ],
  "historique": [],
@@ -287,6 +303,15 @@
    "p_yes": 0.695,
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-18T22:01:44.088279+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5340070",
+   "question": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4–8%?",
+   "p_ia": 0.12,
+   "p_yes": 0.315,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "date": "2026-10-18T23:01:05.180341+00:00",
    "recherche": true
   }
  ]
