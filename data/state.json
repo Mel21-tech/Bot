@@ -613,6 +613,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T19:01:51.860970+00:00",
    "recherche": true
+  },
+  {
+   "id": "1235552",
+   "question": "Will the Cleveland Guardians win the 2026 World Series?",
+   "p_ia": 0.14,
+   "p_yes": 0.052,
+   "fin": "2026-10-31T23:55:00+00:00",
+   "date": "2026-10-19T21:01:07.918954+00:00",
+   "recherche": true
   }
  ]
 }
