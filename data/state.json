@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 603.58,
+ "capital": 573.58,
  "positions": [
   {
    "id": "682705",
@@ -194,6 +194,22 @@
    "categorie": "Sûr",
    "raison": "Le ministre de l'Intérieur a annoncé des couvre-feux partiels à Lille dès le 19‑20 octobre, ce qui satisfait le critère d'une annonce officielle avant le 24 octobre.",
    "ouverture": "2026-10-19T17:01:02.275755+00:00"
+  },
+  {
+   "id": "630963",
+   "event": "57672",
+   "question": "Will the Democrats win the Texas Senate race in 2026?",
+   "regles": "This market will resolve according to the winner of the 2026 midterm Texas U.S. Senate election, inclusive of any run-offs.\n\nA candidate shall be considered to represent a party in the event that he or she is the nominee of the party in question. Candidates other than the Democratic or Republican nominee (e.g., Greens, Libertarian, independent) may be added at a later date.\n\nCandidates who run as independents will not be encompassed by the “Democrat” or “Republican” options regardless of any affiliation they may have with the party.\n\nThe candidates may be named in the contract for the convenience of traders. In the event that any named candidate is replaced as the nominee of their respective party prior to election day, the name in the contract will be updated and the market will resolve based on the replacement nominee of the party.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race in this state for the same candidate, this market will resolve based on the official certification.",
+   "p_yes": 0.615,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
+   "cote": "NO",
+   "prix": 0.395,
+   "mise": 30.0,
+   "p_ia": 0.45,
+   "categorie": "Équilibré",
+   "raison": "Les sondages et l’historique électoral de Texas indiquent un match très serré, mais les tendances récentes et la forte campagne de Talarico laissent une probabilité d’environ 45 % pour les D.",
+   "ouverture": "2026-10-19T19:01:51.861229+00:00"
   }
  ],
  "historique": [],
@@ -574,6 +590,24 @@
    "p_yes": 0.89,
    "fin": "2026-10-24T21:59:00+00:00",
    "date": "2026-10-19T17:01:02.275583+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5686982",
+   "question": "US x Iran ceasefire continues through October 28?",
+   "p_ia": 0.05,
+   "p_yes": 0.835,
+   "fin": "2026-10-29T03:59:00+00:00",
+   "date": "2026-10-19T19:01:25.378987+00:00",
+   "recherche": true
+  },
+  {
+   "id": "630963",
+   "question": "Will the Democrats win the Texas Senate race in 2026?",
+   "p_ia": 0.45,
+   "p_yes": 0.615,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-19T19:01:51.860970+00:00",
    "recherche": true
   }
  ]
