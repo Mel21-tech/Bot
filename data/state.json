@@ -444,6 +444,15 @@
    "fin": "2026-10-30T03:59:00+00:00",
    "date": "2026-10-19T07:01:27.854377+00:00",
    "recherche": true
+  },
+  {
+   "id": "562803",
+   "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+   "p_ia": 0.2,
+   "p_yes": 0.095,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-19T09:01:13.850933+00:00",
+   "recherche": true
   }
  ]
 }
