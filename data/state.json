@@ -349,6 +349,24 @@
    "fin": "2026-10-25T03:59:00+00:00",
    "date": "2026-10-19T01:01:37.146329+00:00",
    "recherche": true
+  },
+  {
+   "id": "5340068",
+   "question": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by at least 12%?",
+   "p_ia": 0.07,
+   "p_yes": 0.0375,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "date": "2026-10-19T01:21:21.419579+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5732710",
+   "question": "Will \"Grand Theft Auto VI Launch Trailer\" get between 60 and 80 million views on week 1?",
+   "p_ia": 0.78,
+   "p_yes": 0.584,
+   "fin": "2026-10-23T03:59:00+00:00",
+   "date": "2026-10-19T01:22:58.960246+00:00",
+   "recherche": true
   }
  ]
 }
