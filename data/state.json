@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 753.58,
+ "capital": 703.58,
  "positions": [
   {
    "id": "682705",
@@ -130,6 +130,22 @@
    "categorie": "Équilibré",
    "raison": "Les derniers sondages montrent des écarts très variables autour de 0 % – 2 % et rares fois 5 % en faveur de Flávio, ce qui rend une victoire de 4–8 % peu probable mais plausible.",
    "ouverture": "2026-10-18T23:01:05.180604+00:00"
+  },
+  {
+   "id": "5409194",
+   "event": "1149349",
+   "question": "Will Manchester City FC win on 2026-10-20?",
+   "regles": "In the upcoming game, scheduled for October 20, 2026\nIf Manchester City FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.895,
+   "fin": "2026-10-20T19:00:00+00:00",
+   "slug": "ucl-mnc-aek1-2026-10-20-mnc",
+   "cote": "YES",
+   "prix": 0.905,
+   "mise": 50.0,
+   "p_ia": 0.94,
+   "categorie": "Sûr",
+   "raison": "Manchester City joue à domicile contre AEK Athens, équipe grecque en forme mais historiquement très faible en UCL à l'extérieur, et les cotes de bookmakers (-1800) indiquent une probabilité de victoire d'environ 95 %.",
+   "ouverture": "2026-10-19T06:01:26.794697+00:00"
   }
  ],
  "historique": [],
@@ -393,6 +409,15 @@
    "p_yes": 0.705,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T05:01:28.480032+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5409194",
+   "question": "Will Manchester City FC win on 2026-10-20?",
+   "p_ia": 0.94,
+   "p_yes": 0.895,
+   "fin": "2026-10-20T19:00:00+00:00",
+   "date": "2026-10-19T06:01:26.794502+00:00",
    "recherche": true
   }
  ]
