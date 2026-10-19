@@ -376,6 +376,24 @@
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-19T03:01:09.753615+00:00",
    "recherche": true
+  },
+  {
+   "id": "5409197",
+   "question": "Will AEK win on 2026-10-20?",
+   "p_ia": 0.05,
+   "p_yes": 0.031,
+   "fin": "2026-10-20T19:00:00+00:00",
+   "date": "2026-10-19T05:01:11.117564+00:00",
+   "recherche": true
+  },
+  {
+   "id": "634892",
+   "question": "Will the Republicans win the Nebraska Senate race in 2026?",
+   "p_ia": 0.65,
+   "p_yes": 0.705,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-19T05:01:28.480032+00:00",
+   "recherche": true
   }
  ]
 }
