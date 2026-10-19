@@ -313,6 +313,24 @@
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-18T23:01:05.180341+00:00",
    "recherche": true
+  },
+  {
+   "id": "5190747",
+   "question": "US x Iran ceasefire continues through November 15?",
+   "p_ia": 0.63,
+   "p_yes": 0.59,
+   "fin": "2026-11-16T04:59:00+00:00",
+   "date": "2026-10-19T00:01:22.581414+00:00",
+   "recherche": true
+  },
+  {
+   "id": "682708",
+   "question": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+   "p_ia": 0.38,
+   "p_yes": 0.4595,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-19T00:03:18.639543+00:00",
+   "recherche": true
   }
  ]
 }
