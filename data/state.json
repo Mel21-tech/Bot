@@ -453,6 +453,24 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T09:01:13.850933+00:00",
    "recherche": true
+  },
+  {
+   "id": "2100981",
+   "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+   "p_ia": 0.65,
+   "p_yes": 0.325,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-19T10:01:17.436500+00:00",
+   "recherche": true
+  },
+  {
+   "id": "4640848",
+   "question": "Perim Island no longer under Houthi control by October 31?",
+   "p_ia": 0.99,
+   "p_yes": 0.0435,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-19T10:01:31.750833+00:00",
+   "recherche": true
   }
  ]
 }
