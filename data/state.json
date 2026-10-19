@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 673.58,
+ "capital": 653.58,
  "positions": [
   {
    "id": "682705",
@@ -162,6 +162,22 @@
    "categorie": "Équilibré",
    "raison": "Après une escalade récente avec des frappes le 9 et le 13 octobre, l'armée saoudienne continue d'opérer régulièrement, mais aucune indication précise ne pointe vers une action le 29, d'où une probabilité modérée.",
    "ouverture": "2026-10-19T07:01:27.854591+00:00"
+  },
+  {
+   "id": "5568257",
+   "event": "1171733",
+   "question": "Will there be a Hormuz agreement and the Republicans win the Senate?",
+   "regles": "This market will resolve to \"Hormuz Agreement; R Senate\" if a Hormuz Agreement is announced by October 23, 2026, 11:59 PM ET, and the Republican Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"Hormuz Agreement; D Senate\" if a Hormuz Agreement is announced by October 23, 2026, 11:59 PM ET, and the Democratic Party wins control of the United States Senate in the 2026 United States midterm election.\n\nThis market will resolve to \"No Hormuz Agreement\" immediately if a Hormuz Agreement is not announced by October 23, 2026, 11:59 PM ET.\n\nHormuz Agreement: A \"Hormuz Agreement\" will be considered to have occurred if a diplomatic agreement between the United States and Iran over traffic in the Strait of Hormuz is announced by October 23, 2026, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between the United States and Iran.\n\nA qualifying diplomatic agreement must establish Iranian policies, obligations, or commitments aimed at permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Hormuz Agreement component to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptanc",
+   "p_yes": 0.0385,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-there-be-a-hormuz-agreement-and-the-republicans-win-the-senate",
+   "cote": "YES",
+   "prix": 0.049,
+   "mise": 20.0,
+   "p_ia": 0.3,
+   "categorie": "Outsider",
+   "raison": "L'accord Hormuz a déjà été annoncé en juin 2026, il ne reste que l'incertitude sur le contrôle du Sénat, estimée autour de 30 % pour les Républicains.",
+   "ouverture": "2026-10-19T13:01:23.010585+00:00"
   }
  ],
  "historique": [],
@@ -479,6 +495,15 @@
    "p_yes": 0.894,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T12:01:29.301645+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5568257",
+   "question": "Will there be a Hormuz agreement and the Republicans win the Senate?",
+   "p_ia": 0.3,
+   "p_yes": 0.0385,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-19T13:01:23.010315+00:00",
    "recherche": true
   }
  ]
