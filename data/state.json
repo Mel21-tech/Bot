@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 653.58,
+ "capital": 603.58,
  "positions": [
   {
    "id": "682705",
@@ -178,6 +178,22 @@
    "categorie": "Outsider",
    "raison": "L'accord Hormuz a déjà été annoncé en juin 2026, il ne reste que l'incertitude sur le contrôle du Sénat, estimée autour de 30 % pour les Républicains.",
    "ouverture": "2026-10-19T13:01:23.010585+00:00"
+  },
+  {
+   "id": "5880181",
+   "event": "1211738",
+   "question": "Curfew in a major French city by October 24, 2026?",
+   "regles": "This market will resolve to \"Yes\" if a curfew is officially announced in any part of Paris, Marseille, Lyon, Toulouse, Nice, Nantes, Montpellier, Strasbourg, Bordeaux, or Lille, France between market creation and the specified date, 11:59 PM Paris time. Otherwise, this market will resolve to \"No\".\n\nThe listed cities refer to the municipalities (communes) of those names, within their official municipal boundaries. Curfews applying only to other municipalities, including suburbs or neighboring municipalities within the same metropolitan area, will not qualify.\n\nA curfew refers to a governmental order which generally prohibits the general population from being present in, or moving through, public spaces in a listed city, or a defined area of it, during a specific timeframe or specific hours. A qualifying curfew may be citywide or limited to specific arrondissements, districts, or neighborhoods of a listed city, and must be officially declared by the relevant municipality, the relevant prefecture (including the Paris Police Prefecture), or a French national authority. A broader curfew (e.g. department-wide or nationwide) will qualify so long as it applies to at least part of a listed city.\n\nUnofficial guidance, voluntary advisories, curfews applying only to minors or other specific groups, and conditional or prospective statements that a curfew may be imposed will not qualify. Orders restricting demonstrations or gatherings, closures of specific parks, facilities or venues, rest",
+   "p_yes": 0.89,
+   "fin": "2026-10-24T21:59:00+00:00",
+   "slug": "curfew-in-major-french-city-by-october-24-2026",
+   "cote": "YES",
+   "prix": 0.9,
+   "mise": 50.0,
+   "p_ia": 0.97,
+   "categorie": "Sûr",
+   "raison": "Le ministre de l'Intérieur a annoncé des couvre-feux partiels à Lille dès le 19‑20 octobre, ce qui satisfait le critère d'une annonce officielle avant le 24 octobre.",
+   "ouverture": "2026-10-19T17:01:02.275755+00:00"
   }
  ],
  "historique": [],
@@ -549,6 +565,15 @@
    "p_yes": 0.715,
    "fin": "2026-10-28T03:59:00+00:00",
    "date": "2026-10-19T15:38:37.922622+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5880181",
+   "question": "Curfew in a major French city by October 24, 2026?",
+   "p_ia": 0.97,
+   "p_yes": 0.89,
+   "fin": "2026-10-24T21:59:00+00:00",
+   "date": "2026-10-19T17:01:02.275583+00:00",
    "recherche": true
   }
  ]

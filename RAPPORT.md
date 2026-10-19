@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 19/10/2026 16:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 19/10/2026 17:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1000.00 $** (+0.0 %) |
-| Disponible | 653.58 $ |
-| Engagé | 346.42 $ sur 11 positions |
+| Disponible | 603.58 $ |
+| Engagé | 396.42 $ sur 12 positions |
 | Trades clôturés | 0 · gagnés 0 |
 | Gains/pertes réalisés | +0.00 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 19/10/2026 16:00 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 0 | 0 | 0.00 $ | +0.00 $ | – | 3 (150 $) |
+| 🛡️ Sûr | 0 | 0 | 0.00 $ | +0.00 $ | – | 4 (200 $) |
 | ⚖️ Équilibré | 0 | 0 | 0.00 $ | +0.00 $ | – | 4 (116 $) |
 | 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 4 (80 $) |
 
@@ -27,11 +27,12 @@ Aucune prédiction résolue pour l'instant.
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (3)
+### 🛡️ Sûr (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Manchester City FC win on 2026-10-20? | 20/10 | YES | 0.91 | 50.00 $ | +5.25 $ | 94% | 90% |
+| Curfew in a major French city by October 24, 2026? | 24/10 | YES | 0.90 | 50.00 $ | +5.56 $ | 97% | 89% |
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 
