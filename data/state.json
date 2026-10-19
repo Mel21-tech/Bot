@@ -331,6 +331,24 @@
    "fin": "2026-10-28T03:59:00+00:00",
    "date": "2026-10-19T00:03:18.639543+00:00",
    "recherche": true
+  },
+  {
+   "id": "3128888",
+   "question": "US announces end of Iranian blockade by October 31, 2026?",
+   "p_ia": 0.15,
+   "p_yes": 0.065,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-19T01:01:16.393586+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5686977",
+   "question": "US x Iran ceasefire continues through October 24?",
+   "p_ia": 0.01,
+   "p_yes": 0.905,
+   "fin": "2026-10-25T03:59:00+00:00",
+   "date": "2026-10-19T01:01:37.146329+00:00",
+   "recherche": true
   }
  ]
 }
