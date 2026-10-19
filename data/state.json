@@ -541,6 +541,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T15:02:52.515271+00:00",
    "recherche": true
+  },
+  {
+   "id": "2100984",
+   "question": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+   "p_ia": 0.75,
+   "p_yes": 0.715,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-19T15:38:37.922622+00:00",
+   "recherche": true
   }
  ]
 }
