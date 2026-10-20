@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 20/10/2026 05:03 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 20/10/2026 06:03 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1005.56 $** (+0.6 %) |
-| Disponible | 598.97 $ |
-| Engagé | 406.59 $ sur 13 positions |
+| Disponible | 594.83 $ |
+| Engagé | 410.73 $ sur 14 positions |
 | Trades clôturés | 1 · gagnés 1 (100 %) |
 | Gains/pertes réalisés | +5.56 $ |
 
@@ -16,7 +16,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 20/10/2026 05:03 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 1 | 1 (100 %) | 50.00 $ | +5.56 $ | +11.1 % | 3 (150 $) |
-| ⚖️ Équilibré | 0 | 0 | 0.00 $ | +0.00 $ | – | 6 (177 $) |
+| ⚖️ Équilibré | 0 | 0 | 0.00 $ | +0.00 $ | – | 7 (181 $) |
 | 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 4 (80 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
@@ -35,7 +35,7 @@ Aucune prédiction résolue pour l'instant.
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 
-### ⚖️ Équilibré (6)
+### ⚖️ Équilibré (7)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -45,6 +45,7 @@ Aucune prédiction résolue pour l'instant.
 | Saudi Arabia military action against Yemen on October 29? | 30/10 | NO | 0.45 | 30.00 $ | +36.67 $ | 42% | 56% |
 | 2026 Balance of Power: D Senate, D House | 04/11 | NO | 0.39 | 26.42 $ | +42.20 $ | 55% | 62% |
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
+| Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
 
 ### 🎲 Outsider (4)
 

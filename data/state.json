@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 598.9655555555556,
+ "capital": 594.8255555555556,
  "positions": [
   {
    "id": "682705",
@@ -210,6 +210,22 @@
    "categorie": "Équilibré",
    "raison": "Napoli est favori à domicile avec des cotes autour de 1.6, ce qui correspond à environ 60 % de chances de victoire",
    "ouverture": "2026-10-20T05:01:11.262717+00:00"
+  },
+  {
+   "id": "562793",
+   "event": "32224",
+   "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+   "regles": "This market will resolve according to the party that wins control of the United States Senate in the 2026 United States midterm election.\n\nA party wins control of the United States Senate if it wins a majority of the chamber’s voting seats. If no party wins a majority of voting seats, the party that wins control of the chamber is the party that wins half of the voting seats and holds the Vice Presidency. If the outcome remains ambiguous after applying the above criteria, the chamber will be deemed controlled by the party with which the first selected President Pro Tempore of the Congress that convenes after the specified election is affiliated.\n\nThe following rules govern the counting of seats for determining which party wins control of the chamber.\n\nAll regular and special Senate elections that determine representation in the upcoming 120th Congress and are scheduled to take place in November 2026 as of October 31, 2026 are included. Runoffs for qualifying elections will determine attribution of the relevant seat, even if they take place after November 2026. Vacant seats for which no election or special election to fill the seat is scheduled to take place in November 2026 as of October 31, 2026 will be treated as held by the party affiliation of the most recent member to hold that seat.\n\nFor seats contested in the specified election, seats are attributed to the party under which the member was elected. If a member-elect changes party affiliation, or vacates their seat, betwe",
+   "p_yes": 0.645,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+   "cote": "NO",
+   "prix": 0.365,
+   "mise": 4.14,
+   "p_ia": 0.35,
+   "categorie": "Équilibré",
+   "raison": "Le tableau de 2026 favorise les Républicains (22 sièges à défendre contre 13 pour les Démocrates) et les Démocrates doivent gagner au moins quatre sièges, malgré un avantage du sondage national, ce qui rend la probabilité de garder le contrôle modérée.",
+   "ouverture": "2026-10-20T06:01:54.102097+00:00"
   }
  ],
  "historique": [
@@ -682,6 +698,15 @@
    "p_yes": 0.555,
    "fin": "2026-10-20T19:00:00+00:00",
    "date": "2026-10-20T05:01:11.262561+00:00",
+   "recherche": true
+  },
+  {
+   "id": "562793",
+   "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+   "p_ia": 0.35,
+   "p_yes": 0.645,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-20T06:01:54.101873+00:00",
    "recherche": true
   }
  ]
