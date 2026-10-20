@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 594.8255555555556,
+ "capital": 619.754174340086,
  "positions": [
   {
    "id": "682705",
@@ -132,22 +132,6 @@
    "ouverture": "2026-10-18T23:01:05.180604+00:00"
   },
   {
-   "id": "5409194",
-   "event": "1149349",
-   "question": "Will Manchester City FC win on 2026-10-20?",
-   "regles": "In the upcoming game, scheduled for October 20, 2026\nIf Manchester City FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
-   "p_yes": 0.895,
-   "fin": "2026-10-20T19:00:00+00:00",
-   "slug": "ucl-mnc-aek1-2026-10-20-mnc",
-   "cote": "YES",
-   "prix": 0.905,
-   "mise": 50.0,
-   "p_ia": 0.94,
-   "categorie": "Sûr",
-   "raison": "Manchester City joue à domicile contre AEK Athens, équipe grecque en forme mais historiquement très faible en UCL à l'extérieur, et les cotes de bookmakers (-1800) indiquent une probabilité de victoire d'environ 95 %.",
-   "ouverture": "2026-10-19T06:01:26.794697+00:00"
-  },
-  {
    "id": "5167210",
    "event": "1111240",
    "question": "Saudi Arabia military action against Yemen on October 29?",
@@ -226,6 +210,22 @@
    "categorie": "Équilibré",
    "raison": "Le tableau de 2026 favorise les Républicains (22 sièges à défendre contre 13 pour les Démocrates) et les Démocrates doivent gagner au moins quatre sièges, malgré un avantage du sondage national, ce qui rend la probabilité de garder le contrôle modérée.",
    "ouverture": "2026-10-20T06:01:54.102097+00:00"
+  },
+  {
+   "id": "5436896",
+   "event": "1154850",
+   "question": "Will FC Bayern München win on 2026-10-21?",
+   "regles": "In the upcoming game, scheduled for October 21, 2026\nIf FC Bayern München wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.475,
+   "fin": "2026-10-21T19:00:00+00:00",
+   "slug": "ucl-bay-ars-2026-10-21-bay",
+   "cote": "YES",
+   "prix": 0.485,
+   "mise": 30.32,
+   "p_ia": 0.58,
+   "categorie": "Équilibré",
+   "raison": "Bayern a un avantage historique très fort à domicile en Ligue des champions et un bon bilan contre Arsenal, mais l'attaque d'Arsenal et sa défense solide rendent le match serré, d'où une probabilité légèrement supérieure à 50 % pour une victoire bavaroise.",
+   "ouverture": "2026-10-20T22:01:16.142112+00:00"
   }
  ],
  "historique": [
@@ -247,6 +247,25 @@
    "resultat": 1.0,
    "pnl": 5.56,
    "cloture": "2026-10-19T20:00:53.537556+00:00"
+  },
+  {
+   "id": "5409194",
+   "event": "1149349",
+   "question": "Will Manchester City FC win on 2026-10-20?",
+   "regles": "In the upcoming game, scheduled for October 20, 2026\nIf Manchester City FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.895,
+   "fin": "2026-10-20T19:00:00+00:00",
+   "slug": "ucl-mnc-aek1-2026-10-20-mnc",
+   "cote": "YES",
+   "prix": 0.905,
+   "mise": 50.0,
+   "p_ia": 0.94,
+   "categorie": "Sûr",
+   "raison": "Manchester City joue à domicile contre AEK Athens, équipe grecque en forme mais historiquement très faible en UCL à l'extérieur, et les cotes de bookmakers (-1800) indiquent une probabilité de victoire d'environ 95 %.",
+   "ouverture": "2026-10-19T06:01:26.794697+00:00",
+   "resultat": 1.0,
+   "pnl": 5.25,
+   "cloture": "2026-10-20T22:01:03.115720+00:00"
   }
  ],
  "predictions": [
@@ -500,7 +519,8 @@
    "p_yes": 0.031,
    "fin": "2026-10-20T19:00:00+00:00",
    "date": "2026-10-19T05:01:11.117564+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "634892",
@@ -518,7 +538,8 @@
    "p_yes": 0.895,
    "fin": "2026-10-20T19:00:00+00:00",
    "date": "2026-10-19T06:01:26.794502+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5167210",
@@ -761,6 +782,15 @@
    "p_yes": 0.113,
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-20T16:01:17.208232+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5436896",
+   "question": "Will FC Bayern München win on 2026-10-21?",
+   "p_ia": 0.58,
+   "p_yes": 0.475,
+   "fin": "2026-10-21T19:00:00+00:00",
+   "date": "2026-10-20T22:01:16.141937+00:00",
    "recherche": true
   }
  ]
