@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 629.1355555555556,
+ "capital": 598.9655555555556,
  "positions": [
   {
    "id": "682705",
@@ -194,6 +194,22 @@
    "categorie": "Équilibré",
    "raison": "Les sondages et l’historique électoral de Texas indiquent un match très serré, mais les tendances récentes et la forte campagne de Talarico laissent une probabilité d’environ 45 % pour les D.",
    "ouverture": "2026-10-19T19:01:51.861229+00:00"
+  },
+  {
+   "id": "5409532",
+   "event": "1149383",
+   "question": "Will SSC Napoli win on 2026-10-20?",
+   "regles": "In the upcoming game, scheduled for October 20, 2026\nIf SSC Napoli wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.555,
+   "fin": "2026-10-20T19:00:00+00:00",
+   "slug": "ucl-nap-bog-2026-10-20-nap",
+   "cote": "YES",
+   "prix": 0.565,
+   "mise": 30.17,
+   "p_ia": 0.62,
+   "categorie": "Équilibré",
+   "raison": "Napoli est favori à domicile avec des cotes autour de 1.6, ce qui correspond à environ 60 % de chances de victoire",
+   "ouverture": "2026-10-20T05:01:11.262717+00:00"
   }
  ],
  "historique": [
@@ -657,6 +673,15 @@
    "p_yes": 0.085,
    "fin": "2026-10-28T03:59:00+00:00",
    "date": "2026-10-20T04:02:00.379865+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5409532",
+   "question": "Will SSC Napoli win on 2026-10-20?",
+   "p_ia": 0.62,
+   "p_yes": 0.555,
+   "fin": "2026-10-20T19:00:00+00:00",
+   "date": "2026-10-20T05:01:11.262561+00:00",
    "recherche": true
   }
  ]
