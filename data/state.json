@@ -735,6 +735,15 @@
    "fin": "2026-11-01T03:59:00+00:00",
    "date": "2026-10-20T10:01:24.667761+00:00",
    "recherche": true
+  },
+  {
+   "id": "5880781",
+   "question": "France declares state of emergency by October 31, 2026?",
+   "p_ia": 0.07,
+   "p_yes": 0.065,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-20T11:01:04.583188+00:00",
+   "recherche": true
   }
  ]
 }
