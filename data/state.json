@@ -640,6 +640,24 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-20T00:01:04.396337+00:00",
    "recherche": true
+  },
+  {
+   "id": "562830",
+   "question": "2026 Balance of Power: R Senate, D House",
+   "p_ia": 0.24,
+   "p_yes": 0.285,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-20T04:01:49.654884+00:00",
+   "recherche": true
+  },
+  {
+   "id": "2110579",
+   "question": "Will Likud win 30-34 seats in the 2026 Israeli legislative election?",
+   "p_ia": 0.85,
+   "p_yes": 0.085,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-20T04:02:00.379865+00:00",
+   "recherche": true
   }
  ]
 }
