@@ -708,6 +708,24 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-20T06:01:54.101873+00:00",
    "recherche": true
+  },
+  {
+   "id": "5572737",
+   "question": "Will there be a Hormuz agreement and the Republicans win the Senate?",
+   "p_ia": 0.47,
+   "p_yes": 0.0385,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-20T07:01:45.055274+00:00",
+   "recherche": true
+  },
+  {
+   "id": "682710",
+   "question": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
+   "p_ia": 0.05,
+   "p_yes": 0.033,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-20T07:02:14.261835+00:00",
+   "recherche": true
   }
  ]
 }
