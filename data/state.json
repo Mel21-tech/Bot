@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 619.754174340086,
+ "capital": 621.4524044285815,
  "positions": [
   {
    "id": "682705",
@@ -180,22 +180,6 @@
    "ouverture": "2026-10-19T19:01:51.861229+00:00"
   },
   {
-   "id": "5409532",
-   "event": "1149383",
-   "question": "Will SSC Napoli win on 2026-10-20?",
-   "regles": "In the upcoming game, scheduled for October 20, 2026\nIf SSC Napoli wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
-   "p_yes": 0.555,
-   "fin": "2026-10-20T19:00:00+00:00",
-   "slug": "ucl-nap-bog-2026-10-20-nap",
-   "cote": "YES",
-   "prix": 0.565,
-   "mise": 30.17,
-   "p_ia": 0.62,
-   "categorie": "Équilibré",
-   "raison": "Napoli est favori à domicile avec des cotes autour de 1.6, ce qui correspond à environ 60 % de chances de victoire",
-   "ouverture": "2026-10-20T05:01:11.262717+00:00"
-  },
-  {
    "id": "562793",
    "event": "32224",
    "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
@@ -226,6 +210,22 @@
    "categorie": "Équilibré",
    "raison": "Bayern a un avantage historique très fort à domicile en Ligue des champions et un bon bilan contre Arsenal, mais l'attaque d'Arsenal et sa défense solide rendent le match serré, d'où une probabilité légèrement supérieure à 50 % pour une victoire bavaroise.",
    "ouverture": "2026-10-20T22:01:16.142112+00:00"
+  },
+  {
+   "id": "4890262",
+   "event": "1071009",
+   "question": "Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?",
+   "regles": "The first round of the 2026 Bulgarian presidential election is currently expected to be held on October 25, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the specified election.\n\nThe \"margin of victory\" is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nThe candidates named in this market are individual candidates appearing on the first round ballot. They do not represent party options, and this market will not resolve based on the party affiliation of any candidate.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two or more candidates tie for the most valid votes in this election, and the tie is between two candidates listed, this market will resolve to the lowest margin bracket for the candidate whose ballot-listed last name comes first in alphabetical order. If the tie is between a listed candidate and an unlisted candidate, this market will resolve to the lowest margin bracket for the listed candidate. If the tie is between two or more unlisted candidates, this market will resolve to \"Other.\"\n\nThis market will resolve based on the of",
+   "p_yes": 0.107,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "slug": "will-iliana-iotova-win-the-2026-bulgarian-presidential-first-round-by-40",
+   "cote": "NO",
+   "prix": 0.903,
+   "mise": 51.7,
+   "p_ia": 0.02,
+   "categorie": "Sûr",
+   "raison": "Les sondages actuels montrent un écart bien en dessous de 40 %.",
+   "ouverture": "2026-10-20T23:01:41.519189+00:00"
   }
  ],
  "historique": [
@@ -266,6 +266,25 @@
    "resultat": 1.0,
    "pnl": 5.25,
    "cloture": "2026-10-20T22:01:03.115720+00:00"
+  },
+  {
+   "id": "5409532",
+   "event": "1149383",
+   "question": "Will SSC Napoli win on 2026-10-20?",
+   "regles": "In the upcoming game, scheduled for October 20, 2026\nIf SSC Napoli wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.555,
+   "fin": "2026-10-20T19:00:00+00:00",
+   "slug": "ucl-nap-bog-2026-10-20-nap",
+   "cote": "YES",
+   "prix": 0.565,
+   "mise": 30.17,
+   "p_ia": 0.62,
+   "categorie": "Équilibré",
+   "raison": "Napoli est favori à domicile avec des cotes autour de 1.6, ce qui correspond à environ 60 % de chances de victoire",
+   "ouverture": "2026-10-20T05:01:11.262717+00:00",
+   "resultat": 1.0,
+   "pnl": 23.23,
+   "cloture": "2026-10-20T23:01:01.240294+00:00"
   }
  ],
  "predictions": [
@@ -683,7 +702,8 @@
    "p_yes": 0.405,
    "fin": "2026-10-20T19:00:00+00:00",
    "date": "2026-10-19T23:01:53.431363+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "630964",
@@ -719,7 +739,8 @@
    "p_yes": 0.555,
    "fin": "2026-10-20T19:00:00+00:00",
    "date": "2026-10-20T05:01:11.262561+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "562793",
@@ -791,6 +812,24 @@
    "p_yes": 0.475,
    "fin": "2026-10-21T19:00:00+00:00",
    "date": "2026-10-20T22:01:16.141937+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5329576",
+   "question": "Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amapá?",
+   "p_ia": 0.35,
+   "p_yes": 0.72,
+   "fin": "2026-10-26T03:59:00+00:00",
+   "date": "2026-10-20T23:01:18.955476+00:00",
+   "recherche": true
+  },
+  {
+   "id": "4890262",
+   "question": "Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?",
+   "p_ia": 0.02,
+   "p_yes": 0.107,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "date": "2026-10-20T23:01:41.519005+00:00",
    "recherche": true
   }
  ]

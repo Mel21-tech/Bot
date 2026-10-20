@@ -1,46 +1,46 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 20/10/2026 22:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 20/10/2026 23:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1010.80 $** (+1.1 %) |
-| Disponible | 619.75 $ |
-| Engagé | 391.05 $ sur 14 positions |
-| Trades clôturés | 2 · gagnés 2 (100 %) |
-| Gains/pertes réalisés | +10.81 $ |
+| **Capital total** | **1034.03 $** (+3.4 %) |
+| Disponible | 621.45 $ |
+| Engagé | 412.58 $ sur 14 positions |
+| Trades clôturés | 3 · gagnés 3 (100 %) |
+| Gains/pertes réalisés | +34.04 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 2 (100 $) |
-| ⚖️ Équilibré | 0 | 0 | 0.00 $ | +0.00 $ | – | 8 (211 $) |
+| 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 3 (152 $) |
+| ⚖️ Équilibré | 1 | 1 (100 %) | 30.17 $ | +23.23 $ | +77.0 % | 7 (181 $) |
 | 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 4 (80 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **2** · Score Brier IA **0.0031** vs marché **0.0060** (plus bas = meilleur)
+Prédictions résolues : **4** · Score Brier IA **0.0817** vs marché **0.0935** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (2)
+### 🛡️ Sûr (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
+| Will Iliana Iotova win the 2026 Bulgarian presidential first round by  | 25/10 | NO | 0.90 | 51.70 $ | +5.55 $ | 2% | 11% |
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 
-### ⚖️ Équilibré (8)
+### ⚖️ Équilibré (7)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
-| Will SSC Napoli win on 2026-10-20? | 20/10 | YES | 0.56 | 30.17 $ | +23.23 $ | 62% | 56% |
 | Will FC Bayern München win on 2026-10-21? | 21/10 | YES | 0.48 | 30.32 $ | +32.20 $ | 58% | 48% |
 | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | 23/10 | NO | 0.43 | 30.00 $ | +39.77 $ | 35% | 58% |
 | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | 26/10 | NO | 0.69 | 30.00 $ | +13.17 $ | 12% | 32% |
@@ -62,5 +62,6 @@ Prédictions résolues : **2** · Score Brier IA **0.0031** vs marché **0.0060*
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | Will SSC Napoli win on 2026-10-20? | ⚖️ | YES | 30.17 $ | +23.23 $ |
 | ✅ | Will Manchester City FC win on 2026-10-20? | 🛡️ | YES | 50.00 $ | +5.25 $ |
 | ✅ | Curfew in a major French city by October 24, 2026? | 🛡️ | YES | 50.00 $ | +5.56 $ |
