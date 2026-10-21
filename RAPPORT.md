@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 15:17 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 16:02 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1034.03 $** (+3.4 %) |
-| Disponible | 566.91 $ |
-| Engagé | 467.12 $ sur 16 positions |
+| Disponible | 546.23 $ |
+| Engagé | 487.80 $ sur 17 positions |
 | Trades clôturés | 3 · gagnés 3 (100 %) |
 | Gains/pertes réalisés | +34.04 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 15:17 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 4 (203 $) |
 | ⚖️ Équilibré | 1 | 1 (100 %) | 30.17 $ | +23.23 $ | +77.0 % | 7 (181 $) |
-| 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 5 (83 $) |
+| 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 6 (104 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
@@ -50,12 +50,13 @@ Prédictions résolues : **4** · Score Brier IA **0.0817** vs marché **0.0935*
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
 | Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
 
-### 🎲 Outsider (5)
+### 🎲 Outsider (6)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | US x Iran ceasefire continues through October 22? | 23/10 | NO | 0.07 | 20.00 $ | +246.67 $ | 81% | 94% |
 | Will Aleksandar Vučić – United Serbia win the most seats in the 2026 S | 25/10 | NO | 0.32 | 20.00 $ | +43.49 $ | 40% | 70% |
+| Will Harry Kane win the 2026 Ballon d'Or? | 27/10 | NO | 0.27 | 20.68 $ | +55.91 $ | 62% | 74% |
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
 | Will there be a Hormuz agreement and the Republicans win the Senate? | 04/11 | YES | 0.05 | 20.00 $ | +388.16 $ | 30% | 4% |
 | Will the Democrats win the Ohio governor race in 2026? | 04/11 | NO | 0.21 | 2.84 $ | +10.37 $ | 58% | 80% |

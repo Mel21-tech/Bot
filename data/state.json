@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 566.9124044285815,
+ "capital": 546.2324044285815,
  "positions": [
   {
    "id": "682705",
@@ -258,6 +258,22 @@
    "categorie": "Outsider",
    "raison": "Les sondages agrégés d'octobre montrent Amy Acton (D) légèrement en tête de Vivek Ramaswamy (R) et les prévisions de plusieurs analystes (Decision Desk, Silver Bulletin) penchent vers un léger avantage démocrate, malgré la tendance républicaine historique de l'Ohio.",
    "ouverture": "2026-10-21T06:01:11.990774+00:00"
+  },
+  {
+   "id": "608547",
+   "event": "48361",
+   "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+   "regles": "This market will resolve according to the winner of the 2026 Ballon d’Or.\n\nIf no 2026 Ballon d’Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
+   "p_yes": 0.7395,
+   "fin": "2026-10-27T03:59:00+00:00",
+   "slug": "will-harry-kane-win-the-2026-ballon-dor",
+   "cote": "NO",
+   "prix": 0.27,
+   "mise": 20.68,
+   "p_ia": 0.62,
+   "categorie": "Outsider",
+   "raison": "Kane est favori avec 62 % d’odds et les bookmakers l’ont confirmé.",
+   "ouverture": "2026-10-21T16:02:03.946519+00:00"
   }
  ],
  "historique": [
@@ -916,6 +932,15 @@
    "p_yes": 0.635,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-21T15:17:50.473628+00:00",
+   "recherche": true
+  },
+  {
+   "id": "608547",
+   "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+   "p_ia": 0.62,
+   "p_yes": 0.7395,
+   "fin": "2026-10-27T03:59:00+00:00",
+   "date": "2026-10-21T16:02:03.946359+00:00",
    "recherche": true
   }
  ]
