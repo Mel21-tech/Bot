@@ -1,29 +1,29 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 21:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 22:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1034.03 $** (+3.4 %) |
-| Disponible | 546.23 $ |
-| Engagé | 487.80 $ sur 17 positions |
-| Trades clôturés | 3 · gagnés 3 (100 %) |
-| Gains/pertes réalisés | +34.04 $ |
+| **Capital total** | **1003.71 $** (+0.4 %) |
+| Disponible | 516.12 $ |
+| Engagé | 487.59 $ sur 17 positions |
+| Trades clôturés | 4 · gagnés 3 (75 %) |
+| Gains/pertes réalisés | +3.72 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 4 (203 $) |
-| ⚖️ Équilibré | 1 | 1 (100 %) | 30.17 $ | +23.23 $ | +77.0 % | 7 (181 $) |
+| ⚖️ Équilibré | 2 | 1 (50 %) | 60.49 $ | -7.09 $ | -11.7 % | 7 (181 $) |
 | 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 6 (104 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **4** · Score Brier IA **0.0817** vs marché **0.0935** (plus bas = meilleur)
+Prédictions résolues : **5** · Score Brier IA **0.1327** vs marché **0.1199** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
@@ -42,8 +42,8 @@ Prédictions résolues : **4** · Score Brier IA **0.0817** vs marché **0.0935*
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
-| Will FC Bayern München win on 2026-10-21? | 21/10 | YES | 0.48 | 30.32 $ | +32.20 $ | 58% | 48% |
 | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | 23/10 | NO | 0.43 | 30.00 $ | +39.77 $ | 35% | 58% |
+| Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | 26/10 | NO | 0.69 | 30.00 $ | +13.17 $ | 12% | 32% |
 | Saudi Arabia military action against Yemen on October 29? | 30/10 | NO | 0.45 | 30.00 $ | +36.67 $ | 42% | 56% |
 | 2026 Balance of Power: D Senate, D House | 04/11 | NO | 0.39 | 26.42 $ | +42.20 $ | 55% | 62% |
@@ -65,6 +65,7 @@ Prédictions résolues : **4** · Score Brier IA **0.0817** vs marché **0.0935*
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Will FC Bayern München win on 2026-10-21? | ⚖️ | YES | 30.32 $ | -30.32 $ |
 | ✅ | Will SSC Napoli win on 2026-10-20? | ⚖️ | YES | 30.17 $ | +23.23 $ |
 | ✅ | Will Manchester City FC win on 2026-10-20? | 🛡️ | YES | 50.00 $ | +5.25 $ |
 | ✅ | Curfew in a major French city by October 24, 2026? | 🛡️ | YES | 50.00 $ | +5.56 $ |

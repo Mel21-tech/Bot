@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 546.2324044285815,
+ "capital": 516.1224044285815,
  "positions": [
   {
    "id": "682705",
@@ -196,22 +196,6 @@
    "ouverture": "2026-10-20T06:01:54.102097+00:00"
   },
   {
-   "id": "5436896",
-   "event": "1154850",
-   "question": "Will FC Bayern München win on 2026-10-21?",
-   "regles": "In the upcoming game, scheduled for October 21, 2026\nIf FC Bayern München wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
-   "p_yes": 0.475,
-   "fin": "2026-10-21T19:00:00+00:00",
-   "slug": "ucl-bay-ars-2026-10-21-bay",
-   "cote": "YES",
-   "prix": 0.485,
-   "mise": 30.32,
-   "p_ia": 0.58,
-   "categorie": "Équilibré",
-   "raison": "Bayern a un avantage historique très fort à domicile en Ligue des champions et un bon bilan contre Arsenal, mais l'attaque d'Arsenal et sa défense solide rendent le match serré, d'où une probabilité légèrement supérieure à 50 % pour une victoire bavaroise.",
-   "ouverture": "2026-10-20T22:01:16.142112+00:00"
-  },
-  {
    "id": "4890262",
    "event": "1071009",
    "question": "Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?",
@@ -274,6 +258,22 @@
    "categorie": "Outsider",
    "raison": "Kane est favori avec 62 % d’odds et les bookmakers l’ont confirmé.",
    "ouverture": "2026-10-21T16:02:03.946519+00:00"
+  },
+  {
+   "id": "2757891",
+   "event": "655483",
+   "question": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
+   "regles": "This market will resolve to the next individual who officially assumes the office of Prime Minister of Serbia by June 30, 2028, 11:59 PM ET.\n\nTo count for resolution, the individual must be elected by the National Assembly and be formally sworn-in, resulting in the official formation of a new government. Any interim or caretaker Prime Minister who is not elected by the National Assembly will not count toward the resolution of this market.\n\nIf no such Prime Minister takes office by June 30, 2028, 11:59 PM ET, this market will resolve to “Other”.\n\nThis market will resolve based on a consensus of credible reporting. If there is ambiguity, this market will resolve solely based on official information from the Serbian government.",
+   "p_yes": 0.6625,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "slug": "will-aleksandar-vucic-be-the-next-prime-minister-of-serbia-20260629223938643",
+   "cote": "YES",
+   "prix": 0.672,
+   "mise": 30.11,
+   "p_ia": 0.78,
+   "categorie": "Équilibré",
+   "raison": "Les sondages récents de 2026 montrent le parti de Vučić (SNS) menant avec 44‑48 % des voix, suffisantes pour former une coalition majoritaire et permettre à Vučić d’être nommé Premier avant le 30 juin 2028.",
+   "ouverture": "2026-10-21T22:01:14.075248+00:00"
   }
  ],
  "historique": [
@@ -333,6 +333,25 @@
    "resultat": 1.0,
    "pnl": 23.23,
    "cloture": "2026-10-20T23:01:01.240294+00:00"
+  },
+  {
+   "id": "5436896",
+   "event": "1154850",
+   "question": "Will FC Bayern München win on 2026-10-21?",
+   "regles": "In the upcoming game, scheduled for October 21, 2026\nIf FC Bayern München wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.475,
+   "fin": "2026-10-21T19:00:00+00:00",
+   "slug": "ucl-bay-ars-2026-10-21-bay",
+   "cote": "YES",
+   "prix": 0.485,
+   "mise": 30.32,
+   "p_ia": 0.58,
+   "categorie": "Équilibré",
+   "raison": "Bayern a un avantage historique très fort à domicile en Ligue des champions et un bon bilan contre Arsenal, mais l'attaque d'Arsenal et sa défense solide rendent le match serré, d'où une probabilité légèrement supérieure à 50 % pour une victoire bavaroise.",
+   "ouverture": "2026-10-20T22:01:16.142112+00:00",
+   "resultat": 0.0,
+   "pnl": -30.32,
+   "cloture": "2026-10-21T22:00:58.644626+00:00"
   }
  ],
  "predictions": [
@@ -860,7 +879,8 @@
    "p_yes": 0.475,
    "fin": "2026-10-21T19:00:00+00:00",
    "date": "2026-10-20T22:01:16.141937+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "5329576",
@@ -941,6 +961,15 @@
    "p_yes": 0.7395,
    "fin": "2026-10-27T03:59:00+00:00",
    "date": "2026-10-21T16:02:03.946359+00:00",
+   "recherche": true
+  },
+  {
+   "id": "2757891",
+   "question": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
+   "p_ia": 0.78,
+   "p_yes": 0.6625,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "date": "2026-10-21T22:01:14.075068+00:00",
    "recherche": true
   }
  ]
