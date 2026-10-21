@@ -831,6 +831,15 @@
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-20T23:01:41.519005+00:00",
    "recherche": true
+  },
+  {
+   "id": "630805",
+   "question": "Will the Democrats win the Michigan Senate race in 2026?",
+   "p_ia": 0.63,
+   "p_yes": 0.695,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-21T03:01:13.278013+00:00",
+   "recherche": true
   }
  ]
 }
