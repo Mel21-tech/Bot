@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 621.4524044285815,
+ "capital": 569.7524044285815,
  "positions": [
   {
    "id": "682705",
@@ -226,6 +226,22 @@
    "categorie": "Sûr",
    "raison": "Les sondages actuels montrent un écart bien en dessous de 40 %.",
    "ouverture": "2026-10-20T23:01:41.519189+00:00"
+  },
+  {
+   "id": "5571194",
+   "event": "794064",
+   "question": "US-Iran Hormuz Agreement by November 2?",
+   "regles": "This market will resolve to “Yes” if a diplomatic agreement between the United States and Iran over traffic in the strait of Hormuz is announced by the specified date, 11:59 PM ET.\n\nA diplomatic agreement refers to an official agreement, treaty, deal, or substantially similar diplomatic instrument that establishes agreed actions, policies, obligations, or commitments between the United States and Iran.\n\nA qualifying diplomatic agreement must establish Iranian policies, obligations, or commitments  aimed at permitting, restoring, or increasing vessel or shipping traffic through the Strait of Hormuz.\n\nAll listed countries must announce their acceptance of the same qualifying diplomatic agreement for the Payout Condition to be met. A joint announcement will qualify, as will separate announcements from each entity of its own acceptance of an agreement which, taken together, directly indicate that all the listed countries accepted the same agreement. Separate announcements of individual policies will not qualify if the policies are not announced as part of a diplomatic agreement.\n\nEach announcement must be a declarative statement that clearly and unambiguously communicates acceptance of an agreement. Statements that reference ongoing negotiations or a prospective agreement, or that allude to or express support for an agreement without confirming acceptance of the agreement, do not qualify. A qualifying announcement need not reference the agreement by name or use specific terminolo",
+   "p_yes": 0.1145,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "slug": "us-iran-hormuz-agreement-by-november-2",
+   "cote": "NO",
+   "prix": 0.895,
+   "mise": 51.7,
+   "p_ia": 0.07,
+   "categorie": "Sûr",
+   "raison": "Les négociations sont bloquées depuis mi‑septembre et aucune annonce d’accord n’est faite à ce jour, rendant improbable une signature avant le 2 novembre.",
+   "ouverture": "2026-10-21T04:01:28.487380+00:00"
   }
  ],
  "historique": [
@@ -839,6 +855,15 @@
    "p_yes": 0.695,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-21T03:01:13.278013+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5571194",
+   "question": "US-Iran Hormuz Agreement by November 2?",
+   "p_ia": 0.07,
+   "p_yes": 0.1145,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-21T04:01:28.487019+00:00",
    "recherche": true
   }
  ]

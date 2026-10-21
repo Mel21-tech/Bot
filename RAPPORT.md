@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 03:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 04:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1034.03 $** (+3.4 %) |
-| Disponible | 621.45 $ |
-| Engagé | 412.58 $ sur 14 positions |
+| Disponible | 569.75 $ |
+| Engagé | 464.28 $ sur 15 positions |
 | Trades clôturés | 3 · gagnés 3 (100 %) |
 | Gains/pertes réalisés | +34.04 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 21/10/2026 03:01 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 3 (152 $) |
+| 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 4 (203 $) |
 | ⚖️ Équilibré | 1 | 1 (100 %) | 30.17 $ | +23.23 $ | +77.0 % | 7 (181 $) |
 | 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 4 (80 $) |
 
@@ -29,13 +29,14 @@ Prédictions résolues : **4** · Score Brier IA **0.0817** vs marché **0.0935*
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (3)
+### 🛡️ Sûr (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Iliana Iotova win the 2026 Bulgarian presidential first round by  | 25/10 | NO | 0.90 | 51.70 $ | +5.55 $ | 2% | 11% |
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
+| US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 
 ### ⚖️ Équilibré (7)
 
