@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 22/10/2026 14:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 22/10/2026 15:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1003.71 $** (+0.4 %) |
-| Disponible | 516.12 $ |
-| Engagé | 487.59 $ sur 17 positions |
+| Disponible | 486.01 $ |
+| Engagé | 517.70 $ sur 18 positions |
 | Trades clôturés | 4 · gagnés 3 (75 %) |
 | Gains/pertes réalisés | +3.72 $ |
 
@@ -16,7 +16,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 22/10/2026 14:01 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 4 (203 $) |
-| ⚖️ Équilibré | 2 | 1 (50 %) | 60.49 $ | -7.09 $ | -11.7 % | 7 (181 $) |
+| ⚖️ Équilibré | 2 | 1 (50 %) | 60.49 $ | -7.09 $ | -11.7 % | 8 (211 $) |
 | 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 6 (104 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
@@ -38,11 +38,12 @@ Prédictions résolues : **6** · Score Brier IA **0.1116** vs marché **0.1254*
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 
-### ⚖️ Équilibré (7)
+### ⚖️ Équilibré (8)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | 23/10 | NO | 0.43 | 30.00 $ | +39.77 $ | 35% | 58% |
+| Will Liverpool FC win on 2026-10-25? | 25/10 | YES | 0.47 | 30.11 $ | +34.64 $ | 58% | 46% |
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | 26/10 | NO | 0.69 | 30.00 $ | +13.17 $ | 12% | 32% |
 | Saudi Arabia military action against Yemen on October 29? | 30/10 | NO | 0.45 | 30.00 $ | +36.67 $ | 42% | 56% |
