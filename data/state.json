@@ -1055,6 +1055,33 @@
    "fin": "2026-10-25T14:00:00+00:00",
    "date": "2026-10-22T15:20:23.406935+00:00",
    "recherche": true
+  },
+  {
+   "id": "3741671",
+   "question": "Will Russia and Ukraine hold any diplomatic meeting by October 31, 2026?",
+   "p_ia": 0.07,
+   "p_yes": 0.59,
+   "fin": "2026-11-01T03:59:00+00:00",
+   "date": "2026-10-22T23:25:03.612425+00:00",
+   "recherche": true
+  },
+  {
+   "id": "2757900",
+   "question": "Will Ilija Srdanović be the next prime minister of Serbia?",
+   "p_ia": 0.3,
+   "p_yes": 0.125,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "date": "2026-10-22T23:25:54.667656+00:00",
+   "recherche": true
+  },
+  {
+   "id": "630707",
+   "question": "Will Todd Achilles win the Idaho Senate race in 2026?",
+   "p_ia": 0.08,
+   "p_yes": 0.0345,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-22T23:26:12.209150+00:00",
+   "recherche": true
   }
  ]
 }
