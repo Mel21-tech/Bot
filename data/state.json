@@ -981,6 +981,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-22T00:01:10.226483+00:00",
    "recherche": true
+  },
+  {
+   "id": "5167211",
+   "question": "Saudi Arabia military action against Yemen on October 30?",
+   "p_ia": 0.78,
+   "p_yes": 0.63,
+   "fin": "2026-10-31T03:59:00+00:00",
+   "date": "2026-10-22T04:51:49.167925+00:00",
+   "recherche": true
   }
  ]
 }
