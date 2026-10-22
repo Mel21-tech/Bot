@@ -971,6 +971,15 @@
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-21T22:01:14.075068+00:00",
    "recherche": true
+  },
+  {
+   "id": "629558",
+   "question": "Will the Republicans win the Ohio governor race in 2026?",
+   "p_ia": 0.33,
+   "p_yes": 0.23,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-22T00:01:10.226483+00:00",
+   "recherche": true
   }
  ]
 }
