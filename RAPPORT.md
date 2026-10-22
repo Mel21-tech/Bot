@@ -1,5 +1,5 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 22/10/2026 03:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 22/10/2026 04:00 UTC_
 
 ## 💰 Résumé
 
@@ -23,7 +23,7 @@ _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital ·
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **5** · Score Brier IA **0.1327** vs marché **0.1199** (plus bas = meilleur)
+Prédictions résolues : **6** · Score Brier IA **0.1116** vs marché **0.1254** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
