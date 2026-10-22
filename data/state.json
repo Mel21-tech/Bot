@@ -990,6 +990,15 @@
    "fin": "2026-10-31T03:59:00+00:00",
    "date": "2026-10-22T04:51:49.167925+00:00",
    "recherche": true
+  },
+  {
+   "id": "4824602",
+   "question": "Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?",
+   "p_ia": 0.57,
+   "p_yes": 0.325,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "date": "2026-10-22T06:01:39.983023+00:00",
+   "recherche": true
   }
  ]
 }
