@@ -1102,6 +1102,15 @@
    "fin": "2026-10-24T11:30:00+00:00",
    "date": "2026-10-23T16:01:34.794130+00:00",
    "recherche": true
+  },
+  {
+   "id": "6044505",
+   "question": "NATO x Russia military clash by November 15, 2026?",
+   "p_ia": 0.99,
+   "p_yes": 0.225,
+   "fin": "2026-11-16T04:59:00+00:00",
+   "date": "2026-10-23T17:01:31.543257+00:00",
+   "recherche": true
   }
  ]
 }
