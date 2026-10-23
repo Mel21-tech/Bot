@@ -1111,6 +1111,15 @@
    "fin": "2026-11-16T04:59:00+00:00",
    "date": "2026-10-23T17:01:31.543257+00:00",
    "recherche": true
+  },
+  {
+   "id": "6027088",
+   "question": "Israel x Iran ceasefire continues through October 24?",
+   "p_ia": 0.85,
+   "p_yes": 0.925,
+   "fin": "2026-10-25T03:59:00+00:00",
+   "date": "2026-10-23T18:01:33.331398+00:00",
+   "recherche": true
   }
  ]
 }
