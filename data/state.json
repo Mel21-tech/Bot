@@ -1084,6 +1084,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-22T23:26:12.209150+00:00",
    "recherche": true
+  },
+  {
+   "id": "630806",
+   "question": "Will the Republicans win the Michigan Senate race in 2026?",
+   "p_ia": 0.32,
+   "p_yes": 0.285,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-23T04:53:11.593387+00:00",
+   "recherche": true
   }
  ]
 }
