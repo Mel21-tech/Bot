@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 555.7798462890466,
+ "capital": 504.60984628904663,
  "positions": [
   {
    "id": "682705",
@@ -258,6 +258,22 @@
    "categorie": "Équilibré",
    "raison": "Liverpool a un taux de victoire à domicile d'environ 65 % et une meilleure moyenne de points par match que Brighton, ce qui rend sa victoire à Anfield plus probable que le match nul ou la défaite.",
    "ouverture": "2026-10-22T15:01:48.866518+00:00"
+  },
+  {
+   "id": "1235549",
+   "event": "179312",
+   "question": "Will the Tampa Bay Rays win the 2026 World Series?",
+   "regles": "This market will resolve according to the team that wins the 2026 MLB World Series. \n\nIf at any point it becomes impossible for a listed team to win the 2026 MLB World Series per the rules of MLB (e.g., they are eliminated in the playoffs), the corresponding market will resolve to “No”.\n\nIf the 2026 MLB season is cancelled, postponed after December 31, 2026 ET, or there is otherwise no winner declared within that timeframe, this market will resolve to “Other”.\n\nThe primary resolution source will be official information from MLB (https://www.mlb.com/); however, a consensus of credible reporting may also be used.",
+   "p_yes": 0.264,
+   "fin": "2026-10-31T23:55:00+00:00",
+   "slug": "will-the-tampa-bay-rays-win-the-2026-world-series",
+   "cote": "NO",
+   "prix": 0.746,
+   "mise": 51.17,
+   "p_ia": 0.115,
+   "categorie": "Sûr",
+   "raison": "Le modèle Opta projette une probabilité de 11,5 % pour les Rays",
+   "ouverture": "2026-10-24T07:20:29.611901+00:00"
   }
  ],
  "historique": [
@@ -1149,6 +1165,15 @@
    "p_yes": 0.031,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-24T05:02:17.496075+00:00",
+   "recherche": true
+  },
+  {
+   "id": "1235549",
+   "question": "Will the Tampa Bay Rays win the 2026 World Series?",
+   "p_ia": 0.115,
+   "p_yes": 0.264,
+   "fin": "2026-10-31T23:55:00+00:00",
+   "date": "2026-10-24T07:20:29.611730+00:00",
    "recherche": true
   }
  ]
