@@ -1,15 +1,15 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 24/10/2026 06:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 24/10/2026 07:00 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1043.48 $** (+4.3 %) |
+| **Capital total** | **1023.48 $** (+2.3 %) |
 | Disponible | 555.78 $ |
-| Engagé | 487.70 $ sur 17 positions |
-| Trades clôturés | 5 · gagnés 4 (80 %) |
-| Gains/pertes réalisés | +43.49 $ |
+| Engagé | 467.70 $ sur 16 positions |
+| Trades clôturés | 6 · gagnés 4 (67 %) |
+| Gains/pertes réalisés | +23.49 $ |
 
 ## 📈 Rentabilité par catégorie
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 24/10/2026 06:00 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 4 (203 $) |
 | ⚖️ Équilibré | 3 | 2 (67 %) | 90.49 $ | +32.68 $ | +36.1 % | 7 (181 $) |
-| 🎲 Outsider | 0 | 0 | 0.00 $ | +0.00 $ | – | 6 (104 $) |
+| 🎲 Outsider | 1 | 0 (0 %) | 20.00 $ | -20.00 $ | -100.0 % | 5 (84 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
@@ -50,7 +50,7 @@ Prédictions résolues : **9** · Score Brier IA **0.1979** vs marché **0.1403*
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
 | Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
 
-### 🎲 Outsider (6)
+### 🎲 Outsider (5)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -58,13 +58,13 @@ Prédictions résolues : **9** · Score Brier IA **0.1979** vs marché **0.1403*
 | Will Aleksandar Vučić – United Serbia win the most seats in the 2026 S | 25/10 | NO | 0.32 | 20.00 $ | +43.49 $ | 40% | 70% |
 | Will Harry Kane win the 2026 Ballon d'Or? | 27/10 | NO | 0.27 | 20.68 $ | +55.91 $ | 62% | 74% |
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
-| Will there be a Hormuz agreement and the Republicans win the Senate? | 04/11 | YES | 0.05 | 20.00 $ | +388.16 $ | 30% | 4% |
 | Will the Democrats win the Ohio governor race in 2026? | 04/11 | NO | 0.21 | 2.84 $ | +10.37 $ | 58% | 80% |
 
 ## 🧾 15 derniers trades clôturés
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Will there be a Hormuz agreement and the Republicans win the Senate? | 🎲 | YES | 20.00 $ | -20.00 $ |
 | ✅ | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | ⚖️ | NO | 30.00 $ | +39.77 $ |
 | ❌ | Will FC Bayern München win on 2026-10-21? | ⚖️ | YES | 30.32 $ | -30.32 $ |
 | ✅ | Will SSC Napoli win on 2026-10-20? | ⚖️ | YES | 30.17 $ | +23.23 $ |
