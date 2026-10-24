@@ -1129,6 +1129,24 @@
    "fin": "2026-10-24T16:30:00+00:00",
    "date": "2026-10-23T23:01:15.638443+00:00",
    "recherche": true
+  },
+  {
+   "id": "5598481",
+   "question": "Will Real Madrid CF win on 2026-10-25?",
+   "p_ia": 0.55,
+   "p_yes": 0.245,
+   "fin": "2026-10-25T20:00:00+00:00",
+   "date": "2026-10-24T05:01:34.870438+00:00",
+   "recherche": true
+  },
+  {
+   "id": "628940",
+   "question": "Will Steve Hilton win the California Governor Election in 2026?",
+   "p_ia": 0.01,
+   "p_yes": 0.031,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-24T05:02:17.496075+00:00",
+   "recherche": true
   }
  ]
 }
