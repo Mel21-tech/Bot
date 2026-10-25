@@ -1212,6 +1212,15 @@
    "fin": "2026-10-25T19:45:00+00:00",
    "date": "2026-10-25T05:02:13.570560+00:00",
    "recherche": true
+  },
+  {
+   "id": "5598478",
+   "question": "Will FC Barcelona vs. Real Madrid CF end in a draw?",
+   "p_ia": 0.19,
+   "p_yes": 0.155,
+   "fin": "2026-10-25T20:00:00+00:00",
+   "date": "2026-10-25T06:01:08.957987+00:00",
+   "recherche": true
   }
  ]
 }
