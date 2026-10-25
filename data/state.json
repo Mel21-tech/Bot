@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 473.90984628904664,
+ "capital": 538.6625344610896,
  "positions": [
   {
    "id": "682705",
@@ -244,22 +244,6 @@
    "ouverture": "2026-10-21T22:01:14.075248+00:00"
   },
   {
-   "id": "5593894",
-   "event": "1174996",
-   "question": "Will Liverpool FC win on 2026-10-25?",
-   "regles": "In the upcoming game, scheduled for October 25, 2026\nIf Liverpool FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
-   "p_yes": 0.455,
-   "fin": "2026-10-25T14:00:00+00:00",
-   "slug": "epl-liv-bri-2026-10-25-liv",
-   "cote": "YES",
-   "prix": 0.465,
-   "mise": 30.11,
-   "p_ia": 0.58,
-   "categorie": "Équilibré",
-   "raison": "Liverpool a un taux de victoire à domicile d'environ 65 % et une meilleure moyenne de points par match que Brighton, ce qui rend sa victoire à Anfield plus probable que le match nul ou la défaite.",
-   "ouverture": "2026-10-22T15:01:48.866518+00:00"
-  },
-  {
    "id": "1235549",
    "event": "179312",
    "question": "Will the Tampa Bay Rays win the 2026 World Series?",
@@ -406,6 +390,25 @@
    "resultat": 0.0,
    "pnl": -20.0,
    "cloture": "2026-10-24T07:00:54.570176+00:00"
+  },
+  {
+   "id": "5593894",
+   "event": "1174996",
+   "question": "Will Liverpool FC win on 2026-10-25?",
+   "regles": "In the upcoming game, scheduled for October 25, 2026\nIf Liverpool FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.455,
+   "fin": "2026-10-25T14:00:00+00:00",
+   "slug": "epl-liv-bri-2026-10-25-liv",
+   "cote": "YES",
+   "prix": 0.465,
+   "mise": 30.11,
+   "p_ia": 0.58,
+   "categorie": "Équilibré",
+   "raison": "Liverpool a un taux de victoire à domicile d'environ 65 % et une meilleure moyenne de points par match que Brighton, ce qui rend sa victoire à Anfield plus probable que le match nul ou la défaite.",
+   "ouverture": "2026-10-22T15:01:48.866518+00:00",
+   "resultat": 1.0,
+   "pnl": 34.64,
+   "cloture": "2026-10-25T17:00:55.148877+00:00"
   }
  ],
  "predictions": [
@@ -1074,7 +1077,8 @@
    "p_yes": 0.455,
    "fin": "2026-10-25T14:00:00+00:00",
    "date": "2026-10-22T15:01:48.866352+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "630706",

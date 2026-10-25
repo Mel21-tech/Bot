@@ -1,29 +1,29 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 16:24 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 17:00 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1023.48 $** (+2.3 %) |
-| Disponible | 473.91 $ |
-| Engagé | 549.57 $ sur 18 positions |
-| Trades clôturés | 6 · gagnés 4 (67 %) |
-| Gains/pertes réalisés | +23.49 $ |
+| **Capital total** | **1058.12 $** (+5.8 %) |
+| Disponible | 538.66 $ |
+| Engagé | 519.46 $ sur 17 positions |
+| Trades clôturés | 7 · gagnés 5 (71 %) |
+| Gains/pertes réalisés | +58.13 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 5 (255 $) |
-| ⚖️ Équilibré | 3 | 2 (67 %) | 90.49 $ | +32.68 $ | +36.1 % | 8 (211 $) |
+| ⚖️ Équilibré | 4 | 3 (75 %) | 120.60 $ | +67.32 $ | +55.8 % | 7 (181 $) |
 | 🎲 Outsider | 1 | 0 (0 %) | 20.00 $ | -20.00 $ | -100.0 % | 5 (84 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **13** · Score Brier IA **0.2026** vs marché **0.1546** (plus bas = meilleur)
+Prédictions résolues : **14** · Score Brier IA **0.2007** vs marché **0.1648** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
@@ -39,11 +39,10 @@ Prédictions résolues : **13** · Score Brier IA **0.2026** vs marché **0.1546
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 
-### ⚖️ Équilibré (8)
+### ⚖️ Équilibré (7)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
-| Will Liverpool FC win on 2026-10-25? | 25/10 | YES | 0.47 | 30.11 $ | +34.64 $ | 58% | 46% |
 | Will AC Milan win on 2026-10-25? | 25/10 | YES | 0.55 | 30.70 $ | +25.63 $ | 62% | 54% |
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | 26/10 | NO | 0.69 | 30.00 $ | +13.17 $ | 12% | 32% |
@@ -66,6 +65,7 @@ Prédictions résolues : **13** · Score Brier IA **0.2026** vs marché **0.1546
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | Will Liverpool FC win on 2026-10-25? | ⚖️ | YES | 30.11 $ | +34.64 $ |
 | ❌ | Will there be a Hormuz agreement and the Republicans win the Senate? | 🎲 | YES | 20.00 $ | -20.00 $ |
 | ✅ | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | ⚖️ | NO | 30.00 $ | +39.77 $ |
 | ❌ | Will FC Bayern München win on 2026-10-21? | ⚖️ | YES | 30.32 $ | -30.32 $ |
