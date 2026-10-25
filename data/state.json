@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 538.6625344610896,
+ "capital": 594.9928096904474,
  "positions": [
   {
    "id": "682705",
@@ -258,22 +258,6 @@
    "categorie": "Sûr",
    "raison": "Le modèle Opta projette une probabilité de 11,5 % pour les Rays",
    "ouverture": "2026-10-24T07:20:29.611901+00:00"
-  },
-  {
-   "id": "5590206",
-   "event": "1173950",
-   "question": "Will AC Milan win on 2026-10-25?",
-   "regles": "In the upcoming game, scheduled for October 25, 2026\nIf AC Milan wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
-   "p_yes": 0.535,
-   "fin": "2026-10-25T19:45:00+00:00",
-   "slug": "sea-udi-mil-2026-10-25-mil",
-   "cote": "YES",
-   "prix": 0.545,
-   "mise": 30.7,
-   "p_ia": 0.62,
-   "categorie": "Équilibré",
-   "raison": "AC Milan, club de haut niveau, affronte Udinese, milieu de tableau (10ᵉ en 2025‑26) et a déjà gagné les deux derniers duels directs, ce qui rend la victoire plus probable que le nul ou la défaite",
-   "ouverture": "2026-10-25T05:02:13.570719+00:00"
   }
  ],
  "historique": [
@@ -409,6 +393,25 @@
    "resultat": 1.0,
    "pnl": 34.64,
    "cloture": "2026-10-25T17:00:55.148877+00:00"
+  },
+  {
+   "id": "5590206",
+   "event": "1173950",
+   "question": "Will AC Milan win on 2026-10-25?",
+   "regles": "In the upcoming game, scheduled for October 25, 2026\nIf AC Milan wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.535,
+   "fin": "2026-10-25T19:45:00+00:00",
+   "slug": "sea-udi-mil-2026-10-25-mil",
+   "cote": "YES",
+   "prix": 0.545,
+   "mise": 30.7,
+   "p_ia": 0.62,
+   "categorie": "Équilibré",
+   "raison": "AC Milan, club de haut niveau, affronte Udinese, milieu de tableau (10ᵉ en 2025‑26) et a déjà gagné les deux derniers duels directs, ce qui rend la victoire plus probable que le nul ou la défaite",
+   "ouverture": "2026-10-25T05:02:13.570719+00:00",
+   "resultat": 1.0,
+   "pnl": 25.63,
+   "cloture": "2026-10-25T22:00:52.234745+00:00"
   }
  ],
  "predictions": [
@@ -1216,7 +1219,8 @@
    "p_yes": 0.535,
    "fin": "2026-10-25T19:45:00+00:00",
    "date": "2026-10-25T05:02:13.570560+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5598478",
