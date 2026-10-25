@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 04:03 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 05:02 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1023.48 $** (+2.3 %) |
-| Disponible | 504.61 $ |
-| Engagé | 518.87 $ sur 17 positions |
+| Disponible | 473.91 $ |
+| Engagé | 549.57 $ sur 18 positions |
 | Trades clôturés | 6 · gagnés 4 (67 %) |
 | Gains/pertes réalisés | +23.49 $ |
 
@@ -16,7 +16,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 04:03 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 5 (255 $) |
-| ⚖️ Équilibré | 3 | 2 (67 %) | 90.49 $ | +32.68 $ | +36.1 % | 7 (181 $) |
+| ⚖️ Équilibré | 3 | 2 (67 %) | 90.49 $ | +32.68 $ | +36.1 % | 8 (211 $) |
 | 🎲 Outsider | 1 | 0 (0 %) | 20.00 $ | -20.00 $ | -100.0 % | 5 (84 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
@@ -39,11 +39,12 @@ Prédictions résolues : **12** · Score Brier IA **0.2110** vs marché **0.1597
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 
-### ⚖️ Équilibré (7)
+### ⚖️ Équilibré (8)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Liverpool FC win on 2026-10-25? | 25/10 | YES | 0.47 | 30.11 $ | +34.64 $ | 58% | 46% |
+| Will AC Milan win on 2026-10-25? | 25/10 | YES | 0.55 | 30.70 $ | +25.63 $ | 62% | 54% |
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | 26/10 | NO | 0.69 | 30.00 $ | +13.17 $ | 12% | 32% |
 | Saudi Arabia military action against Yemen on October 29? | 30/10 | NO | 0.45 | 30.00 $ | +36.67 $ | 42% | 56% |
