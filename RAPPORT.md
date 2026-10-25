@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 22:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 22:35 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1083.75 $** (+8.4 %) |
-| Disponible | 594.99 $ |
-| Engagé | 488.76 $ sur 16 positions |
+| Disponible | 570.01 $ |
+| Engagé | 513.74 $ sur 17 positions |
 | Trades clôturés | 8 · gagnés 6 (75 %) |
 | Gains/pertes réalisés | +83.76 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 25/10/2026 22:00 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 5 (255 $) |
+| 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 6 (280 $) |
 | ⚖️ Équilibré | 5 | 4 (80 %) | 151.30 $ | +92.95 $ | +61.4 % | 6 (151 $) |
 | 🎲 Outsider | 1 | 0 (0 %) | 20.00 $ | -20.00 $ | -100.0 % | 5 (84 $) |
 
@@ -23,13 +23,13 @@ _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital ·
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **15** · Score Brier IA **0.1970** vs marché **0.1682** (plus bas = meilleur)
+Prédictions résolues : **18** · Score Brier IA **0.1974** vs marché **0.1928** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (5)
+### 🛡️ Sûr (6)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -38,6 +38,7 @@ Prédictions résolues : **15** · Score Brier IA **0.1970** vs marché **0.1682
 | Will the Tampa Bay Rays win the 2026 World Series? | 31/10 | NO | 0.75 | 51.17 $ | +17.42 $ | 12% | 26% |
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
+| Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and | 05/11 | NO | 0.83 | 24.98 $ | +4.94 $ | 13% | 18% |
 
 ### ⚖️ Équilibré (6)
 

@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 594.9928096904474,
+ "capital": 570.0128096904474,
  "positions": [
   {
    "id": "682705",
@@ -258,6 +258,22 @@
    "categorie": "Sûr",
    "raison": "Le modèle Opta projette une probabilité de 11,5 % pour les Rays",
    "ouverture": "2026-10-24T07:20:29.611901+00:00"
+  },
+  {
+   "id": "5336146",
+   "event": "1138395",
+   "question": "Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and Democrats win the US Senate?",
+   "regles": "The runoff round of the Brazilian presidential election is scheduled to take place on October 25, 2026. Legislative elections in Israel are scheduled to be held on October 27, 2026. The United States midterm elections are scheduled to be held on November 3, 2026.\n\nThis market will resolve to the single listed outcome that matches all three of the following: the winner of the Brazilian presidential election, the first Prime Minister of Israel to be sworn in as a result of the election, and the party that wins control of the United States Senate in the midterm elections. \n\nFor full rules for the Brazilian presidential election, click here: https://polymarket.com/event/brazil-presidential-election\n\nFor full rules for the Israeli Prime Minister, click here: https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election\n\nFor full rules for the United States Senate control, click here: https://polymarket.com/event/which-party-will-win-the-senate-in-2026\n\nAdditional options may be added to this market between market creation and resolution. \n\nIn the event that any constituent market resolves to \"Other,\" this market will resolve to \"Other.\"\n\nThis market will resolve according to the sources named in the three markets linked above.",
+   "p_yes": 0.175,
+   "fin": "2026-11-05T04:59:00+00:00",
+   "slug": "will-flavio-bolsonaro-win-brazil-gadi-eizenkot-become-israeli-pm-and-democrats-win-the-us-senate",
+   "cote": "NO",
+   "prix": 0.835,
+   "mise": 24.98,
+   "p_ia": 0.13,
+   "categorie": "Sûr",
+   "raison": "Les sondages montrent Flávio Bolsonaro légèrement en tête mais dans la marge d’erreur, Gadi Eisenkot en tête des sièges mais sans majorité claire pour former un gouvernement, et les marchés de prédiction donnent aux Démocrates environ 68 % de chances de contrôler le Sénat, ce qui rend la conjonction des trois événements peu probable.",
+   "ouverture": "2026-10-25T22:35:17.869584+00:00"
   }
  ],
  "historique": [
@@ -1183,7 +1199,8 @@
    "p_yes": 0.245,
    "fin": "2026-10-25T20:00:00+00:00",
    "date": "2026-10-24T05:01:34.870438+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "628940",
@@ -1210,7 +1227,8 @@
    "p_yes": 0.595,
    "fin": "2026-10-25T20:00:00+00:00",
    "date": "2026-10-25T05:01:09.100836+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "5590206",
@@ -1229,7 +1247,8 @@
    "p_yes": 0.155,
    "fin": "2026-10-25T20:00:00+00:00",
    "date": "2026-10-25T06:01:08.957987+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "648383",
@@ -1238,6 +1257,15 @@
    "p_yes": 0.205,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-25T19:01:28.718020+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5336146",
+   "question": "Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and Democrats win the US Senate?",
+   "p_ia": 0.13,
+   "p_yes": 0.175,
+   "fin": "2026-11-05T04:59:00+00:00",
+   "date": "2026-10-25T22:35:17.869272+00:00",
    "recherche": true
   }
  ]
