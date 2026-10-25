@@ -1226,6 +1226,15 @@
    "fin": "2026-10-25T20:00:00+00:00",
    "date": "2026-10-25T06:01:08.957987+00:00",
    "recherche": true
+  },
+  {
+   "id": "648383",
+   "question": "Billionaire one-time wealth tax passes in California election 2026?",
+   "p_ia": 0.22,
+   "p_yes": 0.205,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-25T19:01:28.718020+00:00",
+   "recherche": true
   }
  ]
 }
