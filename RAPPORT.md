@@ -1,29 +1,29 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 26/10/2026 03:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 26/10/2026 04:00 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1063.75 $** (+6.4 %) |
-| Disponible | 570.01 $ |
-| Engagé | 493.74 $ sur 16 positions |
-| Trades clôturés | 9 · gagnés 6 (67 %) |
-| Gains/pertes réalisés | +63.76 $ |
+| **Capital total** | **1076.92 $** (+7.7 %) |
+| Disponible | 613.18 $ |
+| Engagé | 463.74 $ sur 15 positions |
+| Trades clôturés | 10 · gagnés 7 (70 %) |
+| Gains/pertes réalisés | +76.93 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 6 (280 $) |
-| ⚖️ Équilibré | 5 | 4 (80 %) | 151.30 $ | +92.95 $ | +61.4 % | 6 (151 $) |
+| ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 5 (121 $) |
 | 🎲 Outsider | 2 | 0 (0 %) | 40.00 $ | -40.00 $ | -100.0 % | 4 (64 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **19** · Score Brier IA **0.1889** vs marché **0.1829** (plus bas = meilleur)
+Prédictions résolues : **20** · Score Brier IA **0.1802** vs marché **0.1787** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
@@ -40,12 +40,11 @@ Prédictions résolues : **19** · Score Brier IA **0.1889** vs marché **0.1829
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 | Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and | 05/11 | NO | 0.83 | 24.98 $ | +4.94 $ | 13% | 18% |
 
-### ⚖️ Équilibré (6)
+### ⚖️ Équilibré (5)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
-| Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | 26/10 | NO | 0.69 | 30.00 $ | +13.17 $ | 12% | 32% |
 | Saudi Arabia military action against Yemen on October 29? | 30/10 | NO | 0.45 | 30.00 $ | +36.67 $ | 42% | 56% |
 | 2026 Balance of Power: D Senate, D House | 04/11 | NO | 0.39 | 26.42 $ | +42.20 $ | 55% | 62% |
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
@@ -64,6 +63,7 @@ Prédictions résolues : **19** · Score Brier IA **0.1889** vs marché **0.1829
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | ⚖️ | NO | 30.00 $ | +13.17 $ |
 | ❌ | US x Iran ceasefire continues through October 22? | 🎲 | NO | 20.00 $ | -20.00 $ |
 | ✅ | Will AC Milan win on 2026-10-25? | ⚖️ | YES | 30.70 $ | +25.63 $ |
 | ✅ | Will Liverpool FC win on 2026-10-25? | ⚖️ | YES | 30.11 $ | +34.64 $ |
