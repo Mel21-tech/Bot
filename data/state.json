@@ -1267,6 +1267,24 @@
    "fin": "2026-11-05T04:59:00+00:00",
    "date": "2026-10-25T22:35:17.869272+00:00",
    "recherche": true
+  },
+  {
+   "id": "6027089",
+   "question": "Israel x Iran ceasefire continues through October 27?",
+   "p_ia": 0.01,
+   "p_yes": 0.935,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-26T02:03:42.395526+00:00",
+   "recherche": true
+  },
+  {
+   "id": "1284082",
+   "question": "Will the Democratic Party win the NC-13 House seat?",
+   "p_ia": 0.31,
+   "p_yes": 0.31,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-26T02:03:58.599256+00:00",
+   "recherche": true
   }
  ]
 }
