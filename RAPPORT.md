@@ -1,15 +1,15 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 26/10/2026 02:04 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 26/10/2026 03:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1083.75 $** (+8.4 %) |
+| **Capital total** | **1063.75 $** (+6.4 %) |
 | Disponible | 570.01 $ |
-| Engagé | 513.74 $ sur 17 positions |
-| Trades clôturés | 8 · gagnés 6 (75 %) |
-| Gains/pertes réalisés | +83.76 $ |
+| Engagé | 493.74 $ sur 16 positions |
+| Trades clôturés | 9 · gagnés 6 (67 %) |
+| Gains/pertes réalisés | +63.76 $ |
 
 ## 📈 Rentabilité par catégorie
 
@@ -17,13 +17,13 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 26/10/2026 02:04 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 6 (280 $) |
 | ⚖️ Équilibré | 5 | 4 (80 %) | 151.30 $ | +92.95 $ | +61.4 % | 6 (151 $) |
-| 🎲 Outsider | 1 | 0 (0 %) | 20.00 $ | -20.00 $ | -100.0 % | 5 (84 $) |
+| 🎲 Outsider | 2 | 0 (0 %) | 40.00 $ | -40.00 $ | -100.0 % | 4 (64 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **18** · Score Brier IA **0.1974** vs marché **0.1928** (plus bas = meilleur)
+Prédictions résolues : **19** · Score Brier IA **0.1889** vs marché **0.1829** (plus bas = meilleur)
 
 ⏳ Pas encore assez de données (il en faut au moins 30, idéalement 100+).
 
@@ -51,11 +51,10 @@ Prédictions résolues : **18** · Score Brier IA **0.1974** vs marché **0.1928
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
 | Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
 
-### 🎲 Outsider (5)
+### 🎲 Outsider (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
-| US x Iran ceasefire continues through October 22? | 23/10 | NO | 0.07 | 20.00 $ | +246.67 $ | 81% | 94% |
 | Will Aleksandar Vučić – United Serbia win the most seats in the 2026 S | 25/10 | NO | 0.32 | 20.00 $ | +43.49 $ | 40% | 70% |
 | Will Harry Kane win the 2026 Ballon d'Or? | 27/10 | NO | 0.27 | 20.68 $ | +55.91 $ | 62% | 74% |
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
@@ -65,6 +64,7 @@ Prédictions résolues : **18** · Score Brier IA **0.1974** vs marché **0.1928
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | US x Iran ceasefire continues through October 22? | 🎲 | NO | 20.00 $ | -20.00 $ |
 | ✅ | Will AC Milan win on 2026-10-25? | ⚖️ | YES | 30.70 $ | +25.63 $ |
 | ✅ | Will Liverpool FC win on 2026-10-25? | ⚖️ | YES | 30.11 $ | +34.64 $ |
 | ❌ | Will there be a Hormuz agreement and the Republicans win the Senate? | 🎲 | YES | 20.00 $ | -20.00 $ |

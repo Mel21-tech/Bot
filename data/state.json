@@ -68,22 +68,6 @@
    "ouverture": "2026-10-18T11:01:35.212207+00:00"
   },
   {
-   "id": "5686979",
-   "event": "1038648",
-   "question": "US x Iran ceasefire continues through October 22?",
-   "regles": "This market will resolve to “No” if the United States takes a qualifying military action against Iran by the specified date, 11:59 PM Iran Standard Time. Otherwise this market will resolve to “Yes.”\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the United States, that directly impacts Iran. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Iran do not constitute a military action regardless of any damage incurred.\n\n“Iran” refers to the terrestrial territory of Iran, including its internal waters. Iran’s maritime territory and airspace are not encompassed. Where territoria",
-   "p_yes": 0.935,
-   "fin": "2026-10-23T03:59:00+00:00",
-   "slug": "us-x-iran-ceasefire-continues-through-october-22",
-   "cote": "NO",
-   "prix": 0.075,
-   "mise": 20.0,
-   "p_ia": 0.81,
-   "categorie": "Outsider",
-   "raison": "Les négociations en cours et l'absence d'actions militaires récentes rendent improbable une frappe américaine qualifiée avant le 22 octobre, bien que la tension persiste.",
-   "ouverture": "2026-10-18T22:01:09.412987+00:00"
-  },
-  {
    "id": "4824600",
    "event": "1061332",
    "question": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
@@ -428,6 +412,25 @@
    "resultat": 1.0,
    "pnl": 25.63,
    "cloture": "2026-10-25T22:00:52.234745+00:00"
+  },
+  {
+   "id": "5686979",
+   "event": "1038648",
+   "question": "US x Iran ceasefire continues through October 22?",
+   "regles": "This market will resolve to “No” if the United States takes a qualifying military action against Iran by the specified date, 11:59 PM Iran Standard Time. Otherwise this market will resolve to “Yes.”\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the United States, that directly impacts Iran. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munitions that land on Iran do not constitute a military action regardless of any damage incurred.\n\n“Iran” refers to the terrestrial territory of Iran, including its internal waters. Iran’s maritime territory and airspace are not encompassed. Where territoria",
+   "p_yes": 0.935,
+   "fin": "2026-10-23T03:59:00+00:00",
+   "slug": "us-x-iran-ceasefire-continues-through-october-22",
+   "cote": "NO",
+   "prix": 0.075,
+   "mise": 20.0,
+   "p_ia": 0.81,
+   "categorie": "Outsider",
+   "raison": "Les négociations en cours et l'absence d'actions militaires récentes rendent improbable une frappe américaine qualifiée avant le 22 octobre, bien que la tension persiste.",
+   "ouverture": "2026-10-18T22:01:09.412987+00:00",
+   "resultat": 1.0,
+   "pnl": -20.0,
+   "cloture": "2026-10-26T03:00:57.987054+00:00"
   }
  ],
  "predictions": [
@@ -593,7 +596,8 @@
    "p_yes": 0.935,
    "fin": "2026-10-23T03:59:00+00:00",
    "date": "2026-10-18T22:01:09.412798+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "4824600",
@@ -1284,6 +1288,15 @@
    "p_yes": 0.31,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-26T02:03:58.599256+00:00",
+   "recherche": true
+  },
+  {
+   "id": "3554657",
+   "question": "Will Anthropic have the best AI model at the end of October 2026?",
+   "p_ia": 0.12,
+   "p_yes": 0.127,
+   "fin": "2026-10-31T16:00:00+00:00",
+   "date": "2026-10-26T03:01:14.484042+00:00",
    "recherche": true
   }
  ]
