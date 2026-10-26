@@ -1,21 +1,21 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 26/10/2026 04:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 26/10/2026 05:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1076.92 $** (+7.7 %) |
-| Disponible | 613.18 $ |
-| Engagé | 463.74 $ sur 15 positions |
-| Trades clôturés | 10 · gagnés 7 (70 %) |
-| Gains/pertes réalisés | +76.93 $ |
+| **Capital total** | **1081.85 $** (+8.2 %) |
+| Disponible | 643.09 $ |
+| Engagé | 438.76 $ sur 14 positions |
+| Trades clôturés | 11 · gagnés 8 (73 %) |
+| Gains/pertes réalisés | +81.87 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 2 | 2 (100 %) | 100.00 $ | +10.81 $ | +10.8 % | 6 (280 $) |
+| 🛡️ Sûr | 3 | 3 (100 %) | 124.98 $ | +15.75 $ | +12.6 % | 5 (255 $) |
 | ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 5 (121 $) |
 | 🎲 Outsider | 2 | 0 (0 %) | 40.00 $ | -40.00 $ | -100.0 % | 4 (64 $) |
 
@@ -29,7 +29,7 @@ Prédictions résolues : **20** · Score Brier IA **0.1802** vs marché **0.1787
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (6)
+### 🛡️ Sûr (5)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -38,7 +38,6 @@ Prédictions résolues : **20** · Score Brier IA **0.1802** vs marché **0.1787
 | Will the Tampa Bay Rays win the 2026 World Series? | 31/10 | NO | 0.75 | 51.17 $ | +17.42 $ | 12% | 26% |
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
-| Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and | 05/11 | NO | 0.83 | 24.98 $ | +4.94 $ | 13% | 18% |
 
 ### ⚖️ Équilibré (5)
 
@@ -63,6 +62,7 @@ Prédictions résolues : **20** · Score Brier IA **0.1802** vs marché **0.1787
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and | 🛡️ | NO | 24.98 $ | +4.94 $ |
 | ✅ | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | ⚖️ | NO | 30.00 $ | +13.17 $ |
 | ❌ | US x Iran ceasefire continues through October 22? | 🎲 | NO | 20.00 $ | -20.00 $ |
 | ✅ | Will AC Milan win on 2026-10-25? | ⚖️ | YES | 30.70 $ | +25.63 $ |
