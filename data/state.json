@@ -1367,6 +1367,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-26T13:01:11.355266+00:00",
    "recherche": true
+  },
+  {
+   "id": "630773",
+   "question": "Will the Republicans win the Maine Senate race in 2026?",
+   "p_ia": 0.38,
+   "p_yes": 0.405,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-26T23:01:10.234785+00:00",
+   "recherche": true
   }
  ]
 }
