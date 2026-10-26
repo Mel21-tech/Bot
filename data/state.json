@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 706.5865084730808,
+ "capital": 684.0765084730808,
  "positions": [
   {
    "id": "682705",
@@ -210,6 +210,22 @@
    "categorie": "Sûr",
    "raison": "Le modèle Opta projette une probabilité de 11,5 % pour les Rays",
    "ouverture": "2026-10-24T07:20:29.611901+00:00"
+  },
+  {
+   "id": "1812607",
+   "event": "330634",
+   "question": "Will Olivia Chow win the 2026 Toronto mayoral election?",
+   "regles": "The 2026 Toronto mayoral election is currently scheduled to be held on October 26, 2026.\n\nThis market will resolve according to the candidate who becomes the next mayor of Toronto as a result of this election.\n\nTemporary, interim, or placeholder mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from Toronto.",
+   "p_yes": 0.845,
+   "fin": "2026-10-27T03:59:00+00:00",
+   "slug": "will-olivia-chow-win-the-2026-toronto-mayoral-election-465",
+   "cote": "NO",
+   "prix": 0.165,
+   "mise": 22.51,
+   "p_ia": 0.65,
+   "categorie": "Outsider",
+   "raison": "Les derniers sondages montrent Olivia Chow avec une avance de 5 à 10 points, mais la course reste serrée et sujette à variation selon le taux de participation.",
+   "ouverture": "2026-10-26T09:01:21.792867+00:00"
   }
  ],
  "historique": [
@@ -1331,6 +1347,15 @@
    "p_yes": 0.9675,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-26T07:01:49.440272+00:00",
+   "recherche": true
+  },
+  {
+   "id": "1812607",
+   "question": "Will Olivia Chow win the 2026 Toronto mayoral election?",
+   "p_ia": 0.65,
+   "p_yes": 0.845,
+   "fin": "2026-10-27T03:59:00+00:00",
+   "date": "2026-10-26T09:01:21.792640+00:00",
    "recherche": true
   }
  ]
