@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 643.0944449810173,
+ "capital": 706.5865084730808,
  "positions": [
   {
    "id": "682705",
@@ -66,22 +66,6 @@
    "categorie": "Outsider",
    "raison": "Les modèles actuels prévoient une majorité démocrate avec environ 70 % de probabilité.",
    "ouverture": "2026-10-18T11:01:35.212207+00:00"
-  },
-  {
-   "id": "4824600",
-   "event": "1061332",
-   "question": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
-   "regles": "Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.\n\nThis market will resolve to the electoral list that wins the greatest number of seats in the National Assembly of Serbia as a result of this election.\n\nElectoral lists will be primarily ranked by the number of seats won in the specified election. If two or more lists are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If lists remain tied, ties will be broken by alphabetical order of the listed names. This market will resolve to the list that occupies the highest finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named electoral list, as it appears on the ballot and official proclamations, regardless of which parties make up the list or how its members later organize themselves in the National Assembly.\n\nIf the results of the specified election are not definitively known by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Republic Electoral Commission of Serbia (https://www.rik.parlament.gov.rs/).",
-   "p_yes": 0.695,
-   "fin": "2026-10-25T23:59:00+00:00",
-   "slug": "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
-   "cote": "NO",
-   "prix": 0.315,
-   "mise": 20.0,
-   "p_ia": 0.4,
-   "categorie": "Outsider",
-   "raison": "Les sondages sont très divergents, aucune tendance claire.",
-   "ouverture": "2026-10-18T22:01:44.088461+00:00"
   },
   {
    "id": "5167210",
@@ -437,6 +421,25 @@
    "resultat": 0.0,
    "pnl": 4.94,
    "cloture": "2026-10-26T05:00:58.757582+00:00"
+  },
+  {
+   "id": "4824600",
+   "event": "1061332",
+   "question": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+   "regles": "Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.\n\nThis market will resolve to the electoral list that wins the greatest number of seats in the National Assembly of Serbia as a result of this election.\n\nElectoral lists will be primarily ranked by the number of seats won in the specified election. If two or more lists are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If lists remain tied, ties will be broken by alphabetical order of the listed names. This market will resolve to the list that occupies the highest finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named electoral list, as it appears on the ballot and official proclamations, regardless of which parties make up the list or how its members later organize themselves in the National Assembly.\n\nIf the results of the specified election are not definitively known by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Republic Electoral Commission of Serbia (https://www.rik.parlament.gov.rs/).",
+   "p_yes": 0.695,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "slug": "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+   "cote": "NO",
+   "prix": 0.315,
+   "mise": 20.0,
+   "p_ia": 0.4,
+   "categorie": "Outsider",
+   "raison": "Les sondages sont très divergents, aucune tendance claire.",
+   "ouverture": "2026-10-18T22:01:44.088461+00:00",
+   "resultat": 0.0,
+   "pnl": 43.49,
+   "cloture": "2026-10-26T06:00:54.761591+00:00"
   }
  ],
  "predictions": [
@@ -474,7 +477,8 @@
    "p_yes": 0.0905,
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-18T08:23:34.102614+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "3120760",
@@ -612,7 +616,8 @@
    "p_yes": 0.695,
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-18T22:01:44.088279+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "5340070",
@@ -667,7 +672,8 @@
    "p_yes": 0.0375,
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-19T01:21:21.419579+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "5732710",
@@ -686,7 +692,8 @@
    "p_yes": 0.39,
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-19T03:01:09.753615+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "5409197",
@@ -981,7 +988,8 @@
    "p_yes": 0.72,
    "fin": "2026-10-26T03:59:00+00:00",
    "date": "2026-10-20T23:01:18.955476+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "4890262",
@@ -1089,7 +1097,8 @@
    "p_yes": 0.325,
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-22T06:01:39.983023+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "4118937",
@@ -1304,6 +1313,15 @@
    "p_yes": 0.127,
    "fin": "2026-10-31T16:00:00+00:00",
    "date": "2026-10-26T03:01:14.484042+00:00",
+   "recherche": true
+  },
+  {
+   "id": "631057",
+   "question": "Will the Democrats win the Ohio Senate race in 2026?",
+   "p_ia": 0.63,
+   "p_yes": 0.685,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-26T06:01:11.080747+00:00",
    "recherche": true
   }
  ]
