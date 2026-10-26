@@ -1323,6 +1323,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-26T06:01:11.080747+00:00",
    "recherche": true
+  },
+  {
+   "id": "628941",
+   "question": "Will Xavier Becerra win the California Governor Election in 2026?",
+   "p_ia": 0.88,
+   "p_yes": 0.9675,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-26T07:01:49.440272+00:00",
+   "recherche": true
   }
  ]
 }
