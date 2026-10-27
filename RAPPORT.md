@@ -1,5 +1,5 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 27/10/2026 11:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 27/10/2026 11:58 UTC_
 
 ## 💰 Résumé
 
@@ -19,7 +19,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 27/10/2026 11:01 UTC_
 | ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 5 (121 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 3 (45 $) |
 
-_🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
+_🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
