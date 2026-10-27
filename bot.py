@@ -30,8 +30,8 @@ EDGE_MIN = {"Sûr": 0.03, "Équilibré": 0.05, "Outsider": 0.08}   # avantage mi
 EV_MIN = 0.03               # gain espéré mini : +3 % par $ misé
 EDGE_MAX = 0.30             # au-delà de 30 points d'écart, c'est sûrement l'IA qui se trompe
 
-KELLY_FRACTION = 0.25       # quart de Kelly (prudent)
-MISE_MAX_CAT = {"Sûr": 0.05, "Équilibré": 0.03, "Outsider": 0.02}   # mise max par pari, en % du capital
+KELLY_FRACTION = {"Sûr": 0.25, "Équilibré": 0.25, "Outsider": 0.10}   # fraction de Kelly (plus prudent sur les outsiders)
+MISE_MAX_CAT = {"Sûr": 0.05, "Équilibré": 0.03, "Outsider": 0.01}   # mise max par pari, en % du capital
 MISE_MIN = 1.0              # mise mini en $
 EXPO_MAX = 0.75             # max 75 % du capital engagé en même temps
 EXPO_CAT = {"Sûr": 0.75, "Équilibré": 0.75, "Outsider": 0.20}   # max engagé par catégorie (outsiders limités)
@@ -409,7 +409,7 @@ def decider(p_ia, p_yes, st, question=""):
     engage = total - st["capital"]
     engage_cat = sum(p["mise"] for p in st["positions"] if cat_de(p) == cat)
     kelly = (p_win - prix) / (1 - prix)
-    mise = min(total * kelly * KELLY_FRACTION, total * MISE_MAX_CAT[cat],
+    mise = min(total * kelly * KELLY_FRACTION[cat], total * MISE_MAX_CAT[cat],
                total * EXPO_MAX - engage, total * EXPO_CAT[cat] - engage_cat, st["capital"])
     th = theme(question)
     if th:
@@ -482,7 +482,7 @@ def rapport(st):
                  + f" | {len(pc)} ({sum(p['mise'] for p in pc):.0f} $) |")
     L += ["", "_🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · "
           "⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · "
-          "🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % "
+          "🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % "
           "(et 20 % du capital au total)._", ""]
 
     # --- Brier
