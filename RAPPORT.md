@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 27/10/2026 02:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 27/10/2026 03:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1104.67 $** (+10.5 %) |
-| Disponible | 684.08 $ |
-| Engagé | 420.59 $ sur 13 positions |
+| Disponible | 661.99 $ |
+| Engagé | 442.68 $ sur 14 positions |
 | Trades clôturés | 13 · gagnés 9 (69 %) |
 | Gains/pertes réalisés | +104.68 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 27/10/2026 02:00 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 3 | 3 (100 %) | 124.98 $ | +15.75 $ | +12.6 % | 5 (255 $) |
 | ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 5 (121 $) |
-| 🎲 Outsider | 4 | 1 (25 %) | 80.68 $ | -17.19 $ | -21.3 % | 3 (45 $) |
+| 🎲 Outsider | 4 | 1 (25 %) | 80.68 $ | -17.19 $ | -21.3 % | 4 (67 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise max 2 % (et 20 % du capital au total)._
 
@@ -49,13 +49,14 @@ Prédictions résolues : **27** · Score Brier IA **0.1879** vs marché **0.2169
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
 | Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
 
-### 🎲 Outsider (3)
+### 🎲 Outsider (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Olivia Chow win the 2026 Toronto mayoral election? | 27/10 | NO | 0.17 | 22.51 $ | +113.91 $ | 65% | 84% |
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
 | Will the Democrats win the Ohio governor race in 2026? | 04/11 | NO | 0.21 | 2.84 $ | +10.37 $ | 58% | 80% |
+| Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
 
 ## 🧾 15 derniers trades clôturés
 

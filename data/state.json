@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 684.0765084730808,
+ "capital": 661.9865084730808,
  "positions": [
   {
    "id": "682705",
@@ -210,6 +210,22 @@
    "categorie": "Outsider",
    "raison": "Les derniers sondages montrent Olivia Chow avec une avance de 5 à 10 points, mais la course reste serrée et sujette à variation selon le taux de participation.",
    "ouverture": "2026-10-26T09:01:21.792867+00:00"
+  },
+  {
+   "id": "634976",
+   "event": "59233",
+   "question": "Will Mary Peltola win the Alaska Senate race in 2026?",
+   "regles": "This market will resolve according to the winner of the 2026 midterm Alaska U.S. Senate election, inclusive of any run-offs, currently scheduled for November 3, 2026.\n\nIf the results of the election are not confirmed by July 31, 2027, this market will resolve to \"Other\".\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race in this state for the same candidate, this market will resolve based on official certification.",
+   "p_yes": 0.735,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+   "cote": "NO",
+   "prix": 0.275,
+   "mise": 22.09,
+   "p_ia": 0.57,
+   "categorie": "Outsider",
+   "raison": "Les sondages récents montrent Peltola légèrement en tête et le vote split possible pour les républicains pourrait favoriser sa victoire.",
+   "ouverture": "2026-10-27T03:01:52.257912+00:00"
   }
  ],
  "historique": [
@@ -1378,6 +1394,24 @@
    "p_yes": 0.405,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-26T23:01:10.234785+00:00",
+   "recherche": true
+  },
+  {
+   "id": "1235568",
+   "question": "Will the Milwaukee Brewers win the 2026 World Series?",
+   "p_ia": 0.88,
+   "p_yes": 0.954,
+   "fin": "2026-10-31T23:55:00+00:00",
+   "date": "2026-10-27T03:01:21.587354+00:00",
+   "recherche": true
+  },
+  {
+   "id": "634976",
+   "question": "Will Mary Peltola win the Alaska Senate race in 2026?",
+   "p_ia": 0.57,
+   "p_yes": 0.735,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-27T03:01:52.257649+00:00",
    "recherche": true
   }
  ]
