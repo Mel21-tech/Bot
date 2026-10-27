@@ -1452,6 +1452,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-27T06:01:10.051675+00:00",
    "recherche": true
+  },
+  {
+   "id": "5401795",
+   "question": "Military action against Saudi Oil Pipeline (East-West) by October 31?",
+   "p_ia": 0.22,
+   "p_yes": 0.24,
+   "fin": "2026-10-31T20:59:00+00:00",
+   "date": "2026-10-27T07:01:10.808218+00:00",
+   "recherche": true
   }
  ]
 }
