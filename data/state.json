@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 661.9865084730808,
+ "capital": 719.2401075871451,
  "positions": [
   {
    "id": "682705",
@@ -116,22 +116,6 @@
    "ouverture": "2026-10-20T06:01:54.102097+00:00"
   },
   {
-   "id": "4890262",
-   "event": "1071009",
-   "question": "Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?",
-   "regles": "The first round of the 2026 Bulgarian presidential election is currently expected to be held on October 25, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the specified election.\n\nThe \"margin of victory\" is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nThe candidates named in this market are individual candidates appearing on the first round ballot. They do not represent party options, and this market will not resolve based on the party affiliation of any candidate.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two or more candidates tie for the most valid votes in this election, and the tie is between two candidates listed, this market will resolve to the lowest margin bracket for the candidate whose ballot-listed last name comes first in alphabetical order. If the tie is between a listed candidate and an unlisted candidate, this market will resolve to the lowest margin bracket for the listed candidate. If the tie is between two or more unlisted candidates, this market will resolve to \"Other.\"\n\nThis market will resolve based on the of",
-   "p_yes": 0.107,
-   "fin": "2026-10-25T23:59:00+00:00",
-   "slug": "will-iliana-iotova-win-the-2026-bulgarian-presidential-first-round-by-40",
-   "cote": "NO",
-   "prix": 0.903,
-   "mise": 51.7,
-   "p_ia": 0.02,
-   "categorie": "Sûr",
-   "raison": "Les sondages actuels montrent un écart bien en dessous de 40 %.",
-   "ouverture": "2026-10-20T23:01:41.519189+00:00"
-  },
-  {
    "id": "5571194",
    "event": "794064",
    "question": "US-Iran Hormuz Agreement by November 2?",
@@ -194,22 +178,6 @@
    "categorie": "Sûr",
    "raison": "Le modèle Opta projette une probabilité de 11,5 % pour les Rays",
    "ouverture": "2026-10-24T07:20:29.611901+00:00"
-  },
-  {
-   "id": "1812607",
-   "event": "330634",
-   "question": "Will Olivia Chow win the 2026 Toronto mayoral election?",
-   "regles": "The 2026 Toronto mayoral election is currently scheduled to be held on October 26, 2026.\n\nThis market will resolve according to the candidate who becomes the next mayor of Toronto as a result of this election.\n\nTemporary, interim, or placeholder mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from Toronto.",
-   "p_yes": 0.845,
-   "fin": "2026-10-27T03:59:00+00:00",
-   "slug": "will-olivia-chow-win-the-2026-toronto-mayoral-election-465",
-   "cote": "NO",
-   "prix": 0.165,
-   "mise": 22.51,
-   "p_ia": 0.65,
-   "categorie": "Outsider",
-   "raison": "Les derniers sondages montrent Olivia Chow avec une avance de 5 à 10 points, mais la course reste serrée et sujette à variation selon le taux de participation.",
-   "ouverture": "2026-10-26T09:01:21.792867+00:00"
   },
   {
    "id": "634976",
@@ -475,6 +443,44 @@
    "resultat": 1.0,
    "pnl": -20.68,
    "cloture": "2026-10-27T02:00:54.188208+00:00"
+  },
+  {
+   "id": "4890262",
+   "event": "1071009",
+   "question": "Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?",
+   "regles": "The first round of the 2026 Bulgarian presidential election is currently expected to be held on October 25, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the first round of the specified election.\n\nThe \"margin of victory\" is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nThe candidates named in this market are individual candidates appearing on the first round ballot. They do not represent party options, and this market will not resolve based on the party affiliation of any candidate.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.\n\nIf two or more candidates tie for the most valid votes in this election, and the tie is between two candidates listed, this market will resolve to the lowest margin bracket for the candidate whose ballot-listed last name comes first in alphabetical order. If the tie is between a listed candidate and an unlisted candidate, this market will resolve to the lowest margin bracket for the listed candidate. If the tie is between two or more unlisted candidates, this market will resolve to \"Other.\"\n\nThis market will resolve based on the of",
+   "p_yes": 0.107,
+   "fin": "2026-10-25T23:59:00+00:00",
+   "slug": "will-iliana-iotova-win-the-2026-bulgarian-presidential-first-round-by-40",
+   "cote": "NO",
+   "prix": 0.903,
+   "mise": 51.7,
+   "p_ia": 0.02,
+   "categorie": "Sûr",
+   "raison": "Les sondages actuels montrent un écart bien en dessous de 40 %.",
+   "ouverture": "2026-10-20T23:01:41.519189+00:00",
+   "resultat": 0.0,
+   "pnl": 5.55,
+   "cloture": "2026-10-27T05:00:56.540865+00:00"
+  },
+  {
+   "id": "1812607",
+   "event": "330634",
+   "question": "Will Olivia Chow win the 2026 Toronto mayoral election?",
+   "regles": "The 2026 Toronto mayoral election is currently scheduled to be held on October 26, 2026.\n\nThis market will resolve according to the candidate who becomes the next mayor of Toronto as a result of this election.\n\nTemporary, interim, or placeholder mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from Toronto.",
+   "p_yes": 0.845,
+   "fin": "2026-10-27T03:59:00+00:00",
+   "slug": "will-olivia-chow-win-the-2026-toronto-mayoral-election-465",
+   "cote": "NO",
+   "prix": 0.165,
+   "mise": 22.51,
+   "p_ia": 0.65,
+   "categorie": "Outsider",
+   "raison": "Les derniers sondages montrent Olivia Chow avec une avance de 5 à 10 points, mais la course reste serrée et sujette à variation selon le taux de participation.",
+   "ouverture": "2026-10-26T09:01:21.792867+00:00",
+   "resultat": 1.0,
+   "pnl": -22.51,
+   "cloture": "2026-10-27T05:00:56.735463+00:00"
   }
  ],
  "predictions": [
@@ -1035,7 +1041,8 @@
    "p_yes": 0.107,
    "fin": "2026-10-25T23:59:00+00:00",
    "date": "2026-10-20T23:01:41.519005+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "630805",
@@ -1380,7 +1387,8 @@
    "p_yes": 0.845,
    "fin": "2026-10-27T03:59:00+00:00",
    "date": "2026-10-26T09:01:21.792640+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "629691",
@@ -1416,6 +1424,24 @@
    "p_yes": 0.735,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-27T03:01:52.257649+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5674420",
+   "question": "Will Como 1907 win on 2026-10-27?",
+   "p_ia": 0.57,
+   "p_yes": 0.595,
+   "fin": "2026-10-27T19:45:00+00:00",
+   "date": "2026-10-27T05:01:09.539819+00:00",
+   "recherche": true
+  },
+  {
+   "id": "2110578",
+   "question": "Will Likud win 25-29 seats in the 2026 Israeli legislative election?",
+   "p_ia": 0.96,
+   "p_yes": 0.185,
+   "fin": "2026-10-28T03:59:00+00:00",
+   "date": "2026-10-27T05:02:20.003456+00:00",
    "recherche": true
   }
  ]
