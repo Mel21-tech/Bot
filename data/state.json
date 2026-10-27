@@ -164,22 +164,6 @@
    "ouverture": "2026-10-21T06:01:11.990774+00:00"
   },
   {
-   "id": "608547",
-   "event": "48361",
-   "question": "Will Harry Kane win the 2026 Ballon d'Or?",
-   "regles": "This market will resolve according to the winner of the 2026 Ballon d’Or.\n\nIf no 2026 Ballon d’Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
-   "p_yes": 0.7395,
-   "fin": "2026-10-27T03:59:00+00:00",
-   "slug": "will-harry-kane-win-the-2026-ballon-dor",
-   "cote": "NO",
-   "prix": 0.27,
-   "mise": 20.68,
-   "p_ia": 0.62,
-   "categorie": "Outsider",
-   "raison": "Kane est favori avec 62 % d’odds et les bookmakers l’ont confirmé.",
-   "ouverture": "2026-10-21T16:02:03.946519+00:00"
-  },
-  {
    "id": "2757891",
    "event": "655483",
    "question": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
@@ -456,6 +440,25 @@
    "resultat": 0.0,
    "pnl": 43.49,
    "cloture": "2026-10-26T06:00:54.761591+00:00"
+  },
+  {
+   "id": "608547",
+   "event": "48361",
+   "question": "Will Harry Kane win the 2026 Ballon d'Or?",
+   "regles": "This market will resolve according to the winner of the 2026 Ballon d’Or.\n\nIf no 2026 Ballon d’Or winner is declared by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe primary resolution source for this market is official information from France Football (https://www.francefootball.fr/).",
+   "p_yes": 0.7395,
+   "fin": "2026-10-27T03:59:00+00:00",
+   "slug": "will-harry-kane-win-the-2026-ballon-dor",
+   "cote": "NO",
+   "prix": 0.27,
+   "mise": 20.68,
+   "p_ia": 0.62,
+   "categorie": "Outsider",
+   "raison": "Kane est favori avec 62 % d’odds et les bookmakers l’ont confirmé.",
+   "ouverture": "2026-10-21T16:02:03.946519+00:00",
+   "resultat": 1.0,
+   "pnl": -20.68,
+   "cloture": "2026-10-27T02:00:54.188208+00:00"
   }
  ],
  "predictions": [
