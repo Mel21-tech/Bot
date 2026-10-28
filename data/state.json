@@ -1464,6 +1464,15 @@
    "fin": "2026-10-31T20:59:00+00:00",
    "date": "2026-10-27T07:01:10.808218+00:00",
    "recherche": true
+  },
+  {
+   "id": "630925",
+   "question": "Will the Republicans win the South Carolina Senate race in 2026?",
+   "p_ia": 0.68,
+   "p_yes": 0.765,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-28T10:01:13.209330+00:00",
+   "recherche": true
   }
  ]
 }
