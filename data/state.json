@@ -1573,6 +1573,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-29T17:01:17.433530+00:00",
    "recherche": true
+  },
+  {
+   "id": "629690",
+   "question": "Will the Democrats win the Texas governor race in 2026?",
+   "p_ia": 0.07,
+   "p_yes": 0.355,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-29T19:01:13.499885+00:00",
+   "recherche": true
   }
  ]
 }
