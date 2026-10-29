@@ -1473,6 +1473,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-28T10:01:13.209330+00:00",
    "recherche": true
+  },
+  {
+   "id": "5686980",
+   "question": "US x Iran ceasefire continues through November 8?",
+   "p_ia": 0.35,
+   "p_yes": 0.8,
+   "fin": "2026-11-09T04:59:00+00:00",
+   "date": "2026-10-29T00:01:16.003849+00:00",
+   "recherche": true
   }
  ]
 }
