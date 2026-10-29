@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 784.5526008847322,
+ "capital": 782.8126008847322,
  "positions": [
   {
    "id": "682705",
@@ -194,6 +194,22 @@
    "categorie": "Équilibré",
    "raison": "Les prévisions de Decision Desk donnent à Richard Hudson (R) 77 % de chances et à Richard Ojeda (D) 23 %, le district étant classé solidement républicain (R+8) malgré un léger avantage du républicain dans le seul sondage disponible.",
    "ouverture": "2026-10-29T04:01:34.470990+00:00"
+  },
+  {
+   "id": "943539",
+   "event": "106177",
+   "question": "Will the Republican Party win the NC-11 House seat?",
+   "regles": "This market will resolve according to the party of the candidate who wins the NC-11 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The midterm elections will take place on November 3, 2026.\n\n​​A candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time all of the 2026 House elections are conclusively called by this market's resolution sources. A candidate without a ballot-listed affiliation to either the Democrat or Republican parties will be considered a member of one of these parties based on the party with which they most recently expressed their intent to caucus at the time all of the House elections are conclusively called by this market's resolution sources.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the United States government, specifically the Federal Election Commission (https://www.fec.gov/).",
+   "p_yes": 0.155,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-the-republican-party-win-the-nc-11-house-seat",
+   "cote": "YES",
+   "prix": 0.165,
+   "mise": 1.74,
+   "p_ia": 0.44,
+   "categorie": "Outsider",
+   "raison": "les derniers sondages montrent un léger avantage démocrate et les évaluations sont partagées, rendant la victoire républicaine incertaine",
+   "ouverture": "2026-10-29T17:01:17.433830+00:00"
   }
  ],
  "historique": [
@@ -1547,6 +1563,15 @@
    "p_yes": 0.925,
    "fin": "2026-11-03T04:59:00+00:00",
    "date": "2026-10-29T06:02:26.934954+00:00",
+   "recherche": true
+  },
+  {
+   "id": "943539",
+   "question": "Will the Republican Party win the NC-11 House seat?",
+   "p_ia": 0.44,
+   "p_yes": 0.155,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-29T17:01:17.433530+00:00",
    "recherche": true
   }
  ]

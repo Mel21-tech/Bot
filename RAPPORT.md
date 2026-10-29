@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 16:09 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 17:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1105.13 $** (+10.5 %) |
-| Disponible | 784.55 $ |
-| Engagé | 320.58 $ sur 12 positions |
+| Disponible | 782.81 $ |
+| Engagé | 322.32 $ sur 13 positions |
 | Trades clôturés | 16 · gagnés 11 (69 %) |
 | Gains/pertes réalisés | +105.14 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 16:09 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 5 | 5 (100 %) | 227.85 $ | +38.72 $ | +17.0 % | 3 (152 $) |
 | ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 6 (124 $) |
-| 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 3 (45 $) |
+| 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 4 (47 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
@@ -48,13 +48,14 @@ Prédictions résolues : **38** · Score Brier IA **0.1742** vs marché **0.1638
 | Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
 | Will the Democratic Party win the NC-09 House seat? | 04/11 | NO | 0.69 | 3.28 $ | +1.44 $ | 23% | 32% |
 
-### 🎲 Outsider (3)
+### 🎲 Outsider (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
 | Will the Democrats win the Ohio governor race in 2026? | 04/11 | NO | 0.21 | 2.84 $ | +10.37 $ | 58% | 80% |
 | Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
+| Will the Republican Party win the NC-11 House seat? | 04/11 | YES | 0.17 | 1.74 $ | +8.81 $ | 44% | 16% |
 
 ## 🧾 15 derniers trades clôturés
 
