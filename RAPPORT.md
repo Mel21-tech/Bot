@@ -1,21 +1,21 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 06:02 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 07:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1087.71 $** (+8.8 %) |
-| Disponible | 715.96 $ |
-| Engagé | 371.75 $ sur 13 positions |
-| Trades clôturés | 15 · gagnés 10 (67 %) |
-| Gains/pertes réalisés | +87.72 $ |
+| **Capital total** | **1105.13 $** (+10.5 %) |
+| Disponible | 784.55 $ |
+| Engagé | 320.58 $ sur 12 positions |
+| Trades clôturés | 16 · gagnés 11 (69 %) |
+| Gains/pertes réalisés | +105.14 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 4 | 4 (100 %) | 176.68 $ | +21.30 $ | +12.1 % | 4 (203 $) |
+| 🛡️ Sûr | 5 | 5 (100 %) | 227.85 $ | +38.72 $ | +17.0 % | 3 (152 $) |
 | ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 6 (124 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 3 (45 $) |
 
@@ -29,12 +29,11 @@ Prédictions résolues : **38** · Score Brier IA **0.1742** vs marché **0.1638
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (4)
+### 🛡️ Sûr (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
-| Will the Tampa Bay Rays win the 2026 World Series? | 31/10 | NO | 0.75 | 51.17 $ | +17.42 $ | 12% | 26% |
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 
@@ -61,6 +60,7 @@ Prédictions résolues : **38** · Score Brier IA **0.1742** vs marché **0.1638
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | Will the Tampa Bay Rays win the 2026 World Series? | 🛡️ | NO | 51.17 $ | +17.42 $ |
 | ❌ | Will Olivia Chow win the 2026 Toronto mayoral election? | 🎲 | NO | 22.51 $ | -22.51 $ |
 | ✅ | Will Iliana Iotova win the 2026 Bulgarian presidential first round by  | 🛡️ | NO | 51.70 $ | +5.55 $ |
 | ❌ | Will Harry Kane win the 2026 Ballon d'Or? | 🎲 | NO | 20.68 $ | -20.68 $ |
@@ -75,4 +75,3 @@ Prédictions résolues : **38** · Score Brier IA **0.1742** vs marché **0.1638
 | ❌ | Will FC Bayern München win on 2026-10-21? | ⚖️ | YES | 30.32 $ | -30.32 $ |
 | ✅ | Will SSC Napoli win on 2026-10-20? | ⚖️ | YES | 30.17 $ | +23.23 $ |
 | ✅ | Will Manchester City FC win on 2026-10-20? | 🛡️ | YES | 50.00 $ | +5.25 $ |
-| ✅ | Curfew in a major French city by October 24, 2026? | 🛡️ | YES | 50.00 $ | +5.56 $ |
