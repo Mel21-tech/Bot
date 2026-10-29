@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 719.2401075871451,
+ "capital": 715.9601075871451,
  "positions": [
   {
    "id": "682705",
@@ -194,6 +194,22 @@
    "categorie": "Outsider",
    "raison": "Les sondages récents montrent Peltola légèrement en tête et le vote split possible pour les républicains pourrait favoriser sa victoire.",
    "ouverture": "2026-10-27T03:01:52.257912+00:00"
+  },
+  {
+   "id": "1284058",
+   "event": "191537",
+   "question": "Will the Democratic Party win the NC-09 House seat?",
+   "regles": "This market will resolve according to the party of the candidate who wins the NC-09 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The midterm elections will take place on November 3, 2026.\n\n​A candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time all of the 2026 House elections are conclusively called by this market's resolution sources. A candidate without a ballot-listed affiliation to either the Democrat or Republican parties will be considered a member of one of these parties based on the party with which they most recently expressed their intent to caucus at the time all of the House elections are conclusively called by this market's resolution sources.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the United States government, specifically the Federal Election Commission (https://www.fec.gov/).",
+   "p_yes": 0.315,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-the-democratic-party-win-the-nc-09-house-seat",
+   "cote": "NO",
+   "prix": 0.695,
+   "mise": 3.28,
+   "p_ia": 0.23,
+   "categorie": "Équilibré",
+   "raison": "Les prévisions de Decision Desk donnent à Richard Hudson (R) 77 % de chances et à Richard Ojeda (D) 23 %, le district étant classé solidement républicain (R+8) malgré un léger avantage du républicain dans le seul sondage disponible.",
+   "ouverture": "2026-10-29T04:01:34.470990+00:00"
   }
  ],
  "historique": [
@@ -621,7 +637,8 @@
    "p_yes": 0.135,
    "fin": "2026-10-29T03:59:00+00:00",
    "date": "2026-10-18T17:01:25.789128+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "2589812",
@@ -630,7 +647,8 @@
    "p_yes": 0.865,
    "fin": "2026-10-29T03:59:00+00:00",
    "date": "2026-10-18T18:01:23.501254+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "3399459",
@@ -1490,6 +1508,24 @@
    "p_yes": 0.275,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-29T03:01:11.650570+00:00",
+   "recherche": true
+  },
+  {
+   "id": "634974",
+   "question": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+   "p_ia": 0.38,
+   "p_yes": 0.305,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-29T04:01:08.243828+00:00",
+   "recherche": true
+  },
+  {
+   "id": "1284058",
+   "question": "Will the Democratic Party win the NC-09 House seat?",
+   "p_ia": 0.23,
+   "p_yes": 0.315,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-29T04:01:34.470719+00:00",
    "recherche": true
   }
  ]

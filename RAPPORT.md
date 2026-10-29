@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 03:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 04:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1087.71 $** (+8.8 %) |
-| Disponible | 719.24 $ |
-| Engagé | 368.47 $ sur 12 positions |
+| Disponible | 715.96 $ |
+| Engagé | 371.75 $ sur 13 positions |
 | Trades clôturés | 15 · gagnés 10 (67 %) |
 | Gains/pertes réalisés | +87.72 $ |
 
@@ -16,14 +16,14 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 29/10/2026 03:01 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 4 | 4 (100 %) | 176.68 $ | +21.30 $ | +12.1 % | 4 (203 $) |
-| ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 5 (121 $) |
+| ⚖️ Équilibré | 6 | 5 (83 %) | 181.30 $ | +106.12 $ | +58.5 % | 6 (124 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 3 (45 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **36** · Score Brier IA **0.1824** vs marché **0.1719** (plus bas = meilleur)
+Prédictions résolues : **38** · Score Brier IA **0.1742** vs marché **0.1638** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
@@ -38,7 +38,7 @@ Prédictions résolues : **36** · Score Brier IA **0.1824** vs marché **0.1719
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 
-### ⚖️ Équilibré (5)
+### ⚖️ Équilibré (6)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -47,6 +47,7 @@ Prédictions résolues : **36** · Score Brier IA **0.1824** vs marché **0.1719
 | 2026 Balance of Power: D Senate, D House | 04/11 | NO | 0.39 | 26.42 $ | +42.20 $ | 55% | 62% |
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
 | Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
+| Will the Democratic Party win the NC-09 House seat? | 04/11 | NO | 0.69 | 3.28 $ | +1.44 $ | 23% | 32% |
 
 ### 🎲 Outsider (3)
 
