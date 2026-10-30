@@ -1605,6 +1605,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-30T14:01:18.974958+00:00",
    "recherche": true
+  },
+  {
+   "id": "5786298",
+   "question": "Will commitments to the 1W public sale exceed $60M?",
+   "p_ia": 0.23,
+   "p_yes": 0.25,
+   "fin": "2026-11-03T04:59:00+00:00",
+   "date": "2026-10-30T15:01:59.171601+00:00",
+   "recherche": true
   }
  ]
 }
