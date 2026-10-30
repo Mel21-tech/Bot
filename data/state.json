@@ -1596,6 +1596,15 @@
    "fin": "2026-11-03T04:59:00+00:00",
    "date": "2026-10-29T23:01:22.781570+00:00",
    "recherche": true
+  },
+  {
+   "id": "630747",
+   "question": "Will the Republicans win the Kansas Senate race in 2026?",
+   "p_ia": 0.42,
+   "p_yes": 0.455,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-30T14:01:18.974958+00:00",
+   "recherche": true
   }
  ]
 }
