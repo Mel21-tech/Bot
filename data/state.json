@@ -1639,6 +1639,15 @@
    "fin": "2026-11-02T04:59:00+00:00",
    "date": "2026-10-30T16:01:12.785867+00:00",
    "recherche": true
+  },
+  {
+   "id": "630746",
+   "question": "Will the Democrats win the Kansas Senate race in 2026?",
+   "p_ia": 0.55,
+   "p_yes": 0.55,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-30T17:01:06.087122+00:00",
+   "recherche": true
   }
  ]
 }
