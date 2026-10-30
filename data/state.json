@@ -68,22 +68,6 @@
    "ouverture": "2026-10-18T11:01:35.212207+00:00"
   },
   {
-   "id": "5167210",
-   "event": "1111240",
-   "question": "Saudi Arabia military action against Yemen on October 29?",
-   "regles": "This market will resolve to “Yes” if Saudi Arabia takes a qualifying military action against Yemen on the specified date, Yemen Standard Time. Otherwise this market will resolve to “No.”\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Saudi Arabia, that directly impacts Yemen. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe qualifying military action must be carried out by the armed forces of Saudi Arabia. Actions carried out by private military contractors, mercenaries, or proxy forces will not qualify. Where a qualifying action is carried out in the course of a coalition or multinational operation, it will qualify only if the armed forces of Saudi Arabia directly conducted the strike.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact do",
-   "p_yes": 0.56,
-   "fin": "2026-10-30T03:59:00+00:00",
-   "slug": "saudi-arabia-military-action-against-yemen-on-october-29",
-   "cote": "NO",
-   "prix": 0.45,
-   "mise": 30.0,
-   "p_ia": 0.42,
-   "categorie": "Équilibré",
-   "raison": "Après une escalade récente avec des frappes le 9 et le 13 octobre, l'armée saoudienne continue d'opérer régulièrement, mais aucune indication précise ne pointe vers une action le 29, d'où une probabilité modérée.",
-   "ouverture": "2026-10-19T07:01:27.854591+00:00"
-  },
-  {
    "id": "630963",
    "event": "57672",
    "question": "Will the Democrats win the Texas Senate race in 2026?",
@@ -516,6 +500,25 @@
    "resultat": 0.0,
    "pnl": 17.42,
    "cloture": "2026-10-29T07:01:00.393625+00:00"
+  },
+  {
+   "id": "5167210",
+   "event": "1111240",
+   "question": "Saudi Arabia military action against Yemen on October 29?",
+   "regles": "This market will resolve to “Yes” if Saudi Arabia takes a qualifying military action against Yemen on the specified date, Yemen Standard Time. Otherwise this market will resolve to “No.”\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Saudi Arabia, that directly impacts Yemen. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe qualifying military action must be carried out by the armed forces of Saudi Arabia. Actions carried out by private military contractors, mercenaries, or proxy forces will not qualify. Where a qualifying action is carried out in the course of a coalition or multinational operation, it will qualify only if the armed forces of Saudi Arabia directly conducted the strike.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact do",
+   "p_yes": 0.56,
+   "fin": "2026-10-30T03:59:00+00:00",
+   "slug": "saudi-arabia-military-action-against-yemen-on-october-29",
+   "cote": "NO",
+   "prix": 0.45,
+   "mise": 30.0,
+   "p_ia": 0.42,
+   "categorie": "Équilibré",
+   "raison": "Après une escalade récente avec des frappes le 9 et le 13 octobre, l'armée saoudienne continue d'opérer régulièrement, mais aucune indication précise ne pointe vers une action le 29, d'où une probabilité modérée.",
+   "ouverture": "2026-10-19T07:01:27.854591+00:00",
+   "resultat": 1.0,
+   "pnl": -30.0,
+   "cloture": "2026-10-30T06:00:55.810448+00:00"
   }
  ],
  "predictions": [
@@ -811,7 +814,8 @@
    "p_yes": 0.56,
    "fin": "2026-10-30T03:59:00+00:00",
    "date": "2026-10-19T07:01:27.854377+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "562803",
