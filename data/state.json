@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 782.8126008847322,
+ "capital": 729.0526008847322,
  "positions": [
   {
    "id": "682705",
@@ -194,6 +194,22 @@
    "categorie": "Outsider",
    "raison": "les derniers sondages montrent un léger avantage démocrate et les évaluations sont partagées, rendant la victoire républicaine incertaine",
    "ouverture": "2026-10-29T17:01:17.433830+00:00"
+  },
+  {
+   "id": "1194643",
+   "event": "166780",
+   "question": "Will Iliana Iotova win the next Bulgarian presidential election?",
+   "regles": "Presidential elections in Bulgaria are expected to be held in the Fall of 2026.\n\nThis market will resolve according to the listed candidate who wins the next presidential election in Bulgaria. \n\nThis market includes any potential second round. If the result of this election isn't known by December 31, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Bulgarian government, specifically the Central Election Commission (Centralna izbiratelna komisia, CEC) (www.cik.bg/).",
+   "p_yes": 0.71,
+   "fin": "2026-11-02T04:59:00+00:00",
+   "slug": "will-iliana-iotova-win-the-next-bulgarian-presidential-election",
+   "cote": "YES",
+   "prix": 0.72,
+   "mise": 53.76,
+   "p_ia": 0.78,
+   "categorie": "Sûr",
+   "raison": "Iotova mène le premier tour avec 34,8 % et les sondages du second tour la placent à 65,8 % contre 34,2 % pour Gyurov, indiquant une forte probabilité de victoire",
+   "ouverture": "2026-10-30T16:01:12.786060+00:00"
   }
  ],
  "historique": [
@@ -1613,6 +1629,15 @@
    "p_yes": 0.25,
    "fin": "2026-11-03T04:59:00+00:00",
    "date": "2026-10-30T15:01:59.171601+00:00",
+   "recherche": true
+  },
+  {
+   "id": "1194643",
+   "question": "Will Iliana Iotova win the next Bulgarian presidential election?",
+   "p_ia": 0.78,
+   "p_yes": 0.71,
+   "fin": "2026-11-02T04:59:00+00:00",
+   "date": "2026-10-30T16:01:12.785867+00:00",
    "recherche": true
   }
  ]
