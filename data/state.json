@@ -1774,6 +1774,15 @@
    "fin": "2026-11-03T23:59:00+00:00",
    "date": "2026-10-31T09:01:28.011610+00:00",
    "recherche": true
+  },
+  {
+   "id": "6273577",
+   "question": "Will Republicans win the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+   "p_ia": 0.013,
+   "p_yes": 0.042,
+   "fin": "2026-11-03T23:59:00+00:00",
+   "date": "2026-10-31T17:02:14.355501+00:00",
+   "recherche": true
   }
  ]
 }
