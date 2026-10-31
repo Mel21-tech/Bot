@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 30/10/2026 23:50 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 31/10/2026 00:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1075.13 $** (+7.5 %) |
-| Disponible | 729.05 $ |
-| Engagé | 346.08 $ sur 13 positions |
+| Disponible | 675.29 $ |
+| Engagé | 399.84 $ sur 14 positions |
 | Trades clôturés | 17 · gagnés 11 (65 %) |
 | Gains/pertes réalisés | +75.14 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 30/10/2026 23:50 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 5 | 5 (100 %) | 227.85 $ | +38.72 $ | +17.0 % | 4 (205 $) |
+| 🛡️ Sûr | 5 | 5 (100 %) | 227.85 $ | +38.72 $ | +17.0 % | 5 (259 $) |
 | ⚖️ Équilibré | 7 | 5 (71 %) | 211.30 $ | +76.12 $ | +36.0 % | 5 (94 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 4 (47 $) |
 
@@ -29,7 +29,7 @@ Prédictions résolues : **41** · Score Brier IA **0.1971** vs marché **0.1613
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (4)
+### 🛡️ Sûr (5)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -37,6 +37,7 @@ Prédictions résolues : **41** · Score Brier IA **0.1971** vs marché **0.1613
 | NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 | Will Iliana Iotova win the next Bulgarian presidential election? | 02/11 | YES | 0.72 | 53.76 $ | +20.91 $ | 78% | 71% |
+| Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 03/11 | NO | 0.86 | 53.76 $ | +8.39 $ | 1% | 14% |
 
 ### ⚖️ Équilibré (5)
 

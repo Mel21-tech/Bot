@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 729.0526008847322,
+ "capital": 675.2926008847322,
  "positions": [
   {
    "id": "682705",
@@ -210,6 +210,22 @@
    "categorie": "Sûr",
    "raison": "Iotova mène le premier tour avec 34,8 % et les sondages du second tour la placent à 65,8 % contre 34,2 % pour Gyurov, indiquant une forte probabilité de victoire",
    "ouverture": "2026-10-30T16:01:12.786060+00:00"
+  },
+  {
+   "id": "6274077",
+   "event": "1262243",
+   "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?",
+   "regles": "This market will resolve according to which of the United States Senate general elections in Alaska, Iowa, Kansas, Maine, Michigan, Ohio (special election), and Texas, currently scheduled for November 3, 2026, are won by the Republican candidate, inclusive of any potential runoffs.\n\nEach listed outcome names the exact set of these states in which the Republican candidate wins. An outcome will resolve to \"Yes\" only if the Republican candidate wins every state it names and does not win any of the other states covered by this market. A state counts as not won by the Republican candidate if any other candidate wins it, including a Democratic, independent, or third-party candidate, or if its results cannot be determined by March 31, 2027. \n\nA candidate will be considered to represent the Republican Party by their ballot-listed affiliation or if they are the nominee of the Republican Party. Candidates who run as independents will not be considered to represent the Republican Party regardless of any affiliation they may have with the party.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources have conclusively called the relevant elections. If all three sources do not achieve consensus in calling the relevant races for this market, it will resolve based on the official certification.",
+   "p_yes": 0.145,
+   "fin": "2026-11-03T23:59:00+00:00",
+   "slug": "2026-senate-map-r-ia-ks",
+   "cote": "NO",
+   "prix": 0.865,
+   "mise": 53.76,
+   "p_ia": 0.01,
+   "categorie": "Sûr",
+   "raison": "Très improbable que les Républicains ne gagnent que l'Iowa et le Kansas tout en perdant les cinq autres États.",
+   "ouverture": "2026-10-31T00:01:27.476104+00:00"
   }
  ],
  "historique": [
@@ -1666,6 +1682,15 @@
    "p_yes": 0.365,
    "fin": "2026-11-02T04:59:00+00:00",
    "date": "2026-10-30T23:50:12.181199+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6274077",
+   "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?",
+   "p_ia": 0.01,
+   "p_yes": 0.145,
+   "fin": "2026-11-03T23:59:00+00:00",
+   "date": "2026-10-31T00:01:27.475905+00:00",
    "recherche": true
   }
  ]
