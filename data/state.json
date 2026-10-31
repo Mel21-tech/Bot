@@ -1701,6 +1701,24 @@
    "fin": "2026-11-03T23:59:00+00:00",
    "date": "2026-10-31T02:01:58.137670+00:00",
    "recherche": true
+  },
+  {
+   "id": "6274257",
+   "question": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+   "p_ia": 0.02,
+   "p_yes": 0.245,
+   "fin": "2026-11-03T23:59:00+00:00",
+   "date": "2026-10-31T03:03:26.562676+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6361051",
+   "question": "US announces end of Iranian blockade by November 2, 2026?",
+   "p_ia": 0.95,
+   "p_yes": 0.095,
+   "fin": "2026-11-03T04:59:00+00:00",
+   "date": "2026-10-31T03:03:32.735366+00:00",
+   "recherche": true
   }
  ]
 }
