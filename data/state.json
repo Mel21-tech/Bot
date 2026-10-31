@@ -1755,6 +1755,15 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-31T05:02:38.448359+00:00",
    "recherche": true
+  },
+  {
+   "id": "629412",
+   "question": "Will the Democrats win the Kansas governor race in 2026?",
+   "p_ia": 0.32,
+   "p_yes": 0.285,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-31T05:45:17.345799+00:00",
+   "recherche": true
   }
  ]
 }
