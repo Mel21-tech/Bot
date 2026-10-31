@@ -1737,6 +1737,24 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-31T04:01:21.238571+00:00",
    "recherche": true
+  },
+  {
+   "id": "5852629",
+   "question": "Will Tottenham Hotspur FC win on 2026-10-31?",
+   "p_ia": 0.64,
+   "p_yes": 0.585,
+   "fin": "2026-10-31T17:30:00+00:00",
+   "date": "2026-10-31T05:00:59.854326+00:00",
+   "recherche": true
+  },
+  {
+   "id": "629324",
+   "question": "Will the Democrats win the Florida governor race in 2026?",
+   "p_ia": 0.12,
+   "p_yes": 0.365,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-10-31T05:02:38.448359+00:00",
+   "recherche": true
   }
  ]
 }
