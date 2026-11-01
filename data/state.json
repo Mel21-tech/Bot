@@ -1803,6 +1803,24 @@
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-11-01T05:01:05.919925+00:00",
    "recherche": true
+  },
+  {
+   "id": "631058",
+   "question": "Will the Republicans win the Ohio Senate race in 2026?",
+   "p_ia": 0.45,
+   "p_yes": 0.265,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "date": "2026-11-01T06:01:03.911477+00:00",
+   "recherche": true
+  },
+  {
+   "id": "4397025",
+   "question": "Will T1 win Worlds 2026?",
+   "p_ia": 0.3,
+   "p_yes": 0.215,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-01T06:01:34.816875+00:00",
+   "recherche": true
   }
  ]
 }
