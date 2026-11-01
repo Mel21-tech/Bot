@@ -1,21 +1,21 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 01/11/2026 11:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 01/11/2026 12:00 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1075.13 $** (+7.5 %) |
-| Disponible | 675.29 $ |
-| Engagé | 399.84 $ sur 14 positions |
-| Trades clôturés | 17 · gagnés 11 (65 %) |
-| Gains/pertes réalisés | +75.14 $ |
+| **Capital total** | **1079.19 $** (+7.9 %) |
+| Disponible | 729.35 $ |
+| Engagé | 349.84 $ sur 13 positions |
+| Trades clôturés | 18 · gagnés 12 (67 %) |
+| Gains/pertes réalisés | +79.19 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 5 | 5 (100 %) | 227.85 $ | +38.72 $ | +17.0 % | 5 (259 $) |
+| 🛡️ Sûr | 6 | 6 (100 %) | 277.85 $ | +42.77 $ | +15.4 % | 4 (209 $) |
 | ⚖️ Équilibré | 7 | 5 (71 %) | 211.30 $ | +76.12 $ | +36.0 % | 5 (94 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 4 (47 $) |
 
@@ -23,18 +23,17 @@ _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital ·
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **58** · Score Brier IA **0.2326** vs marché **0.1534** (plus bas = meilleur)
+Prédictions résolues : **59** · Score Brier IA **0.2287** vs marché **0.1509** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (5)
+### 🛡️ Sûr (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
-| NATO x Russia military clash by October 31, 2026? | 01/11 | NO | 0.93 | 50.00 $ | +4.05 $ | 4% | 8% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 | Will Iliana Iotova win the next Bulgarian presidential election? | 02/11 | YES | 0.72 | 53.76 $ | +20.91 $ | 78% | 71% |
 | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 03/11 | NO | 0.86 | 53.76 $ | +8.39 $ | 1% | 14% |
@@ -62,6 +61,7 @@ Prédictions résolues : **58** · Score Brier IA **0.2326** vs marché **0.1534
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | NATO x Russia military clash by October 31, 2026? | 🛡️ | NO | 50.00 $ | +4.05 $ |
 | ❌ | Saudi Arabia military action against Yemen on October 29? | ⚖️ | NO | 30.00 $ | -30.00 $ |
 | ✅ | Will the Tampa Bay Rays win the 2026 World Series? | 🛡️ | NO | 51.17 $ | +17.42 $ |
 | ❌ | Will Olivia Chow win the 2026 Toronto mayoral election? | 🎲 | NO | 22.51 $ | -22.51 $ |
@@ -76,4 +76,3 @@ Prédictions résolues : **58** · Score Brier IA **0.2326** vs marché **0.1534
 | ❌ | Will there be a Hormuz agreement and the Republicans win the Senate? | 🎲 | YES | 20.00 $ | -20.00 $ |
 | ✅ | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | ⚖️ | NO | 30.00 $ | +39.77 $ |
 | ❌ | Will FC Bayern München win on 2026-10-21? | ⚖️ | YES | 30.32 $ | -30.32 $ |
-| ✅ | Will SSC Napoli win on 2026-10-20? | ⚖️ | YES | 30.17 $ | +23.23 $ |
