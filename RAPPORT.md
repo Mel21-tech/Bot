@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 03:03 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 04:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1100.09 $** (+10.0 %) |
-| Disponible | 793.22 $ |
-| Engagé | 306.87 $ sur 13 positions |
+| Disponible | 738.22 $ |
+| Engagé | 361.87 $ sur 14 positions |
 | Trades clôturés | 19 · gagnés 13 (68 %) |
 | Gains/pertes réalisés | +100.10 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 03:03 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 7 | 7 (100 %) | 331.61 $ | +63.68 $ | +19.2 % | 3 (155 $) |
+| 🛡️ Sûr | 7 | 7 (100 %) | 331.61 $ | +63.68 $ | +19.2 % | 4 (210 $) |
 | ⚖️ Équilibré | 7 | 5 (71 %) | 211.30 $ | +76.12 $ | +36.0 % | 5 (94 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 5 (57 $) |
 
@@ -29,13 +29,14 @@ Prédictions résolues : **65** · Score Brier IA **0.2321** vs marché **0.1480
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (3)
+### 🛡️ Sûr (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 03/11 | NO | 0.86 | 53.76 $ | +8.39 $ | 1% | 14% |
+| US x Iran ceasefire continues through November 3? | 04/11 | NO | 0.90 | 55.00 $ | +6.04 $ | 3% | 11% |
 
 ### ⚖️ Équilibré (5)
 
