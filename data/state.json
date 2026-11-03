@@ -1981,6 +1981,15 @@
    "fin": "2026-11-29T04:59:00+00:00",
    "date": "2026-11-02T14:02:34.753447+00:00",
    "recherche": true
+  },
+  {
+   "id": "6273594",
+   "question": "Will Republicans win Alaska, Iowa, Kansas, Maine, Ohio, and Texas, and lose Michigan?",
+   "p_ia": 0.01,
+   "p_yes": 0.0365,
+   "fin": "2026-11-03T23:59:00+00:00",
+   "date": "2026-11-03T02:01:23.528598+00:00",
+   "recherche": true
   }
  ]
 }
