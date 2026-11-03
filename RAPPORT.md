@@ -1,21 +1,21 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 08:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 09:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1100.09 $** (+10.0 %) |
-| Disponible | 738.22 $ |
-| Engagé | 361.87 $ sur 14 positions |
-| Trades clôturés | 19 · gagnés 13 (68 %) |
-| Gains/pertes réalisés | +100.10 $ |
+| **Capital total** | **1106.16 $** (+10.6 %) |
+| Disponible | 795.99 $ |
+| Engagé | 310.17 $ sur 13 positions |
+| Trades clôturés | 20 · gagnés 14 (70 %) |
+| Gains/pertes réalisés | +106.17 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 7 | 7 (100 %) | 331.61 $ | +63.68 $ | +19.2 % | 4 (210 $) |
+| 🛡️ Sûr | 8 | 8 (100 %) | 383.31 $ | +69.75 $ | +18.2 % | 3 (159 $) |
 | ⚖️ Équilibré | 7 | 5 (71 %) | 211.30 $ | +76.12 $ | +36.0 % | 5 (94 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 5 (57 $) |
 
@@ -23,18 +23,17 @@ _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital ·
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **68** · Score Brier IA **0.2500** vs marché **0.1499** (plus bas = meilleur)
+Prédictions résolues : **69** · Score Brier IA **0.2465** vs marché **0.1480** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (4)
+### 🛡️ Sûr (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
-| US-Iran Hormuz Agreement by November 2? | 01/11 | NO | 0.90 | 51.70 $ | +6.07 $ | 7% | 11% |
 | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 03/11 | NO | 0.86 | 53.76 $ | +8.39 $ | 1% | 14% |
 | US x Iran ceasefire continues through November 3? | 04/11 | NO | 0.90 | 55.00 $ | +6.04 $ | 3% | 11% |
 
@@ -62,6 +61,7 @@ Prédictions résolues : **68** · Score Brier IA **0.2500** vs marché **0.1499
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | US-Iran Hormuz Agreement by November 2? | 🛡️ | NO | 51.70 $ | +6.07 $ |
 | ✅ | Will Iliana Iotova win the next Bulgarian presidential election? | 🛡️ | YES | 53.76 $ | +20.91 $ |
 | ✅ | NATO x Russia military clash by October 31, 2026? | 🛡️ | NO | 50.00 $ | +4.05 $ |
 | ❌ | Saudi Arabia military action against Yemen on October 29? | ⚖️ | NO | 30.00 $ | -30.00 $ |
@@ -76,4 +76,3 @@ Prédictions résolues : **68** · Score Brier IA **0.2500** vs marché **0.1499
 | ✅ | Will AC Milan win on 2026-10-25? | ⚖️ | YES | 30.70 $ | +25.63 $ |
 | ✅ | Will Liverpool FC win on 2026-10-25? | ⚖️ | YES | 30.11 $ | +34.64 $ |
 | ❌ | Will there be a Hormuz agreement and the Republicans win the Senate? | 🎲 | YES | 20.00 $ | -20.00 $ |
-| ✅ | Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 millio | ⚖️ | NO | 30.00 $ | +39.77 $ |
