@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 795.9886847339445,
+ "capital": 762.8086847339446,
  "positions": [
   {
    "id": "682705",
@@ -210,6 +210,22 @@
    "categorie": "Sûr",
    "raison": "Un bombardement américain sur l'île de Qeshm le 2 novembre constitue une action militaire qualifiée, donc la trêve ne tient pas jusqu'au 3 novembre.",
    "ouverture": "2026-11-03T04:01:37.858575+00:00"
+  },
+  {
+   "id": "6490417",
+   "event": "1290036",
+   "question": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
+   "regles": "In the upcoming Saudi Professional League game between Al Qadisiyah Saudi Club and Al Fayha Saudi Club, originally scheduled for Thursday, November 5, 2026 at 12:30 PM ET (as of creation of the first market related to the event):\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf this market's outcome was definitively determined under its rules by the listed resolution sources before abandonment, that outcome will stand. Otherwise, the following no-result provisions apply. If the game is canceled, does not start by Saturday, November 7, 2026, 11:59 PM ET, or is abandoned with no official result by that time, this market will resolve to \"Yes\".\nThe following abandonment rules apply only when this market's outcome was not already definitively determined under its rules before abandonment. If the game is abandoned, this market will resolve according to the official ruling of the governing body or event organizers on the abandoned game. If a result is awarded by Saturday, November 7, 2026, 11:59 PM ET that determines this market's outcome, this market will resolve based on the awarded result, regardless of the score as played. If no such result is awarded and the result as played at the time of abandonment is declared to stand by Saturday, November 7, 2026, 11:59 PM ET, this market will resolve based on the game as played. If the game is replayed or resumed from the point of abandonment and has an official result by Satur",
+   "p_yes": 0.5,
+   "fin": "2026-11-05T17:30:00+00:00",
+   "slug": "spl-qad-fay-2026-11-05-draw",
+   "cote": "NO",
+   "prix": 0.51,
+   "mise": 33.18,
+   "p_ia": 0.25,
+   "categorie": "Équilibré",
+   "raison": "Les prévisions de scores indiquent une probabilité combinée d'environ 25 % pour un match nul (0‑0 7,1 %, 1‑1 12,4 %, 2‑2 5,3 %).",
+   "ouverture": "2026-11-03T10:01:09.975979+00:00"
   }
  ],
  "historique": [
@@ -2030,6 +2046,15 @@
    "p_yes": 0.445,
    "fin": "2026-11-03T20:00:00+00:00",
    "date": "2026-11-03T05:01:31.508451+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6490417",
+   "question": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
+   "p_ia": 0.25,
+   "p_yes": 0.5,
+   "fin": "2026-11-05T17:30:00+00:00",
+   "date": "2026-11-03T10:01:09.975748+00:00",
    "recherche": true
   }
  ]

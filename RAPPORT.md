@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 09:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 10:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1106.16 $** (+10.6 %) |
-| Disponible | 795.99 $ |
-| Engagé | 310.17 $ sur 13 positions |
+| Disponible | 762.81 $ |
+| Engagé | 343.35 $ sur 14 positions |
 | Trades clôturés | 20 · gagnés 14 (70 %) |
 | Gains/pertes réalisés | +106.17 $ |
 
@@ -16,7 +16,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 03/11/2026 09:01 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 8 | 8 (100 %) | 383.31 $ | +69.75 $ | +18.2 % | 3 (159 $) |
-| ⚖️ Équilibré | 7 | 5 (71 %) | 211.30 $ | +76.12 $ | +36.0 % | 5 (94 $) |
+| ⚖️ Équilibré | 7 | 5 (71 %) | 211.30 $ | +76.12 $ | +36.0 % | 6 (127 $) |
 | 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 5 (57 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
@@ -37,7 +37,7 @@ Prédictions résolues : **69** · Score Brier IA **0.2465** vs marché **0.1480
 | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 03/11 | NO | 0.86 | 53.76 $ | +8.39 $ | 1% | 14% |
 | US x Iran ceasefire continues through November 3? | 04/11 | NO | 0.90 | 55.00 $ | +6.04 $ | 3% | 11% |
 
-### ⚖️ Équilibré (5)
+### ⚖️ Équilibré (6)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -46,6 +46,7 @@ Prédictions résolues : **69** · Score Brier IA **0.2465** vs marché **0.1480
 | Will the Democrats win the Texas Senate race in 2026? | 04/11 | NO | 0.40 | 30.00 $ | +45.95 $ | 45% | 62% |
 | Will the Democratic Party control the Senate after the 2026 Midterm el | 04/11 | NO | 0.36 | 4.14 $ | +7.20 $ | 35% | 64% |
 | Will the Democratic Party win the NC-09 House seat? | 04/11 | NO | 0.69 | 3.28 $ | +1.44 $ | 23% | 32% |
+| Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 
 ### 🎲 Outsider (5)
 
