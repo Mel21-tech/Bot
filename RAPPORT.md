@@ -1,21 +1,21 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 04/11/2026 23:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 04/11/2026 23:42 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1027.06 $** (+2.7 %) |
-| Disponible | 823.85 $ |
-| Engagé | 203.21 $ sur 7 positions |
-| Trades clôturés | 27 · gagnés 15 (56 %) |
-| Gains/pertes réalisés | +27.07 $ |
+| **Capital total** | **1035.45 $** (+3.5 %) |
+| Disponible | 886.00 $ |
+| Engagé | 149.45 $ sur 6 positions |
+| Trades clôturés | 28 · gagnés 16 (57 %) |
+| Gains/pertes réalisés | +35.46 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 9 | 9 (100 %) | 438.31 $ | +75.79 $ | +17.3 % | 2 (104 $) |
+| 🛡️ Sûr | 10 | 10 (100 %) | 492.07 $ | +84.18 $ | +17.1 % | 1 (50 $) |
 | ⚖️ Équilibré | 10 | 5 (50 %) | 271.86 $ | +15.56 $ | +5.7 % | 3 (67 $) |
 | 🎲 Outsider | 8 | 1 (12 %) | 127.77 $ | -64.28 $ | -50.3 % | 2 (33 $) |
 
@@ -23,18 +23,17 @@ _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital ·
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **117** · Score Brier IA **0.2253** vs marché **0.1415** (plus bas = meilleur)
+Prédictions résolues : **123** · Score Brier IA **0.2143** vs marché **0.1350** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (2)
+### 🛡️ Sûr (1)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
-| Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 03/11 | NO | 0.86 | 53.76 $ | +8.39 $ | 1% | 14% |
 
 ### ⚖️ Équilibré (3)
 
@@ -55,6 +54,7 @@ Prédictions résolues : **117** · Score Brier IA **0.2253** vs marché **0.141
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 🛡️ | NO | 53.76 $ | +8.39 $ |
 | ❌ | 2026 Balance of Power: D Senate, D House | ⚖️ | NO | 26.42 $ | -26.42 $ |
 | ❌ | Will the Democratic Party control the House after the 2026 Midterm ele | 🎲 | NO | 20.00 $ | -20.00 $ |
 | ❌ | Will the Democratic Party control the Senate after the 2026 Midterm el | ⚖️ | NO | 4.14 $ | -4.14 $ |
@@ -69,4 +69,3 @@ Prédictions résolues : **117** · Score Brier IA **0.2253** vs marché **0.141
 | ✅ | Will the Tampa Bay Rays win the 2026 World Series? | 🛡️ | NO | 51.17 $ | +17.42 $ |
 | ❌ | Will Olivia Chow win the 2026 Toronto mayoral election? | 🎲 | NO | 22.51 $ | -22.51 $ |
 | ✅ | Will Iliana Iotova win the 2026 Bulgarian presidential first round by  | 🛡️ | NO | 51.70 $ | +5.55 $ |
-| ❌ | Will Harry Kane win the 2026 Ballon d'Or? | 🎲 | NO | 20.68 $ | -20.68 $ |
