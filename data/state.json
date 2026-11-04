@@ -2202,6 +2202,15 @@
    "fin": "2026-11-08T04:59:00+00:00",
    "date": "2026-11-04T09:01:26.723907+00:00",
    "recherche": true
+  },
+  {
+   "id": "6367373",
+   "question": "Israel x Iran ceasefire continues through November 5?",
+   "p_ia": 0.05,
+   "p_yes": 0.959,
+   "fin": "2026-11-06T04:59:00+00:00",
+   "date": "2026-11-04T13:01:32.496833+00:00",
+   "recherche": true
   }
  ]
 }
