@@ -1,29 +1,29 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 04/11/2026 17:21 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 04/11/2026 18:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1053.48 $** (+5.3 %) |
+| **Capital total** | **1027.06 $** (+2.7 %) |
 | Disponible | 823.85 $ |
-| Engagé | 229.63 $ sur 8 positions |
-| Trades clôturés | 26 · gagnés 15 (58 %) |
-| Gains/pertes réalisés | +53.49 $ |
+| Engagé | 203.21 $ sur 7 positions |
+| Trades clôturés | 27 · gagnés 15 (56 %) |
+| Gains/pertes réalisés | +27.07 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 9 | 9 (100 %) | 438.31 $ | +75.79 $ | +17.3 % | 2 (104 $) |
-| ⚖️ Équilibré | 9 | 5 (56 %) | 245.44 $ | +41.98 $ | +17.1 % | 4 (93 $) |
+| ⚖️ Équilibré | 10 | 5 (50 %) | 271.86 $ | +15.56 $ | +5.7 % | 3 (67 $) |
 | 🎲 Outsider | 8 | 1 (12 %) | 127.77 $ | -64.28 $ | -50.3 % | 2 (33 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **113** · Score Brier IA **0.2284** vs marché **0.1421** (plus bas = meilleur)
+Prédictions résolues : **115** · Score Brier IA **0.2267** vs marché **0.1415** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
@@ -36,12 +36,11 @@ Prédictions résolues : **113** · Score Brier IA **0.2284** vs marché **0.142
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 03/11 | NO | 0.86 | 53.76 $ | +8.39 $ | 1% | 14% |
 
-### ⚖️ Équilibré (4)
+### ⚖️ Équilibré (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
-| 2026 Balance of Power: D Senate, D House | 04/11 | NO | 0.39 | 26.42 $ | +42.20 $ | 55% | 62% |
 | Will the Democratic Party win the NC-09 House seat? | 04/11 | NO | 0.69 | 3.28 $ | +1.44 $ | 23% | 32% |
 | Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 
@@ -56,6 +55,7 @@ Prédictions résolues : **113** · Score Brier IA **0.2284** vs marché **0.142
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | 2026 Balance of Power: D Senate, D House | ⚖️ | NO | 26.42 $ | -26.42 $ |
 | ❌ | Will the Democratic Party control the House after the 2026 Midterm ele | 🎲 | NO | 20.00 $ | -20.00 $ |
 | ❌ | Will the Democratic Party control the Senate after the 2026 Midterm el | ⚖️ | NO | 4.14 $ | -4.14 $ |
 | ❌ | Will the Democrats win the Texas Senate race in 2026? | ⚖️ | NO | 30.00 $ | -30.00 $ |
@@ -70,4 +70,3 @@ Prédictions résolues : **113** · Score Brier IA **0.2284** vs marché **0.142
 | ❌ | Will Olivia Chow win the 2026 Toronto mayoral election? | 🎲 | NO | 22.51 $ | -22.51 $ |
 | ✅ | Will Iliana Iotova win the 2026 Bulgarian presidential first round by  | 🛡️ | NO | 51.70 $ | +5.55 $ |
 | ❌ | Will Harry Kane win the 2026 Ballon d'Or? | 🎲 | NO | 20.68 $ | -20.68 $ |
-| ✅ | Will Aleksandar Vučić – United Serbia win the most seats in the 2026 S | 🎲 | NO | 20.00 $ | +43.49 $ |
