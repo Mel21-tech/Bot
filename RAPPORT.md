@@ -1,15 +1,15 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 04/11/2026 04:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 04/11/2026 05:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1112.20 $** (+11.2 %) |
+| **Capital total** | **1110.46 $** (+11.0 %) |
 | Disponible | 823.85 $ |
-| Engagé | 288.35 $ sur 13 positions |
-| Trades clôturés | 21 · gagnés 15 (71 %) |
-| Gains/pertes réalisés | +112.21 $ |
+| Engagé | 286.61 $ sur 12 positions |
+| Trades clôturés | 22 · gagnés 15 (68 %) |
+| Gains/pertes réalisés | +110.47 $ |
 
 ## 📈 Rentabilité par catégorie
 
@@ -17,13 +17,13 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 04/11/2026 04:00 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 9 | 9 (100 %) | 438.31 $ | +75.79 $ | +17.3 % | 2 (104 $) |
 | ⚖️ Équilibré | 7 | 5 (71 %) | 211.30 $ | +76.12 $ | +36.0 % | 6 (127 $) |
-| 🎲 Outsider | 5 | 1 (20 %) | 103.19 $ | -39.70 $ | -38.5 % | 5 (57 $) |
+| 🎲 Outsider | 6 | 1 (17 %) | 104.93 $ | -41.44 $ | -39.5 % | 4 (56 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **70** · Score Brier IA **0.2479** vs marché **0.1502** (plus bas = meilleur)
+Prédictions résolues : **80** · Score Brier IA **0.2458** vs marché **0.1407** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
@@ -47,7 +47,7 @@ Prédictions résolues : **70** · Score Brier IA **0.2479** vs marché **0.1502
 | Will the Democratic Party win the NC-09 House seat? | 04/11 | NO | 0.69 | 3.28 $ | +1.44 $ | 23% | 32% |
 | Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 
-### 🎲 Outsider (5)
+### 🎲 Outsider (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
@@ -55,12 +55,12 @@ Prédictions résolues : **70** · Score Brier IA **0.2479** vs marché **0.1502
 | Will the Democratic Party control the House after the 2026 Midterm ele | 04/11 | NO | 0.10 | 20.00 $ | +170.48 $ | 78% | 90% |
 | Will the Democrats win the Ohio governor race in 2026? | 04/11 | NO | 0.21 | 2.84 $ | +10.37 $ | 58% | 80% |
 | Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
-| Will the Republican Party win the NC-11 House seat? | 04/11 | YES | 0.17 | 1.74 $ | +8.81 $ | 44% | 16% |
 
 ## 🧾 15 derniers trades clôturés
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Will the Republican Party win the NC-11 House seat? | 🎲 | YES | 1.74 $ | -1.74 $ |
 | ✅ | US x Iran ceasefire continues through November 3? | 🛡️ | NO | 55.00 $ | +6.04 $ |
 | ✅ | US-Iran Hormuz Agreement by November 2? | 🛡️ | NO | 51.70 $ | +6.07 $ |
 | ✅ | Will Iliana Iotova win the next Bulgarian presidential election? | 🛡️ | YES | 53.76 $ | +20.91 $ |
@@ -75,4 +75,3 @@ Prédictions résolues : **70** · Score Brier IA **0.2479** vs marché **0.1502
 | ✅ | Will Flávio Bolsonaro win the second round of the 2026 Brazilian presi | ⚖️ | NO | 30.00 $ | +13.17 $ |
 | ❌ | US x Iran ceasefire continues through October 22? | 🎲 | NO | 20.00 $ | -20.00 $ |
 | ✅ | Will AC Milan win on 2026-10-25? | ⚖️ | YES | 30.70 $ | +25.63 $ |
-| ✅ | Will Liverpool FC win on 2026-10-25? | ⚖️ | YES | 30.11 $ | +34.64 $ |

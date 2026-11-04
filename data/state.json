@@ -148,22 +148,6 @@
    "ouverture": "2026-10-29T04:01:34.470990+00:00"
   },
   {
-   "id": "943539",
-   "event": "106177",
-   "question": "Will the Republican Party win the NC-11 House seat?",
-   "regles": "This market will resolve according to the party of the candidate who wins the NC-11 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The midterm elections will take place on November 3, 2026.\n\n​​A candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time all of the 2026 House elections are conclusively called by this market's resolution sources. A candidate without a ballot-listed affiliation to either the Democrat or Republican parties will be considered a member of one of these parties based on the party with which they most recently expressed their intent to caucus at the time all of the House elections are conclusively called by this market's resolution sources.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the United States government, specifically the Federal Election Commission (https://www.fec.gov/).",
-   "p_yes": 0.155,
-   "fin": "2026-11-04T04:59:00+00:00",
-   "slug": "will-the-republican-party-win-the-nc-11-house-seat",
-   "cote": "YES",
-   "prix": 0.165,
-   "mise": 1.74,
-   "p_ia": 0.44,
-   "categorie": "Outsider",
-   "raison": "les derniers sondages montrent un léger avantage démocrate et les évaluations sont partagées, rendant la victoire républicaine incertaine",
-   "ouverture": "2026-10-29T17:01:17.433830+00:00"
-  },
-  {
    "id": "6274077",
    "event": "1262243",
    "question": "Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?",
@@ -611,6 +595,25 @@
    "resultat": 0.0,
    "pnl": 6.04,
    "cloture": "2026-11-03T16:01:04.875694+00:00"
+  },
+  {
+   "id": "943539",
+   "event": "106177",
+   "question": "Will the Republican Party win the NC-11 House seat?",
+   "regles": "This market will resolve according to the party of the candidate who wins the NC-11 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The midterm elections will take place on November 3, 2026.\n\n​​A candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time all of the 2026 House elections are conclusively called by this market's resolution sources. A candidate without a ballot-listed affiliation to either the Democrat or Republican parties will be considered a member of one of these parties based on the party with which they most recently expressed their intent to caucus at the time all of the House elections are conclusively called by this market's resolution sources.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the United States government, specifically the Federal Election Commission (https://www.fec.gov/).",
+   "p_yes": 0.155,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-the-republican-party-win-the-nc-11-house-seat",
+   "cote": "YES",
+   "prix": 0.165,
+   "mise": 1.74,
+   "p_ia": 0.44,
+   "categorie": "Outsider",
+   "raison": "les derniers sondages montrent un léger avantage démocrate et les évaluations sont partagées, rendant la victoire républicaine incertaine",
+   "ouverture": "2026-10-29T17:01:17.433830+00:00",
+   "resultat": 0.0,
+   "pnl": -1.74,
+   "cloture": "2026-11-04T05:01:00.569830+00:00"
   }
  ],
  "predictions": [
@@ -687,7 +690,8 @@
    "p_yes": 0.785,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-18T11:01:16.087030+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "562802",
@@ -949,7 +953,8 @@
    "p_yes": 0.894,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T12:01:29.301645+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5568257",
@@ -958,7 +963,8 @@
    "p_yes": 0.0385,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T13:01:23.010315+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "5847927",
@@ -977,7 +983,8 @@
    "p_yes": 0.822,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T14:01:34.839205+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5572738",
@@ -986,7 +993,8 @@
    "p_yes": 0.122,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T15:01:37.561637+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "5568258",
@@ -995,7 +1003,8 @@
    "p_yes": 0.0865,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-19T15:02:52.515271+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "2100984",
@@ -1110,7 +1119,8 @@
    "p_yes": 0.0385,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-20T07:01:45.055274+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "682710",
@@ -1691,7 +1701,8 @@
    "p_yes": 0.155,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-29T17:01:17.433530+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "629690",
@@ -2003,7 +2014,8 @@
    "p_yes": 0.875,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-11-02T03:01:20.317857+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5957352",
@@ -2040,7 +2052,8 @@
    "p_yes": 0.109,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-11-03T04:01:37.858313+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "6018816",
