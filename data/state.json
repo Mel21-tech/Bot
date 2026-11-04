@@ -2012,7 +2012,8 @@
    "p_yes": 0.935,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-11-02T01:01:06.343347+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "630772",
@@ -2178,6 +2179,15 @@
    "p_yes": 0.3205,
    "fin": "2026-11-29T04:59:00+00:00",
    "date": "2026-11-04T08:01:58.642645+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6367378",
+   "question": "Israel x Iran ceasefire continues through November 7?",
+   "p_ia": 0.35,
+   "p_yes": 0.855,
+   "fin": "2026-11-08T04:59:00+00:00",
+   "date": "2026-11-04T09:01:26.723907+00:00",
    "recherche": true
   }
  ]
