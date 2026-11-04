@@ -2231,6 +2231,15 @@
    "fin": "2026-11-07T04:59:00+00:00",
    "date": "2026-11-04T17:02:01.725810+00:00",
    "recherche": true
+  },
+  {
+   "id": "3501951",
+   "question": "Strait of Hormuz traffic returns to normal by November 30?",
+   "p_ia": 0.05,
+   "p_yes": 0.0405,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-04T19:01:22.796157+00:00",
+   "recherche": true
   }
  ]
 }
