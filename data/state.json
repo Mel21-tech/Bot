@@ -2069,6 +2069,15 @@
    "fin": "2026-11-03T23:59:00+00:00",
    "date": "2026-11-03T11:02:02.948640+00:00",
    "recherche": true
+  },
+  {
+   "id": "6490620",
+   "question": "Will Al Hazem SC vs. Al Nassr Saudi Club end in a draw?",
+   "p_ia": 0.15,
+   "p_yes": 0.9625,
+   "fin": "2026-11-06T14:55:00+00:00",
+   "date": "2026-11-04T01:01:06.653971+00:00",
+   "recherche": true
   }
  ]
 }
