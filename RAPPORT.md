@@ -1,29 +1,29 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 05/11/2026 22:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 05/11/2026 23:00 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1035.45 $** (+3.5 %) |
+| **Capital total** | **1021.38 $** (+2.1 %) |
 | Disponible | 875.65 $ |
-| Engagé | 159.80 $ sur 7 positions |
-| Trades clôturés | 28 · gagnés 16 (57 %) |
-| Gains/pertes réalisés | +35.46 $ |
+| Engagé | 145.73 $ sur 5 positions |
+| Trades clôturés | 30 · gagnés 16 (53 %) |
+| Gains/pertes réalisés | +21.39 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 10 | 10 (100 %) | 492.07 $ | +84.18 $ | +17.1 % | 1 (50 $) |
-| ⚖️ Équilibré | 10 | 5 (50 %) | 271.86 $ | +15.56 $ | +5.7 % | 3 (67 $) |
-| 🎲 Outsider | 8 | 1 (12 %) | 127.77 $ | -64.28 $ | -50.3 % | 3 (43 $) |
+| ⚖️ Équilibré | 11 | 5 (45 %) | 275.14 $ | +12.28 $ | +4.5 % | 2 (63 $) |
+| 🎲 Outsider | 9 | 1 (11 %) | 138.56 $ | -75.07 $ | -54.2 % | 2 (32 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **126** · Score Brier IA **0.2188** vs marché **0.1414** (plus bas = meilleur)
+Prédictions résolues : **128** · Score Brier IA **0.2202** vs marché **0.1429** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
@@ -35,19 +35,17 @@ Prédictions résolues : **126** · Score Brier IA **0.2188** vs marché **0.141
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 
-### ⚖️ Équilibré (3)
+### ⚖️ Équilibré (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
-| Will the Democratic Party win the NC-09 House seat? | 04/11 | NO | 0.69 | 3.28 $ | +1.44 $ | 23% | 32% |
 | Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 
-### 🎲 Outsider (3)
+### 🎲 Outsider (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
-| Israel x Iran ceasefire continues through November 2? | 03/11 | NO | 0.04 | 10.79 $ | +258.96 $ | 85% | 97% |
 | Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
 | Will Dplus KIA win Worlds 2026? | 29/11 | YES | 0.10 | 10.35 $ | +95.26 $ | 30% | 9% |
 
@@ -55,6 +53,8 @@ Prédictions résolues : **126** · Score Brier IA **0.2188** vs marché **0.141
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Israel x Iran ceasefire continues through November 2? | 🎲 | NO | 10.79 $ | -10.79 $ |
+| ❌ | Will the Democratic Party win the NC-09 House seat? | ⚖️ | NO | 3.28 $ | -3.28 $ |
 | ✅ | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 🛡️ | NO | 53.76 $ | +8.39 $ |
 | ❌ | 2026 Balance of Power: D Senate, D House | ⚖️ | NO | 26.42 $ | -26.42 $ |
 | ❌ | Will the Democratic Party control the House after the 2026 Midterm ele | 🎲 | NO | 20.00 $ | -20.00 $ |
@@ -68,5 +68,3 @@ Prédictions résolues : **126** · Score Brier IA **0.2188** vs marché **0.141
 | ✅ | NATO x Russia military clash by October 31, 2026? | 🛡️ | NO | 50.00 $ | +4.05 $ |
 | ❌ | Saudi Arabia military action against Yemen on October 29? | ⚖️ | NO | 30.00 $ | -30.00 $ |
 | ✅ | Will the Tampa Bay Rays win the 2026 World Series? | 🛡️ | NO | 51.17 $ | +17.42 $ |
-| ❌ | Will Olivia Chow win the 2026 Toronto mayoral election? | 🎲 | NO | 22.51 $ | -22.51 $ |
-| ✅ | Will Iliana Iotova win the 2026 Bulgarian presidential first round by  | 🛡️ | NO | 51.70 $ | +5.55 $ |

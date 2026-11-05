@@ -52,38 +52,6 @@
    "ouverture": "2026-10-27T03:01:52.257912+00:00"
   },
   {
-   "id": "1284058",
-   "event": "191537",
-   "question": "Will the Democratic Party win the NC-09 House seat?",
-   "regles": "This market will resolve according to the party of the candidate who wins the NC-09 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The midterm elections will take place on November 3, 2026.\n\n​A candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time all of the 2026 House elections are conclusively called by this market's resolution sources. A candidate without a ballot-listed affiliation to either the Democrat or Republican parties will be considered a member of one of these parties based on the party with which they most recently expressed their intent to caucus at the time all of the House elections are conclusively called by this market's resolution sources.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the United States government, specifically the Federal Election Commission (https://www.fec.gov/).",
-   "p_yes": 0.315,
-   "fin": "2026-11-04T04:59:00+00:00",
-   "slug": "will-the-democratic-party-win-the-nc-09-house-seat",
-   "cote": "NO",
-   "prix": 0.695,
-   "mise": 3.28,
-   "p_ia": 0.23,
-   "categorie": "Équilibré",
-   "raison": "Les prévisions de Decision Desk donnent à Richard Hudson (R) 77 % de chances et à Richard Ojeda (D) 23 %, le district étant classé solidement républicain (R+8) malgré un léger avantage du républicain dans le seul sondage disponible.",
-   "ouverture": "2026-10-29T04:01:34.470990+00:00"
-  },
-  {
-   "id": "6367379",
-   "event": "711714",
-   "question": "Israel x Iran ceasefire continues through November 2?",
-   "regles": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed date, 11:59 PM Iran Standard Time (IRST). Otherwise this market will resolve to “No”. \n\nA state of ceasefire will be considered to no longer be in effect between Israel and Iran if either Israel or Iran takes a qualifying military action against the other country between market creation and the listed date, 11:59 PM IRST.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Israel or Iran, that directly impacts the other country. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munit",
-   "p_yes": 0.9695,
-   "fin": "2026-11-03T04:59:00+00:00",
-   "slug": "israel-x-iran-ceasefire-continues-through-november-2",
-   "cote": "NO",
-   "prix": 0.04,
-   "mise": 10.79,
-   "p_ia": 0.85,
-   "categorie": "Outsider",
-   "raison": "Les pourparlers à Doha sont en cours et aucune attaque qualifiée récente n'a eu lieu, rendant probable le maintien du cesse‑feu pendant les 24 heures suivantes.",
-   "ouverture": "2026-11-01T21:01:52.993002+00:00"
-  },
-  {
    "id": "6490417",
    "event": "1290036",
    "question": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
@@ -648,6 +616,44 @@
    "resultat": 0.0,
    "pnl": 8.39,
    "cloture": "2026-11-04T23:42:08.904653+00:00"
+  },
+  {
+   "id": "1284058",
+   "event": "191537",
+   "question": "Will the Democratic Party win the NC-09 House seat?",
+   "regles": "This market will resolve according to the party of the candidate who wins the NC-09 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The midterm elections will take place on November 3, 2026.\n\n​A candidate's party will be determined by their ballot-listed or otherwise identifiable affiliation with that party at the time all of the 2026 House elections are conclusively called by this market's resolution sources. A candidate without a ballot-listed affiliation to either the Democrat or Republican parties will be considered a member of one of these parties based on the party with which they most recently expressed their intent to caucus at the time all of the House elections are conclusively called by this market's resolution sources.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the United States government, specifically the Federal Election Commission (https://www.fec.gov/).",
+   "p_yes": 0.315,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-the-democratic-party-win-the-nc-09-house-seat",
+   "cote": "NO",
+   "prix": 0.695,
+   "mise": 3.28,
+   "p_ia": 0.23,
+   "categorie": "Équilibré",
+   "raison": "Les prévisions de Decision Desk donnent à Richard Hudson (R) 77 % de chances et à Richard Ojeda (D) 23 %, le district étant classé solidement républicain (R+8) malgré un léger avantage du républicain dans le seul sondage disponible.",
+   "ouverture": "2026-10-29T04:01:34.470990+00:00",
+   "resultat": 1.0,
+   "pnl": -3.28,
+   "cloture": "2026-11-05T23:00:58.401289+00:00"
+  },
+  {
+   "id": "6367379",
+   "event": "711714",
+   "question": "Israel x Iran ceasefire continues through November 2?",
+   "regles": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed date, 11:59 PM Iran Standard Time (IRST). Otherwise this market will resolve to “No”. \n\nA state of ceasefire will be considered to no longer be in effect between Israel and Iran if either Israel or Iran takes a qualifying military action against the other country between market creation and the listed date, 11:59 PM IRST.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Israel or Iran, that directly impacts the other country. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munit",
+   "p_yes": 0.9695,
+   "fin": "2026-11-03T04:59:00+00:00",
+   "slug": "israel-x-iran-ceasefire-continues-through-november-2",
+   "cote": "NO",
+   "prix": 0.04,
+   "mise": 10.79,
+   "p_ia": 0.85,
+   "categorie": "Outsider",
+   "raison": "Les pourparlers à Doha sont en cours et aucune attaque qualifiée récente n'a eu lieu, rendant probable le maintien du cesse‑feu pendant les 24 heures suivantes.",
+   "ouverture": "2026-11-01T21:01:52.993002+00:00",
+   "resultat": 1.0,
+   "pnl": -10.79,
+   "cloture": "2026-11-05T23:00:58.534864+00:00"
   }
  ],
  "predictions": [
@@ -1733,7 +1739,8 @@
    "p_yes": 0.315,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-29T04:01:34.470719+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5763511",
@@ -2016,7 +2023,8 @@
    "p_yes": 0.9695,
    "fin": "2026-11-03T04:59:00+00:00",
    "date": "2026-11-01T21:01:52.992763+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "631018",
