@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 05/11/2026 10:03 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 05/11/2026 11:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1035.45 $** (+3.5 %) |
-| Disponible | 886.00 $ |
-| Engagé | 149.45 $ sur 6 positions |
+| Disponible | 875.65 $ |
+| Engagé | 159.80 $ sur 7 positions |
 | Trades clôturés | 28 · gagnés 16 (57 %) |
 | Gains/pertes réalisés | +35.46 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 05/11/2026 10:03 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 10 | 10 (100 %) | 492.07 $ | +84.18 $ | +17.1 % | 1 (50 $) |
 | ⚖️ Équilibré | 10 | 5 (50 %) | 271.86 $ | +15.56 $ | +5.7 % | 3 (67 $) |
-| 🎲 Outsider | 8 | 1 (12 %) | 127.77 $ | -64.28 $ | -50.3 % | 2 (33 $) |
+| 🎲 Outsider | 8 | 1 (12 %) | 127.77 $ | -64.28 $ | -50.3 % | 3 (43 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
@@ -43,12 +43,13 @@ Prédictions résolues : **125** · Score Brier IA **0.2168** vs marché **0.138
 | Will the Democratic Party win the NC-09 House seat? | 04/11 | NO | 0.69 | 3.28 $ | +1.44 $ | 23% | 32% |
 | Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 
-### 🎲 Outsider (2)
+### 🎲 Outsider (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Israel x Iran ceasefire continues through November 2? | 03/11 | NO | 0.04 | 10.79 $ | +258.96 $ | 85% | 97% |
 | Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
+| Will Dplus KIA win Worlds 2026? | 29/11 | YES | 0.10 | 10.35 $ | +95.26 $ | 30% | 9% |
 
 ## 🧾 15 derniers trades clôturés
 
