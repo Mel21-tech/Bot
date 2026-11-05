@@ -2269,6 +2269,15 @@
    "fin": "2026-12-01T04:59:00+00:00",
    "date": "2026-11-04T23:01:22.699900+00:00",
    "recherche": true
+  },
+  {
+   "id": "3580932",
+   "question": "Will Chiang Wan-an win the next Taipei Mayor election?",
+   "p_ia": 0.33,
+   "p_yes": 0.685,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-05T04:01:05.677107+00:00",
+   "recherche": true
   }
  ]
 }
