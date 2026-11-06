@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 06/11/2026 21:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 06/11/2026 22:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1011.03 $** (+1.1 %) |
-| Disponible | 875.65 $ |
-| Engagé | 135.38 $ sur 4 positions |
+| Disponible | 825.10 $ |
+| Engagé | 185.93 $ sur 5 positions |
 | Trades clôturés | 31 · gagnés 16 (52 %) |
 | Gains/pertes réalisés | +11.04 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 06/11/2026 21:01 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 10 | 10 (100 %) | 492.07 $ | +84.18 $ | +17.1 % | 1 (50 $) |
+| 🛡️ Sûr | 10 | 10 (100 %) | 492.07 $ | +84.18 $ | +17.1 % | 2 (101 $) |
 | ⚖️ Équilibré | 11 | 5 (45 %) | 275.14 $ | +12.28 $ | +4.5 % | 2 (63 $) |
 | 🎲 Outsider | 10 | 1 (10 %) | 148.91 $ | -85.42 $ | -57.4 % | 1 (22 $) |
 
@@ -29,11 +29,12 @@ Prédictions résolues : **128** · Score Brier IA **0.2202** vs marché **0.142
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (1)
+### 🛡️ Sûr (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
+| Iran full airspace closure by November 30, 2026? | 01/12 | NO | 0.80 | 50.55 $ | +12.64 $ | 15% | 21% |
 
 ### ⚖️ Équilibré (2)
 
