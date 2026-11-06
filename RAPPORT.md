@@ -1,15 +1,15 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 06/11/2026 02:29 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 06/11/2026 03:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1021.38 $** (+2.1 %) |
+| **Capital total** | **1011.03 $** (+1.1 %) |
 | Disponible | 875.65 $ |
-| Engagé | 145.73 $ sur 5 positions |
-| Trades clôturés | 30 · gagnés 16 (53 %) |
-| Gains/pertes réalisés | +21.39 $ |
+| Engagé | 135.38 $ sur 4 positions |
+| Trades clôturés | 31 · gagnés 16 (52 %) |
+| Gains/pertes réalisés | +11.04 $ |
 
 ## 📈 Rentabilité par catégorie
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 06/11/2026 02:29 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 10 | 10 (100 %) | 492.07 $ | +84.18 $ | +17.1 % | 1 (50 $) |
 | ⚖️ Équilibré | 11 | 5 (45 %) | 275.14 $ | +12.28 $ | +4.5 % | 2 (63 $) |
-| 🎲 Outsider | 9 | 1 (11 %) | 138.56 $ | -75.07 $ | -54.2 % | 2 (32 $) |
+| 🎲 Outsider | 10 | 1 (10 %) | 148.91 $ | -85.42 $ | -57.4 % | 1 (22 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
@@ -42,17 +42,17 @@ Prédictions résolues : **128** · Score Brier IA **0.2202** vs marché **0.142
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 
-### 🎲 Outsider (2)
+### 🎲 Outsider (1)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
-| Will Dplus KIA win Worlds 2026? | 29/11 | YES | 0.10 | 10.35 $ | +95.26 $ | 30% | 9% |
 
 ## 🧾 15 derniers trades clôturés
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Will Dplus KIA win Worlds 2026? | 🎲 | YES | 10.35 $ | -10.35 $ |
 | ❌ | Israel x Iran ceasefire continues through November 2? | 🎲 | NO | 10.79 $ | -10.79 $ |
 | ❌ | Will the Democratic Party win the NC-09 House seat? | ⚖️ | NO | 3.28 $ | -3.28 $ |
 | ✅ | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 🛡️ | NO | 53.76 $ | +8.39 $ |
@@ -67,4 +67,3 @@ Prédictions résolues : **128** · Score Brier IA **0.2202** vs marché **0.142
 | ✅ | Will Iliana Iotova win the next Bulgarian presidential election? | 🛡️ | YES | 53.76 $ | +20.91 $ |
 | ✅ | NATO x Russia military clash by October 31, 2026? | 🛡️ | NO | 50.00 $ | +4.05 $ |
 | ❌ | Saudi Arabia military action against Yemen on October 29? | ⚖️ | NO | 30.00 $ | -30.00 $ |
-| ✅ | Will the Tampa Bay Rays win the 2026 World Series? | 🛡️ | NO | 51.17 $ | +17.42 $ |
