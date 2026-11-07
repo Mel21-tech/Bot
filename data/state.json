@@ -2482,7 +2482,8 @@
    "p_yes": 0.565,
    "fin": "2026-11-07T17:30:00+00:00",
    "date": "2026-11-07T04:01:14.954928+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "4319439",
@@ -2509,6 +2510,24 @@
    "p_yes": 0.325,
    "fin": "2026-11-08T04:59:00+00:00",
    "date": "2026-11-07T08:01:04.987505+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6236266",
+   "question": "Will Liverpool FC win on 2026-11-08?",
+   "p_ia": 0.58,
+   "p_yes": 0.615,
+   "fin": "2026-11-08T14:00:00+00:00",
+   "date": "2026-11-07T20:02:14.545260+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5787490",
+   "question": "Next White House Press Secretary announced by November 30, 2026?",
+   "p_ia": 0.97,
+   "p_yes": 0.435,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-07T20:02:33.206439+00:00",
    "recherche": true
   }
  ]
