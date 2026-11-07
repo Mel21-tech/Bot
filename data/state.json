@@ -2501,6 +2501,15 @@
    "fin": "2026-11-08T04:59:00+00:00",
    "date": "2026-11-07T07:01:08.234299+00:00",
    "recherche": true
+  },
+  {
+   "id": "2116494",
+   "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "p_ia": 0.62,
+   "p_yes": 0.325,
+   "fin": "2026-11-08T04:59:00+00:00",
+   "date": "2026-11-07T08:01:04.987505+00:00",
+   "recherche": true
   }
  ]
 }
