@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 07/11/2026 04:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 07/11/2026 05:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1011.03 $** (+1.1 %) |
-| Disponible | 774.55 $ |
-| Engagé | 236.48 $ sur 6 positions |
+| Disponible | 764.44 $ |
+| Engagé | 246.59 $ sur 7 positions |
 | Trades clôturés | 31 · gagnés 16 (52 %) |
 | Gains/pertes réalisés | +11.04 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 07/11/2026 04:01 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 10 | 10 (100 %) | 492.07 $ | +84.18 $ | +17.1 % | 3 (151 $) |
 | ⚖️ Équilibré | 11 | 5 (45 %) | 275.14 $ | +12.28 $ | +4.5 % | 2 (63 $) |
-| 🎲 Outsider | 10 | 1 (10 %) | 148.91 $ | -85.42 $ | -57.4 % | 1 (22 $) |
+| 🎲 Outsider | 10 | 1 (10 %) | 148.91 $ | -85.42 $ | -57.4 % | 2 (32 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
@@ -44,11 +44,12 @@ Prédictions résolues : **131** · Score Brier IA **0.2365** vs marché **0.141
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 
-### 🎲 Outsider (1)
+### 🎲 Outsider (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
+| Will Anthropic IPO by November 30, 2026? | 01/12 | NO | 0.23 | 10.11 $ | +34.82 $ | 68% | 78% |
 
 ## 🧾 15 derniers trades clôturés
 
