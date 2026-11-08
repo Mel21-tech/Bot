@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 761.5536875613379,
+ "capital": 808.1352763463847,
  "positions": [
   {
    "id": "682705",
@@ -100,20 +100,20 @@
    "ouverture": "2026-11-07T07:01:08.234490+00:00"
   },
   {
-   "id": "6236906",
-   "event": "1257011",
-   "question": "Will Brighton & Hove Albion FC win on 2026-11-08?",
-   "regles": "In the upcoming game, scheduled for November 8, 2026\nIf Brighton & Hove Albion FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
-   "p_yes": 0.525,
-   "fin": "2026-11-08T14:00:00+00:00",
-   "slug": "epl-bri-bre-2026-11-08-bri",
+   "id": "5488329",
+   "event": "1164155",
+   "question": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
+   "regles": "This is a polymarket on the winner of the 2026 F1 Brazilian Grand Prix, scheduled for Nov 8, 2026.\n\nIf the 2026 F1 Brazilian Grand Prix is canceled or rescheduled to a date after Nov 15, 2026, this market will resolve to “Other.”\n\nThis market will resolve in favor of the driver who is officially listed in first place in the Final Classification published by the FIA following the conclusion of the race. The Final Classification is typically released 30-60 minutes after the race ends and includes any applied time penalties and official adjustments.\n\nDisqualifications or changes made after the publication of the Final Classification will not affect market resolution. The timing of the podium ceremony does not determine the result for this market — only the FIA's published classification will be used to resolve this market.\n\nThe resolution source will be the official Formula 1 website and a consensus of credible sports news reporting.",
+   "p_yes": 0.16,
+   "fin": "2026-11-15T17:00:00+00:00",
+   "slug": "f1-brazilian-grand-prix-winner-verstappen-2026-11-08",
    "cote": "YES",
-   "prix": 0.535,
-   "mise": 30.33,
-   "p_ia": 0.68,
-   "categorie": "Équilibré",
-   "raison": "Brighton occupe la 3ᵉ place avec 19 points contre Brentford 7ᵉ avec 14 points et joue à domicile, ce qui rend sa victoire très probable",
-   "ouverture": "2026-11-08T00:01:30.238577+00:00"
+   "prix": 0.17,
+   "mise": 10.11,
+   "p_ia": 0.38,
+   "categorie": "Outsider",
+   "raison": "Les bookmakers le placent favori (~44% de probabilité) malgré son départ en P21, mais la pénalité et les problèmes de boîte rendent la victoire incertaine, d'où une estimation autour de 38%.",
+   "ouverture": "2026-11-08T17:01:27.827048+00:00"
   }
  ],
  "historique": [
@@ -743,6 +743,25 @@
    "resultat": 1.0,
    "pnl": -33.18,
    "cloture": "2026-11-08T07:23:55.342939+00:00"
+  },
+  {
+   "id": "6236906",
+   "event": "1257011",
+   "question": "Will Brighton & Hove Albion FC win on 2026-11-08?",
+   "regles": "In the upcoming game, scheduled for November 8, 2026\nIf Brighton & Hove Albion FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.525,
+   "fin": "2026-11-08T14:00:00+00:00",
+   "slug": "epl-bri-bre-2026-11-08-bri",
+   "cote": "YES",
+   "prix": 0.535,
+   "mise": 30.33,
+   "p_ia": 0.68,
+   "categorie": "Équilibré",
+   "raison": "Brighton occupe la 3ᵉ place avec 19 points contre Brentford 7ᵉ avec 14 points et joue à domicile, ce qui rend sa victoire très probable",
+   "ouverture": "2026-11-08T00:01:30.238577+00:00",
+   "resultat": 1.0,
+   "pnl": 26.36,
+   "cloture": "2026-11-08T17:00:58.801513+00:00"
   }
  ],
  "predictions": [
@@ -2548,7 +2567,8 @@
    "p_yes": 0.615,
    "fin": "2026-11-08T14:00:00+00:00",
    "date": "2026-11-07T20:02:14.545260+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5787490",
@@ -2575,7 +2595,8 @@
    "p_yes": 0.525,
    "fin": "2026-11-08T14:00:00+00:00",
    "date": "2026-11-08T00:01:30.238419+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "6731228",
@@ -2584,6 +2605,15 @@
    "p_yes": 0.18,
    "fin": "2026-11-11T04:59:00+00:00",
    "date": "2026-11-08T06:01:15.046018+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5488329",
+   "question": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
+   "p_ia": 0.38,
+   "p_yes": 0.16,
+   "fin": "2026-11-15T17:00:00+00:00",
+   "date": "2026-11-08T17:01:27.826801+00:00",
    "recherche": true
   }
  ]
