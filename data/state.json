@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 734.1122589899094,
+ "capital": 703.7822589899093,
  "positions": [
   {
    "id": "682705",
@@ -130,6 +130,22 @@
    "categorie": "Équilibré",
    "raison": "Les derniers sondages montrent une course très serrée, avec National parfois en tête mais souvent derrière Labour, et les prévisions de sièges récentes donnent à National une légère majorité dans environ un tiers des scénarios.",
    "ouverture": "2026-11-07T07:01:08.234490+00:00"
+  },
+  {
+   "id": "6236906",
+   "event": "1257011",
+   "question": "Will Brighton & Hove Albion FC win on 2026-11-08?",
+   "regles": "In the upcoming game, scheduled for November 8, 2026\nIf Brighton & Hove Albion FC wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, data from Flashscore may be used; if Flashscore data is unavailable, data from Sofascore may be used; if neither is available, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome. If no acceptable data is available within 24 hours of the event's conclusion, this market will resolve 50-50, or to \"Draw\" where applicable.",
+   "p_yes": 0.525,
+   "fin": "2026-11-08T14:00:00+00:00",
+   "slug": "epl-bri-bre-2026-11-08-bri",
+   "cote": "YES",
+   "prix": 0.535,
+   "mise": 30.33,
+   "p_ia": 0.68,
+   "categorie": "Équilibré",
+   "raison": "Brighton occupe la 3ᵉ place avec 19 points contre Brentford 7ᵉ avec 14 points et joue à domicile, ce qui rend sa victoire très probable",
+   "ouverture": "2026-11-08T00:01:30.238577+00:00"
   }
  ],
  "historique": [
@@ -2537,6 +2553,15 @@
    "p_yes": 0.545,
    "fin": "2026-11-08T20:00:00+00:00",
    "date": "2026-11-07T20:54:28.821919+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6236906",
+   "question": "Will Brighton & Hove Albion FC win on 2026-11-08?",
+   "p_ia": 0.68,
+   "p_yes": 0.525,
+   "fin": "2026-11-08T14:00:00+00:00",
+   "date": "2026-11-08T00:01:30.238419+00:00",
    "recherche": true
   }
  ]
