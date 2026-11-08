@@ -52,22 +52,6 @@
    "ouverture": "2026-10-27T03:01:52.257912+00:00"
   },
   {
-   "id": "6490417",
-   "event": "1290036",
-   "question": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
-   "regles": "In the upcoming Saudi Professional League game between Al Qadisiyah Saudi Club and Al Fayha Saudi Club, originally scheduled for Thursday, November 5, 2026 at 12:30 PM ET (as of creation of the first market related to the event):\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf this market's outcome was definitively determined under its rules by the listed resolution sources before abandonment, that outcome will stand. Otherwise, the following no-result provisions apply. If the game is canceled, does not start by Saturday, November 7, 2026, 11:59 PM ET, or is abandoned with no official result by that time, this market will resolve to \"Yes\".\nThe following abandonment rules apply only when this market's outcome was not already definitively determined under its rules before abandonment. If the game is abandoned, this market will resolve according to the official ruling of the governing body or event organizers on the abandoned game. If a result is awarded by Saturday, November 7, 2026, 11:59 PM ET that determines this market's outcome, this market will resolve based on the awarded result, regardless of the score as played. If no such result is awarded and the result as played at the time of abandonment is declared to stand by Saturday, November 7, 2026, 11:59 PM ET, this market will resolve based on the game as played. If the game is replayed or resumed from the point of abandonment and has an official result by Satur",
-   "p_yes": 0.5,
-   "fin": "2026-11-05T17:30:00+00:00",
-   "slug": "spl-qad-fay-2026-11-05-draw",
-   "cote": "NO",
-   "prix": 0.51,
-   "mise": 33.18,
-   "p_ia": 0.25,
-   "categorie": "Équilibré",
-   "raison": "Les prévisions de scores indiquent une probabilité combinée d'environ 25 % pour un match nul (0‑0 7,1 %, 1‑1 12,4 %, 2‑2 5,3 %).",
-   "ouverture": "2026-11-03T10:01:09.975979+00:00"
-  },
-  {
    "id": "6281141",
    "event": "634802",
    "question": "Iran full airspace closure by November 30, 2026?",
@@ -740,6 +724,25 @@
    "resultat": 1.0,
    "pnl": 7.22,
    "cloture": "2026-11-08T00:39:00.374901+00:00"
+  },
+  {
+   "id": "6490417",
+   "event": "1290036",
+   "question": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
+   "regles": "In the upcoming Saudi Professional League game between Al Qadisiyah Saudi Club and Al Fayha Saudi Club, originally scheduled for Thursday, November 5, 2026 at 12:30 PM ET (as of creation of the first market related to the event):\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf this market's outcome was definitively determined under its rules by the listed resolution sources before abandonment, that outcome will stand. Otherwise, the following no-result provisions apply. If the game is canceled, does not start by Saturday, November 7, 2026, 11:59 PM ET, or is abandoned with no official result by that time, this market will resolve to \"Yes\".\nThe following abandonment rules apply only when this market's outcome was not already definitively determined under its rules before abandonment. If the game is abandoned, this market will resolve according to the official ruling of the governing body or event organizers on the abandoned game. If a result is awarded by Saturday, November 7, 2026, 11:59 PM ET that determines this market's outcome, this market will resolve based on the awarded result, regardless of the score as played. If no such result is awarded and the result as played at the time of abandonment is declared to stand by Saturday, November 7, 2026, 11:59 PM ET, this market will resolve based on the game as played. If the game is replayed or resumed from the point of abandonment and has an official result by Satur",
+   "p_yes": 0.5,
+   "fin": "2026-11-05T17:30:00+00:00",
+   "slug": "spl-qad-fay-2026-11-05-draw",
+   "cote": "NO",
+   "prix": 0.51,
+   "mise": 33.18,
+   "p_ia": 0.25,
+   "categorie": "Équilibré",
+   "raison": "Les prévisions de scores indiquent une probabilité combinée d'environ 25 % pour un match nul (0‑0 7,1 %, 1‑1 12,4 %, 2‑2 5,3 %).",
+   "ouverture": "2026-11-03T10:01:09.975979+00:00",
+   "resultat": 1.0,
+   "pnl": -33.18,
+   "cloture": "2026-11-08T07:23:55.342939+00:00"
   }
  ],
  "predictions": [
@@ -2247,7 +2250,8 @@
    "p_yes": 0.5,
    "fin": "2026-11-05T17:30:00+00:00",
    "date": "2026-11-03T10:01:09.975748+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "6274030",
@@ -2285,7 +2289,8 @@
    "p_yes": 0.0455,
    "fin": "2026-11-05T17:30:00+00:00",
    "date": "2026-11-04T02:01:21.154944+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "6053559",
@@ -2304,7 +2309,8 @@
    "p_yes": 0.941,
    "fin": "2026-11-05T13:25:00+00:00",
    "date": "2026-11-04T06:01:48.073704+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "6490893",
@@ -2322,7 +2328,8 @@
    "p_yes": 0.94,
    "fin": "2026-11-05T15:10:00+00:00",
    "date": "2026-11-04T08:01:26.570551+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "3580933",

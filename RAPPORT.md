@@ -1,29 +1,29 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 08/11/2026 07:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 08/11/2026 07:23 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1018.25 $** (+1.8 %) |
+| **Capital total** | **985.07 $** (-1.5 %) |
 | Disponible | 761.55 $ |
-| Engagé | 256.70 $ sur 8 positions |
-| Trades clôturés | 32 · gagnés 17 (53 %) |
-| Gains/pertes réalisés | +18.26 $ |
+| Engagé | 223.52 $ sur 7 positions |
+| Trades clôturés | 33 · gagnés 17 (52 %) |
+| Gains/pertes réalisés | -14.92 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 11 | 11 (100 %) | 542.62 $ | +91.40 $ | +16.8 % | 2 (101 $) |
-| ⚖️ Équilibré | 11 | 5 (45 %) | 275.14 $ | +12.28 $ | +4.5 % | 4 (124 $) |
+| ⚖️ Équilibré | 12 | 5 (42 %) | 308.32 $ | -20.90 $ | -6.8 % | 3 (91 $) |
 | 🎲 Outsider | 10 | 1 (10 %) | 148.91 $ | -85.42 $ | -57.4 % | 2 (32 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **135** · Score Brier IA **0.2324** vs marché **0.1402** (plus bas = meilleur)
+Prédictions résolues : **139** · Score Brier IA **0.2368** vs marché **0.1380** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
@@ -36,12 +36,11 @@ Prédictions résolues : **135** · Score Brier IA **0.2324** vs marché **0.140
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | Iran full airspace closure by November 30, 2026? | 01/12 | NO | 0.80 | 50.55 $ | +12.64 $ | 15% | 21% |
 
-### ⚖️ Équilibré (4)
+### ⚖️ Équilibré (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
-| Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | 05/11 | NO | 0.51 | 33.18 $ | +31.88 $ | 25% | 50% |
 | Will National Party win the most seats in the New Zealand House of Rep | 08/11 | NO | 0.41 | 30.33 $ | +42.75 $ | 41% | 60% |
 | Will Brighton & Hove Albion FC win on 2026-11-08? | 08/11 | YES | 0.54 | 30.33 $ | +26.36 $ | 68% | 52% |
 
@@ -56,6 +55,7 @@ Prédictions résolues : **135** · Score Brier IA **0.2324** vs marché **0.140
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? | ⚖️ | NO | 33.18 $ | -33.18 $ |
 | ✅ | Will Paris Saint-Germain FC win on 2026-11-07? | 🛡️ | YES | 50.55 $ | +7.22 $ |
 | ❌ | Will Dplus KIA win Worlds 2026? | 🎲 | YES | 10.35 $ | -10.35 $ |
 | ❌ | Israel x Iran ceasefire continues through November 2? | 🎲 | NO | 10.79 $ | -10.79 $ |
@@ -70,4 +70,3 @@ Prédictions résolues : **135** · Score Brier IA **0.2324** vs marché **0.140
 | ✅ | US x Iran ceasefire continues through November 3? | 🛡️ | NO | 55.00 $ | +6.04 $ |
 | ✅ | US-Iran Hormuz Agreement by November 2? | 🛡️ | NO | 51.70 $ | +6.07 $ |
 | ✅ | Will Iliana Iotova win the next Bulgarian presidential election? | 🛡️ | YES | 53.76 $ | +20.91 $ |
-| ✅ | NATO x Russia military clash by October 31, 2026? | 🛡️ | NO | 50.00 $ | +4.05 $ |
