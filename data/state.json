@@ -2569,6 +2569,15 @@
    "fin": "2026-11-08T14:00:00+00:00",
    "date": "2026-11-08T00:01:30.238419+00:00",
    "recherche": true
+  },
+  {
+   "id": "6731228",
+   "question": "Will Kai Cenat finish his GTA marathon by November 10?",
+   "p_ia": 0.18,
+   "p_yes": 0.18,
+   "fin": "2026-11-11T04:59:00+00:00",
+   "date": "2026-11-08T06:01:15.046018+00:00",
+   "recherche": true
   }
  ]
 }
