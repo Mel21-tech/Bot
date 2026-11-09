@@ -2711,6 +2711,15 @@
    "fin": "2026-11-22T20:29:00+00:00",
    "date": "2026-11-09T06:01:14.735113+00:00",
    "recherche": true
+  },
+  {
+   "id": "6831496",
+   "question": "US x Iran Effective Ceasefire by November 30?",
+   "p_ia": 0.35,
+   "p_yes": 0.565,
+   "fin": "2026-11-30T20:29:00+00:00",
+   "date": "2026-11-09T06:35:50.196431+00:00",
+   "recherche": true
   }
  ]
 }
