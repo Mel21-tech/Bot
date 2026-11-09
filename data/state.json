@@ -2648,6 +2648,24 @@
    "fin": "2026-11-23T04:59:00+00:00",
    "date": "2026-11-09T03:01:40.333692+00:00",
    "recherche": true
+  },
+  {
+   "id": "5190565",
+   "question": "Next US-Iran senior diplomatic meeting by November 30, 2026?",
+   "p_ia": 0.97,
+   "p_yes": 0.165,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-09T04:01:03.981611+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6513007",
+   "question": "Wycombe Wanderers FC vs. Huddersfield Town AFC: Draw at halftime?",
+   "p_ia": 0.29,
+   "p_yes": 0.97,
+   "fin": "2026-11-14T15:00:00+00:00",
+   "date": "2026-11-09T04:01:38.404778+00:00",
+   "recherche": true
   }
  ]
 }
