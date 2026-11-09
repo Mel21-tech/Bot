@@ -98,22 +98,6 @@
    "categorie": "Équilibré",
    "raison": "Les derniers sondages montrent une course très serrée, avec National parfois en tête mais souvent derrière Labour, et les prévisions de sièges récentes donnent à National une légère majorité dans environ un tiers des scénarios.",
    "ouverture": "2026-11-07T07:01:08.234490+00:00"
-  },
-  {
-   "id": "5488329",
-   "event": "1164155",
-   "question": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
-   "regles": "This is a polymarket on the winner of the 2026 F1 Brazilian Grand Prix, scheduled for Nov 8, 2026.\n\nIf the 2026 F1 Brazilian Grand Prix is canceled or rescheduled to a date after Nov 15, 2026, this market will resolve to “Other.”\n\nThis market will resolve in favor of the driver who is officially listed in first place in the Final Classification published by the FIA following the conclusion of the race. The Final Classification is typically released 30-60 minutes after the race ends and includes any applied time penalties and official adjustments.\n\nDisqualifications or changes made after the publication of the Final Classification will not affect market resolution. The timing of the podium ceremony does not determine the result for this market — only the FIA's published classification will be used to resolve this market.\n\nThe resolution source will be the official Formula 1 website and a consensus of credible sports news reporting.",
-   "p_yes": 0.16,
-   "fin": "2026-11-15T17:00:00+00:00",
-   "slug": "f1-brazilian-grand-prix-winner-verstappen-2026-11-08",
-   "cote": "YES",
-   "prix": 0.17,
-   "mise": 10.11,
-   "p_ia": 0.38,
-   "categorie": "Outsider",
-   "raison": "Les bookmakers le placent favori (~44% de probabilité) malgré son départ en P21, mais la pénalité et les problèmes de boîte rendent la victoire incertaine, d'où une estimation autour de 38%.",
-   "ouverture": "2026-11-08T17:01:27.827048+00:00"
   }
  ],
  "historique": [
@@ -762,6 +746,25 @@
    "resultat": 1.0,
    "pnl": 26.36,
    "cloture": "2026-11-08T17:00:58.801513+00:00"
+  },
+  {
+   "id": "5488329",
+   "event": "1164155",
+   "question": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
+   "regles": "This is a polymarket on the winner of the 2026 F1 Brazilian Grand Prix, scheduled for Nov 8, 2026.\n\nIf the 2026 F1 Brazilian Grand Prix is canceled or rescheduled to a date after Nov 15, 2026, this market will resolve to “Other.”\n\nThis market will resolve in favor of the driver who is officially listed in first place in the Final Classification published by the FIA following the conclusion of the race. The Final Classification is typically released 30-60 minutes after the race ends and includes any applied time penalties and official adjustments.\n\nDisqualifications or changes made after the publication of the Final Classification will not affect market resolution. The timing of the podium ceremony does not determine the result for this market — only the FIA's published classification will be used to resolve this market.\n\nThe resolution source will be the official Formula 1 website and a consensus of credible sports news reporting.",
+   "p_yes": 0.16,
+   "fin": "2026-11-15T17:00:00+00:00",
+   "slug": "f1-brazilian-grand-prix-winner-verstappen-2026-11-08",
+   "cote": "YES",
+   "prix": 0.17,
+   "mise": 10.11,
+   "p_ia": 0.38,
+   "categorie": "Outsider",
+   "raison": "Les bookmakers le placent favori (~44% de probabilité) malgré son départ en P21, mais la pénalité et les problèmes de boîte rendent la victoire incertaine, d'où une estimation autour de 38%.",
+   "ouverture": "2026-11-08T17:01:27.827048+00:00",
+   "resultat": 0.0,
+   "pnl": -10.11,
+   "cloture": "2026-11-09T00:00:58.661951+00:00"
   }
  ],
  "predictions": [
