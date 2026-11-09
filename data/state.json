@@ -2720,6 +2720,15 @@
    "fin": "2026-11-30T20:29:00+00:00",
    "date": "2026-11-09T06:35:50.196431+00:00",
    "recherche": true
+  },
+  {
+   "id": "5714365",
+   "question": "US imports Russian diesel by November 30?",
+   "p_ia": 0.15,
+   "p_yes": 0.155,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-09T07:01:28.589229+00:00",
+   "recherche": true
   }
  ]
 }
