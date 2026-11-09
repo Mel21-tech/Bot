@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 09/11/2026 05:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 09/11/2026 06:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1001.33 $** (+0.1 %) |
-| Disponible | 808.14 $ |
-| Engagé | 193.19 $ sur 6 positions |
+| Disponible | 780.88 $ |
+| Engagé | 220.45 $ sur 7 positions |
 | Trades clôturés | 35 · gagnés 18 (51 %) |
 | Gains/pertes réalisés | +1.33 $ |
 
@@ -16,7 +16,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 09/11/2026 05:01 UTC_
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 11 | 11 (100 %) | 542.62 $ | +91.40 $ | +16.8 % | 2 (101 $) |
-| ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 2 (60 $) |
+| ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
 | 🎲 Outsider | 11 | 1 (9 %) | 159.02 $ | -95.53 $ | -60.1 % | 2 (32 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
@@ -36,12 +36,13 @@ Prédictions résolues : **146** · Score Brier IA **0.2357** vs marché **0.144
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | Iran full airspace closure by November 30, 2026? | 01/12 | NO | 0.80 | 50.55 $ | +12.64 $ | 15% | 21% |
 
-### ⚖️ Équilibré (2)
+### ⚖️ Équilibré (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | Will National Party win the most seats in the New Zealand House of Rep | 08/11 | NO | 0.41 | 30.33 $ | +42.75 $ | 41% | 60% |
+| US x Iran Effective Ceasefire by November 22? | 22/11 | YES | 0.49 | 27.26 $ | +27.81 $ | 55% | 48% |
 
 ### 🎲 Outsider (2)
 

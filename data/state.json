@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 808.1352763463847,
+ "capital": 780.8752763463847,
  "positions": [
   {
    "id": "682705",
@@ -98,6 +98,22 @@
    "categorie": "Équilibré",
    "raison": "Les derniers sondages montrent une course très serrée, avec National parfois en tête mais souvent derrière Labour, et les prévisions de sièges récentes donnent à National une légère majorité dans environ un tiers des scénarios.",
    "ouverture": "2026-11-07T07:01:08.234490+00:00"
+  },
+  {
+   "id": "6831495",
+   "event": "1337182",
+   "question": "US x Iran Effective Ceasefire by November 22?",
+   "regles": "This market will resolve to “Yes” if a continuous 14-day period during which the United States does not take a qualifying military action against Iran is completed, where the first day of that period is between market creation and the specified date (Iran Standard Time). Otherwise, this market will resolve to “No.”\n\nThe first day of the 14-day period will be the calendar date (Iran Standard Time) after the most recent qualifying military action. Military actions occurring before market creation are not qualifying military actions. Where no qualifying military action has occurred after market creation, the first day of the 14-day period will be the date of market creation (Iran Standard Time). The period runs through 11:59 PM Iran Standard Time on the 14th calendar day.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the United States, that directly impacts Iran. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface str",
+   "p_yes": 0.485,
+   "fin": "2026-11-22T20:29:00+00:00",
+   "slug": "us-x-iran-effective-ceasefire-by-november-22-20261108",
+   "cote": "YES",
+   "prix": 0.495,
+   "mise": 27.26,
+   "p_ia": 0.55,
+   "categorie": "Équilibré",
+   "raison": "Après les dernières frappes du 6‑7 novembre, les négociations avancent et le président a déclaré que de nouvelles attaques sont peu probables, mais le risque d’une nouvelle frappe ponctuelle pour faire respecter le blocus reste présent.",
+   "ouverture": "2026-11-09T06:01:14.735325+00:00"
   }
  ],
  "historique": [
@@ -2685,6 +2701,15 @@
    "p_yes": 0.0725,
    "fin": "2026-11-30T04:59:00+00:00",
    "date": "2026-11-09T05:01:26.611184+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6831495",
+   "question": "US x Iran Effective Ceasefire by November 22?",
+   "p_ia": 0.55,
+   "p_yes": 0.485,
+   "fin": "2026-11-22T20:29:00+00:00",
+   "date": "2026-11-09T06:01:14.735113+00:00",
    "recherche": true
   }
  ]
