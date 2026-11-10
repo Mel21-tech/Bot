@@ -2741,6 +2741,15 @@
    "fin": "2026-12-09T23:59:00+00:00",
    "date": "2026-11-10T00:01:12.228322+00:00",
    "recherche": true
+  },
+  {
+   "id": "3215008",
+   "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+   "p_ia": 0.81,
+   "p_yes": 0.795,
+   "fin": "2026-12-09T23:59:00+00:00",
+   "date": "2026-11-10T01:01:18.813479+00:00",
+   "recherche": true
   }
  ]
 }
