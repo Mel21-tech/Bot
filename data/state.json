@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 770.8652763463847,
+ "capital": 720.7952763463846,
  "positions": [
   {
    "id": "682705",
@@ -130,6 +130,22 @@
    "categorie": "Outsider",
    "raison": "Le marathon de 5 jeux GTA nécessite environ 120 h de jeu, soit près d'une semaine, et la date limite est 6,5 jours après le départ, ce qui rend la réussite plausible mais incertaine.",
    "ouverture": "2026-11-10T03:01:38.883807+00:00"
+  },
+  {
+   "id": "4620900",
+   "event": "1034268",
+   "question": "Another Fed rate hike in 2026?",
+   "regles": "This market will resolve to “Yes” if the upper bound of the target federal funds rate is increased at any point between September 17, 2026 and the completion of the Fed's December 2026 meeting, currently scheduled for December 8 to 9, 2026, inclusive of any rate hike announced as a result of the December meeting. Otherwise, this market will resolve to “No”.\n\nAny change to the target federal funds rate announced at the conclusion of the September 15 to 16, 2026 FOMC meeting will not count toward this market. Emergency rate hikes announced on or after September 17, 2026 will qualify.\n\nThis market may not resolve to \"No\" until the Fed has released its rate change decision following its December meeting.\n\nThe primary resolution source for this market will be the official website of the Federal Reserve (https://www.federalreserve.gov/monetarypolicy/openmarket.htm), however a consensus of credible reporting may also be used.",
+   "p_yes": 0.825,
+   "fin": "2026-12-10T04:59:00+00:00",
+   "slug": "another-fed-rate-hike-in-2026",
+   "cote": "YES",
+   "prix": 0.835,
+   "mise": 50.07,
+   "p_ia": 0.88,
+   "categorie": "Sûr",
+   "raison": "Les sondages indiquent unanimité sur une hausse en décembre, et la Fed a déjà relevé les taux en septembre.",
+   "ouverture": "2026-11-10T05:01:22.637222+00:00"
   }
  ],
  "historique": [
@@ -2774,6 +2790,24 @@
    "p_yes": 0.3,
    "fin": "2026-11-11T04:59:00+00:00",
    "date": "2026-11-10T03:01:38.883627+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6803933",
+   "question": "Will Kai Cenat finish his GTA marathon by November 11, 2:59 PM ET?",
+   "p_ia": 0.58,
+   "p_yes": 0.655,
+   "fin": "2026-11-11T04:59:00+00:00",
+   "date": "2026-11-10T05:01:14.958150+00:00",
+   "recherche": true
+  },
+  {
+   "id": "4620900",
+   "question": "Another Fed rate hike in 2026?",
+   "p_ia": 0.88,
+   "p_yes": 0.825,
+   "fin": "2026-12-10T04:59:00+00:00",
+   "date": "2026-11-10T05:01:22.637001+00:00",
    "recherche": true
   }
  ]
