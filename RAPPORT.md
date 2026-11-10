@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 10/11/2026 17:01 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 10/11/2026 17:52 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1001.33 $** (+0.1 %) |
-| Disponible | 670.73 $ |
-| Engagé | 330.60 $ sur 10 positions |
+| Disponible | 620.66 $ |
+| Engagé | 380.67 $ sur 11 positions |
 | Trades clôturés | 35 · gagnés 18 (51 %) |
 | Gains/pertes réalisés | +1.33 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 10/11/2026 17:01 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 11 | 11 (100 %) | 542.62 $ | +91.40 $ | +16.8 % | 4 (201 $) |
+| 🛡️ Sûr | 11 | 11 (100 %) | 542.62 $ | +91.40 $ | +16.8 % | 5 (251 $) |
 | ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
 | 🎲 Outsider | 11 | 1 (9 %) | 159.02 $ | -95.53 $ | -60.1 % | 3 (42 $) |
 
@@ -29,13 +29,14 @@ Prédictions résolues : **151** · Score Brier IA **0.2496** vs marché **0.139
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (4)
+### 🛡️ Sûr (5)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | Will Spain win on 2026-11-12? | 12/11 | YES | 0.82 | 50.07 $ | +10.62 $ | 86% | 82% |
 | Iran full airspace closure by November 30, 2026? | 01/12 | NO | 0.80 | 50.55 $ | +12.64 $ | 15% | 21% |
+| Will Anthropic have the best AI model at the end of November 2026? | 01/12 | NO | 0.80 | 50.07 $ | +12.52 $ | 7% | 21% |
 | Another Fed rate hike in 2026? | 10/12 | YES | 0.83 | 50.07 $ | +9.89 $ | 88% | 82% |
 
 ### ⚖️ Équilibré (3)
