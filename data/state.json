@@ -2870,6 +2870,15 @@
    "fin": "2026-12-01T04:59:00+00:00",
    "date": "2026-11-10T17:52:26.365646+00:00",
    "recherche": true
+  },
+  {
+   "id": "6361794",
+   "question": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+   "p_ia": 0.19,
+   "p_yes": 0.57,
+   "fin": "2026-11-11T20:00:00+00:00",
+   "date": "2026-11-10T19:01:13.901501+00:00",
+   "recherche": true
   }
  ]
 }
