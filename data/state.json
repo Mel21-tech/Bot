@@ -2879,6 +2879,24 @@
    "fin": "2026-11-11T20:00:00+00:00",
    "date": "2026-11-10T19:01:13.901501+00:00",
    "recherche": true
+  },
+  {
+   "id": "6686839",
+   "question": "Will SCU Torreense vs. Sparta Prague end in a draw?",
+   "p_ia": 0.34,
+   "p_yes": 0.285,
+   "fin": "2026-11-11T18:00:00+00:00",
+   "date": "2026-11-10T22:02:04.123285+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6361793",
+   "question": "Will Sport Lisboa e Benfica win on 2026-11-11?",
+   "p_ia": 0.12,
+   "p_yes": 0.555,
+   "fin": "2026-11-11T20:00:00+00:00",
+   "date": "2026-11-10T22:02:24.251036+00:00",
+   "recherche": true
   }
  ]
 }
