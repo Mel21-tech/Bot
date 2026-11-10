@@ -2407,7 +2407,8 @@
    "p_yes": 0.945,
    "fin": "2026-11-07T04:59:00+00:00",
    "date": "2026-11-04T17:02:01.725810+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "3501951",
@@ -2516,7 +2517,8 @@
    "p_yes": 0.93,
    "fin": "2026-11-07T04:59:00+00:00",
    "date": "2026-11-06T02:01:17.558992+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "6179543",
@@ -2729,6 +2731,15 @@
    "p_yes": 0.155,
    "fin": "2026-12-01T04:59:00+00:00",
    "date": "2026-11-09T07:01:28.589229+00:00",
+   "recherche": true
+  },
+  {
+   "id": "3215007",
+   "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+   "p_ia": 0.2,
+   "p_yes": 0.185,
+   "fin": "2026-12-09T23:59:00+00:00",
+   "date": "2026-11-10T00:01:12.228322+00:00",
    "recherche": true
   }
  ]
