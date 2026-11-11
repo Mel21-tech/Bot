@@ -2913,6 +2913,15 @@
    "fin": "2026-12-01T04:59:00+00:00",
    "date": "2026-11-11T07:01:14.709980+00:00",
    "recherche": true
+  },
+  {
+   "id": "6947935",
+   "question": "Russia x Ukraine energy ceasefire agreement by November 15, 2026?",
+   "p_ia": 0.07,
+   "p_yes": 0.037,
+   "fin": "2026-11-15T21:59:00+00:00",
+   "date": "2026-11-11T15:16:01.405381+00:00",
+   "recherche": true
   }
  ]
 }
