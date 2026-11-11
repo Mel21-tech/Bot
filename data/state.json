@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 620.6552763463845,
+ "capital": 652.9455989270297,
  "positions": [
   {
    "id": "682705",
@@ -114,22 +114,6 @@
    "categorie": "Équilibré",
    "raison": "Après les dernières frappes du 6‑7 novembre, les négociations avancent et le président a déclaré que de nouvelles attaques sont peu probables, mais le risque d’une nouvelle frappe ponctuelle pour faire respecter le blocus reste présent.",
    "ouverture": "2026-11-09T06:01:14.735325+00:00"
-  },
-  {
-   "id": "6882874",
-   "event": "1321243",
-   "question": "Will Kai Cenat finish his GTA marathon by November 11, 7:59 AM ET?",
-   "regles": "Kai Cenat is scheduled to begin a Grand Theft Auto marathon on November 5, 2026, with the stated goal of playing Grand Theft Auto III, Grand Theft Auto: Vice City, Grand Theft Auto: San Andreas, Grand Theft Auto IV, and Grand Theft Auto V on stream.\n\nThis market will resolve to \"Yes\" if Kai Cenat finishes playing Grand Theft Auto games live on stream, as accepted by him as a successful completion of the marathon, between market creation and the specified date and time. Otherwise, this market will resolve to \"No\".\n\nPlaying or completing any individual game, pauses in the livestream, or temporary breaks from gameplay will have no bearing on this market. If Kai Cenat permanently moves on from the Grand Theft Auto marathon to other activities, the marathon will be considered over at that time, even if his livestream continues uninterrupted.\n\nOnly events occurring while Kai Cenat is broadcasting the marathon live will count. Footage of off-stream or previously recorded attempts will not qualify.\n\nIf the marathon is cancelled, abandoned before completion, or delayed to a point after the specified date, this market will resolve to \"No\".\n\nThe resolution source for this market will be footage from Kai Cenat's official broadcast on YouTube and Twitch.",
-   "p_yes": 0.3,
-   "fin": "2026-11-11T04:59:00+00:00",
-   "slug": "will-kai-cenat-finish-his-gta-marathon-by-november-11-759-am-et",
-   "cote": "YES",
-   "prix": 0.31,
-   "mise": 10.01,
-   "p_ia": 0.55,
-   "categorie": "Outsider",
-   "raison": "Le marathon de 5 jeux GTA nécessite environ 120 h de jeu, soit près d'une semaine, et la date limite est 6,5 jours après le départ, ce qui rend la réussite plausible mais incertaine.",
-   "ouverture": "2026-11-10T03:01:38.883807+00:00"
   },
   {
    "id": "4620900",
@@ -845,6 +829,25 @@
    "resultat": 0.0,
    "pnl": -10.11,
    "cloture": "2026-11-09T00:00:58.661951+00:00"
+  },
+  {
+   "id": "6882874",
+   "event": "1321243",
+   "question": "Will Kai Cenat finish his GTA marathon by November 11, 7:59 AM ET?",
+   "regles": "Kai Cenat is scheduled to begin a Grand Theft Auto marathon on November 5, 2026, with the stated goal of playing Grand Theft Auto III, Grand Theft Auto: Vice City, Grand Theft Auto: San Andreas, Grand Theft Auto IV, and Grand Theft Auto V on stream.\n\nThis market will resolve to \"Yes\" if Kai Cenat finishes playing Grand Theft Auto games live on stream, as accepted by him as a successful completion of the marathon, between market creation and the specified date and time. Otherwise, this market will resolve to \"No\".\n\nPlaying or completing any individual game, pauses in the livestream, or temporary breaks from gameplay will have no bearing on this market. If Kai Cenat permanently moves on from the Grand Theft Auto marathon to other activities, the marathon will be considered over at that time, even if his livestream continues uninterrupted.\n\nOnly events occurring while Kai Cenat is broadcasting the marathon live will count. Footage of off-stream or previously recorded attempts will not qualify.\n\nIf the marathon is cancelled, abandoned before completion, or delayed to a point after the specified date, this market will resolve to \"No\".\n\nThe resolution source for this market will be footage from Kai Cenat's official broadcast on YouTube and Twitch.",
+   "p_yes": 0.3,
+   "fin": "2026-11-11T04:59:00+00:00",
+   "slug": "will-kai-cenat-finish-his-gta-marathon-by-november-11-759-am-et",
+   "cote": "YES",
+   "prix": 0.31,
+   "mise": 10.01,
+   "p_ia": 0.55,
+   "categorie": "Outsider",
+   "raison": "Le marathon de 5 jeux GTA nécessite environ 120 h de jeu, soit près d'une semaine, et la date limite est 6,5 jours après le départ, ce qui rend la réussite plausible mais incertaine.",
+   "ouverture": "2026-11-10T03:01:38.883807+00:00",
+   "resultat": 1.0,
+   "pnl": 22.28,
+   "cloture": "2026-11-11T10:00:51.921600+00:00"
   }
  ],
  "predictions": [
@@ -2826,7 +2829,8 @@
    "p_yes": 0.3,
    "fin": "2026-11-11T04:59:00+00:00",
    "date": "2026-11-10T03:01:38.883627+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "6803933",
@@ -2835,7 +2839,8 @@
    "p_yes": 0.655,
    "fin": "2026-11-11T04:59:00+00:00",
    "date": "2026-11-10T05:01:14.958150+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "4620900",
