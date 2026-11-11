@@ -2898,6 +2898,15 @@
    "fin": "2026-11-11T20:00:00+00:00",
    "date": "2026-11-10T22:02:24.251036+00:00",
    "recherche": true
+  },
+  {
+   "id": "6440135",
+   "question": "Will Trump speak to Volodymyr Zelenskyy by November 30?",
+   "p_ia": 0.99,
+   "p_yes": 0.69,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-11T07:01:14.709980+00:00",
+   "recherche": true
   }
  ]
 }
