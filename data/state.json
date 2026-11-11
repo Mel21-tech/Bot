@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 652.9455989270297,
+ "capital": 601.7655989270297,
  "positions": [
   {
    "id": "682705",
@@ -162,6 +162,22 @@
    "categorie": "Sûr",
    "raison": "Anthropic est loin du premier rang aujourd'hui et peu de temps reste pour qu'un nouveau modèle le dépasse avant fin novembre 2026.",
    "ouverture": "2026-11-10T17:52:26.365826+00:00"
+  },
+  {
+   "id": "6947942",
+   "event": "1360126",
+   "question": "Russia x Ukraine energy ceasefire agreement by November 30, 2026?",
+   "regles": "This market will resolve to “Yes” if there is an energy ceasefire agreement between Russia and Ukraine between market creation and the specified date, 11:59 PM Kyiv time. Otherwise, this market will resolve to “No”.\n\nAn energy ceasefire refers to a mutually agreed arrangement under which both Russia and Ukraine commit to suspend strikes on at least one specific, defined category of the other country's energy infrastructure (e.g. oil refineries, gas processing plants, power plants, electricity transmission and distribution facilities, oil and gas pipelines, fuel storage facilities, or oil and gas export terminals), regardless of whether the two countries' commitments cover the same category. A category need not cover all such infrastructure in the other country to qualify; a category limited to a defined geographic area will be sufficient.\n\nThe agreement must be either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries. A claim by a third party, including the President of the United States, that Russia and Ukraine have agreed to such an arrangement will not qualify without such confirmation.\n\nA broader ceasefire, peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed general suspension of strikes by both countries, whether or not it names energy infrastructure or any specific category of it. It will also qualify if i",
+   "p_yes": 0.165,
+   "fin": "2026-11-30T21:59:00+00:00",
+   "slug": "russia-x-ukraine-energy-ceasefire-agreement-by-november-30-2026",
+   "cote": "NO",
+   "prix": 0.845,
+   "mise": 51.18,
+   "p_ia": 0.07,
+   "categorie": "Sûr",
+   "raison": "Les pourparlers viennent de se terminer sans accord et la Russie a déjà rejeté l'idée d'une trêve énergétique, rendant improbable qu'un accord soit conclu d'ici 19 jours.",
+   "ouverture": "2026-11-11T22:01:04.441087+00:00"
   }
  ],
  "historique": [
@@ -2939,6 +2955,15 @@
    "p_yes": 0.795,
    "fin": "2026-11-12T19:45:00+00:00",
    "date": "2026-11-11T20:01:02.185051+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6947942",
+   "question": "Russia x Ukraine energy ceasefire agreement by November 30, 2026?",
+   "p_ia": 0.07,
+   "p_yes": 0.165,
+   "fin": "2026-11-30T21:59:00+00:00",
+   "date": "2026-11-11T22:01:04.440847+00:00",
    "recherche": true
   }
  ]
