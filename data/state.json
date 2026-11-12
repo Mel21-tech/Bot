@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 601.7655989270297,
+ "capital": 662.4565080179389,
  "positions": [
   {
    "id": "682705",
@@ -130,22 +130,6 @@
    "categorie": "Sûr",
    "raison": "Les sondages indiquent unanimité sur une hausse en décembre, et la Fed a déjà relevé les taux en septembre.",
    "ouverture": "2026-11-10T05:01:22.637222+00:00"
-  },
-  {
-   "id": "6415332",
-   "event": "1282493",
-   "question": "Will Spain win on 2026-11-12?",
-   "regles": "In the upcoming UEFA Nations League game between Czechia and Spain, originally scheduled for Thursday, November 12, 2026 at 2:45 PM ET (as of creation of the first market related to the event):\nIf Spain wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf this market's outcome was definitively determined under its rules by the listed resolution sources before abandonment, that outcome will stand. Otherwise, the following no-result provisions apply. If the game is canceled, does not start by Saturday, November 14, 2026, 11:59 PM ET, or is abandoned with no official result by that time, this market will resolve to \"No\".\nThe following abandonment rules apply only when this market's outcome was not already definitively determined under its rules before abandonment. If the game is abandoned, this market will resolve according to the official ruling of the governing body or event organizers on the abandoned game. If a result is awarded by Saturday, November 14, 2026, 11:59 PM ET that determines this market's outcome, this market will resolve based on the awarded result, regardless of the score as played. If no such result is awarded and the result as played at the time of abandonment is declared to stand by Saturday, November 14, 2026, 11:59 PM ET, this market will resolve based on the game as played. If the game is replayed or resumed from the point of abandonment and has an official result by Saturday, November 14, 2026, 11:59 PM ET, this marke",
-   "p_yes": 0.815,
-   "fin": "2026-11-12T19:45:00+00:00",
-   "slug": "unl-cze-esp-2026-11-12-esp",
-   "cote": "YES",
-   "prix": 0.825,
-   "mise": 50.07,
-   "p_ia": 0.86,
-   "categorie": "Sûr",
-   "raison": "Spain est largement favori (cote -650, soit ~86 % de probabilité, et historique 5‑0‑1 contre la Tchéquie).",
-   "ouverture": "2026-11-10T07:01:49.168997+00:00"
   },
   {
    "id": "4664660",
@@ -864,6 +848,25 @@
    "resultat": 1.0,
    "pnl": 22.28,
    "cloture": "2026-11-11T10:00:51.921600+00:00"
+  },
+  {
+   "id": "6415332",
+   "event": "1282493",
+   "question": "Will Spain win on 2026-11-12?",
+   "regles": "In the upcoming UEFA Nations League game between Czechia and Spain, originally scheduled for Thursday, November 12, 2026 at 2:45 PM ET (as of creation of the first market related to the event):\nIf Spain wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf this market's outcome was definitively determined under its rules by the listed resolution sources before abandonment, that outcome will stand. Otherwise, the following no-result provisions apply. If the game is canceled, does not start by Saturday, November 14, 2026, 11:59 PM ET, or is abandoned with no official result by that time, this market will resolve to \"No\".\nThe following abandonment rules apply only when this market's outcome was not already definitively determined under its rules before abandonment. If the game is abandoned, this market will resolve according to the official ruling of the governing body or event organizers on the abandoned game. If a result is awarded by Saturday, November 14, 2026, 11:59 PM ET that determines this market's outcome, this market will resolve based on the awarded result, regardless of the score as played. If no such result is awarded and the result as played at the time of abandonment is declared to stand by Saturday, November 14, 2026, 11:59 PM ET, this market will resolve based on the game as played. If the game is replayed or resumed from the point of abandonment and has an official result by Saturday, November 14, 2026, 11:59 PM ET, this marke",
+   "p_yes": 0.815,
+   "fin": "2026-11-12T19:45:00+00:00",
+   "slug": "unl-cze-esp-2026-11-12-esp",
+   "cote": "YES",
+   "prix": 0.825,
+   "mise": 50.07,
+   "p_ia": 0.86,
+   "categorie": "Sûr",
+   "raison": "Spain est largement favori (cote -650, soit ~86 % de probabilité, et historique 5‑0‑1 contre la Tchéquie).",
+   "ouverture": "2026-11-10T07:01:49.168997+00:00",
+   "resultat": 1.0,
+   "pnl": 10.62,
+   "cloture": "2026-11-12T23:00:56.221920+00:00"
   }
  ],
  "predictions": [
@@ -2875,7 +2878,8 @@
    "p_yes": 0.815,
    "fin": "2026-11-12T19:45:00+00:00",
    "date": "2026-11-10T07:01:49.168790+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "3215009",

@@ -1,21 +1,21 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 12/11/2026 22:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 12/11/2026 23:00 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1023.61 $** (+2.4 %) |
-| Disponible | 601.77 $ |
-| Engagé | 421.84 $ sur 11 positions |
-| Trades clôturés | 36 · gagnés 19 (53 %) |
-| Gains/pertes réalisés | +23.61 $ |
+| **Capital total** | **1034.23 $** (+3.4 %) |
+| Disponible | 662.46 $ |
+| Engagé | 371.77 $ sur 10 positions |
+| Trades clôturés | 37 · gagnés 20 (54 %) |
+| Gains/pertes réalisés | +34.23 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 11 | 11 (100 %) | 542.62 $ | +91.40 $ | +16.8 % | 6 (302 $) |
+| 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 5 (252 $) |
 | ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
 | 🎲 Outsider | 12 | 2 (17 %) | 169.03 $ | -73.25 $ | -43.3 % | 2 (32 $) |
 
@@ -23,18 +23,17 @@ _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital ·
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **159** · Score Brier IA **0.2496** vs marché **0.1442** (plus bas = meilleur)
+Prédictions résolues : **160** · Score Brier IA **0.2481** vs marché **0.1435** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (6)
+### 🛡️ Sûr (5)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
-| Will Spain win on 2026-11-12? | 12/11 | YES | 0.82 | 50.07 $ | +10.62 $ | 86% | 82% |
 | Russia x Ukraine energy ceasefire agreement by November 30, 2026? | 30/11 | NO | 0.84 | 51.18 $ | +9.39 $ | 7% | 16% |
 | Iran full airspace closure by November 30, 2026? | 01/12 | NO | 0.80 | 50.55 $ | +12.64 $ | 15% | 21% |
 | Will Anthropic have the best AI model at the end of November 2026? | 01/12 | NO | 0.80 | 50.07 $ | +12.52 $ | 7% | 21% |
@@ -59,6 +58,7 @@ Prédictions résolues : **159** · Score Brier IA **0.2496** vs marché **0.144
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ✅ | Will Spain win on 2026-11-12? | 🛡️ | YES | 50.07 $ | +10.62 $ |
 | ✅ | Will Kai Cenat finish his GTA marathon by November 11, 7:59 AM ET? | 🎲 | YES | 10.01 $ | +22.28 $ |
 | ❌ | Will Max Verstappen win the 2026 F1 Brazilian Grand Prix? | 🎲 | YES | 10.11 $ | -10.11 $ |
 | ✅ | Will Brighton & Hove Albion FC win on 2026-11-08? | ⚖️ | YES | 30.33 $ | +26.36 $ |
@@ -73,4 +73,3 @@ Prédictions résolues : **159** · Score Brier IA **0.2496** vs marché **0.144
 | ❌ | Will the Democratic Party control the Senate after the 2026 Midterm el | ⚖️ | NO | 4.14 $ | -4.14 $ |
 | ❌ | Will the Democrats win the Texas Senate race in 2026? | ⚖️ | NO | 30.00 $ | -30.00 $ |
 | ❌ | Will the Democrats win the Ohio governor race in 2026? | 🎲 | NO | 2.84 $ | -2.84 $ |
-| ❌ | Will the Republican Party win the NC-11 House seat? | 🎲 | YES | 1.74 $ | -1.74 $ |
