@@ -3013,6 +3013,15 @@
    "fin": "2026-11-14T04:59:00+00:00",
    "date": "2026-11-12T20:01:27.014878+00:00",
    "recherche": true
+  },
+  {
+   "id": "6998284",
+   "question": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+   "p_ia": 0.04,
+   "p_yes": 0.0305,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-13T20:01:12.679139+00:00",
+   "recherche": true
   }
  ]
 }
