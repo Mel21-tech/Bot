@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 14/11/2026 03:18 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 14/11/2026 04:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1034.23 $** (+3.4 %) |
-| Disponible | 662.46 $ |
-| Engagé | 371.77 $ sur 10 positions |
+| Disponible | 631.43 $ |
+| Engagé | 402.80 $ sur 11 positions |
 | Trades clôturés | 37 · gagnés 20 (54 %) |
 | Gains/pertes réalisés | +34.23 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 14/11/2026 03:18 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 5 (252 $) |
+| 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 6 (283 $) |
 | ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
 | 🎲 Outsider | 12 | 2 (17 %) | 169.03 $ | -73.25 $ | -43.3 % | 2 (32 $) |
 
@@ -29,11 +29,12 @@ Prédictions résolues : **164** · Score Brier IA **0.2551** vs marché **0.147
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (5)
+### 🛡️ Sûr (6)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
+| Will Zoran Janković win the 2026 Ljubljana mayoral election? | 16/11 | YES | 0.75 | 31.03 $ | +10.34 $ | 78% | 74% |
 | Russia x Ukraine energy ceasefire agreement by November 30, 2026? | 30/11 | NO | 0.84 | 51.18 $ | +9.39 $ | 7% | 16% |
 | Iran full airspace closure by November 30, 2026? | 01/12 | NO | 0.80 | 50.55 $ | +12.64 $ | 15% | 21% |
 | Will Anthropic have the best AI model at the end of November 2026? | 01/12 | NO | 0.80 | 50.07 $ | +12.52 $ | 7% | 21% |

@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 662.4565080179389,
+ "capital": 631.4265080179389,
  "positions": [
   {
    "id": "682705",
@@ -162,6 +162,22 @@
    "categorie": "Sûr",
    "raison": "Les pourparlers viennent de se terminer sans accord et la Russie a déjà rejeté l'idée d'une trêve énergétique, rendant improbable qu'un accord soit conclu d'ici 19 jours.",
    "ouverture": "2026-11-11T22:01:04.441087+00:00"
+  },
+  {
+   "id": "5420002",
+   "event": "1151056",
+   "question": "Will Zoran Janković win the 2026 Ljubljana mayoral election?",
+   "regles": "The next Ljubljana mayoral election is scheduled to be held on November 15, 2026, to elect the mayor of the City Municipality of Ljubljana, Slovenia (župan Mestne občine Ljubljana). If no candidate wins a majority of valid votes in the first round, a runoff between the two leading candidates is scheduled for November 29, 2026.\n\nThis market will resolve according to the candidate who becomes the next mayor of Ljubljana as a result of this election.\n\nTemporary, interim, or placeholder mayors will not be considered.\n\nIf the result of this election isn't known by May 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as declared by the Municipal Election Commission of the City Municipality of Ljubljana (Občinska volilna komisija Mestne občine Ljubljana) and published by the State Election Commission (Državna volilna komisija, DVK) (https://www.dvk-rs.si/).",
+   "p_yes": 0.74,
+   "fin": "2026-11-16T04:59:00+00:00",
+   "slug": "will-zoran-jankovic-win-the-2026-ljubljana-mayoral-election",
+   "cote": "YES",
+   "prix": 0.75,
+   "mise": 31.03,
+   "p_ia": 0.78,
+   "categorie": "Sûr",
+   "raison": "Les derniers sondages (Valicon, Ninamedia) montrent Zoran Janković avec ~33 % contre ~23 % pour Luka Mesec et un avantage hypothétique de 54 %‑45 % en second tour, rendant très probable sa victoire.",
+   "ouverture": "2026-11-14T04:01:20.950416+00:00"
   }
  ],
  "historique": [
@@ -3030,6 +3046,15 @@
    "p_yes": 0.035,
    "fin": "2026-12-01T04:59:00+00:00",
    "date": "2026-11-14T01:01:15.177529+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5420002",
+   "question": "Will Zoran Janković win the 2026 Ljubljana mayoral election?",
+   "p_ia": 0.78,
+   "p_yes": 0.74,
+   "fin": "2026-11-16T04:59:00+00:00",
+   "date": "2026-11-14T04:01:20.950232+00:00",
    "recherche": true
   }
  ]
