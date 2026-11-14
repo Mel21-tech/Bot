@@ -3066,6 +3066,24 @@
    "fin": "2026-12-01T04:59:00+00:00",
    "date": "2026-11-14T05:02:22.149583+00:00",
    "recherche": true
+  },
+  {
+   "id": "5971398",
+   "question": "Next Astra Model (6.1+) released by November 30, 2026?",
+   "p_ia": 0.25,
+   "p_yes": 0.83,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-14T06:01:11.057230+00:00",
+   "recherche": true
+  },
+  {
+   "id": "7023737",
+   "question": "FAA outage attributed to a foreign actor?",
+   "p_ia": 0.08,
+   "p_yes": 0.031,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-14T06:01:25.063730+00:00",
+   "recherche": true
   }
  ]
 }
