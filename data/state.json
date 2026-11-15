@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 631.4265080179389,
+ "capital": 621.0865080179389,
  "positions": [
   {
    "id": "682705",
@@ -178,6 +178,22 @@
    "categorie": "Sûr",
    "raison": "Les derniers sondages (Valicon, Ninamedia) montrent Zoran Janković avec ~33 % contre ~23 % pour Luka Mesec et un avantage hypothétique de 54 %‑45 % en second tour, rendant très probable sa victoire.",
    "ouverture": "2026-11-14T04:01:20.950416+00:00"
+  },
+  {
+   "id": "6908162",
+   "event": "711714",
+   "question": "Israel x Iran ceasefire continues through November 18?",
+   "regles": "This market will resolve to \"Yes\" if a state of ceasefire remains in effect between Israel and Iran through the listed date, 11:59 PM Iran Standard Time (IRST). Otherwise this market will resolve to “No”. \n\nA state of ceasefire will be considered to no longer be in effect between Israel and Iran if either Israel or Iran takes a qualifying military action against the other country between market creation and the listed date, 11:59 PM IRST.\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by Israel or Iran, that directly impacts the other country. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones and surface-to-surface missiles such as cruise or ballistic missiles.\n\nThe following actions do not constitute a qualifying military action:\nMunitions destroyed or intercepted before impact;\nSurface-to-air missile strikes;\nSmall-arms fire;\nGround incursions;\nCyber operations;\nNaval gunfire and artillery fire;\nHowitzers, artillery pieces, mortars, and rocket artillery (e.g. MLRS systems);\nMinor surface-to-surface strikes, including short range loitering munitions, FPV drones, and ATGM strikes;\nAny threat, authorization, or announcement of force that has not been executed.\n\nAny munition that is intercepted or destroyed before impact does not constitute a qualifying military action. Debris, fragments, or any wreckage from intercepted munit",
+   "p_yes": 0.9655,
+   "fin": "2026-11-19T04:59:00+00:00",
+   "slug": "israel-x-iran-ceasefire-continues-through-november-18",
+   "cote": "NO",
+   "prix": 0.044,
+   "mise": 10.34,
+   "p_ia": 0.8,
+   "categorie": "Outsider",
+   "raison": "Aucun incident qualifié confirmé par les sources fiables jusqu'à présent, mais la tension reste élevée et un déclenchement imprévu reste possible.",
+   "ouverture": "2026-11-15T07:01:36.397994+00:00"
   }
  ],
  "historique": [
@@ -3101,6 +3117,15 @@
    "p_yes": 0.825,
    "fin": "2026-11-15T19:45:00+00:00",
    "date": "2026-11-15T05:01:10.019056+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6908162",
+   "question": "Israel x Iran ceasefire continues through November 18?",
+   "p_ia": 0.8,
+   "p_yes": 0.9655,
+   "fin": "2026-11-19T04:59:00+00:00",
+   "date": "2026-11-15T07:01:36.397761+00:00",
    "recherche": true
   }
  ]

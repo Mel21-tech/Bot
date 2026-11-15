@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 15/11/2026 06:00 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 15/11/2026 07:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **1034.23 $** (+3.4 %) |
-| Disponible | 631.43 $ |
-| Engagé | 402.80 $ sur 11 positions |
+| Disponible | 621.09 $ |
+| Engagé | 413.14 $ sur 12 positions |
 | Trades clôturés | 37 · gagnés 20 (54 %) |
 | Gains/pertes réalisés | +34.23 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 15/11/2026 06:00 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 6 (283 $) |
 | ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
-| 🎲 Outsider | 12 | 2 (17 %) | 169.03 $ | -73.25 $ | -43.3 % | 2 (32 $) |
+| 🎲 Outsider | 12 | 2 (17 %) | 169.03 $ | -73.25 $ | -43.3 % | 3 (43 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
@@ -48,11 +48,12 @@ Prédictions résolues : **165** · Score Brier IA **0.2594** vs marché **0.146
 | Will National Party win the most seats in the New Zealand House of Rep | 08/11 | NO | 0.41 | 30.33 $ | +42.75 $ | 41% | 60% |
 | US x Iran Effective Ceasefire by November 22? | 22/11 | YES | 0.49 | 27.26 $ | +27.81 $ | 55% | 48% |
 
-### 🎲 Outsider (2)
+### 🎲 Outsider (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
+| Israel x Iran ceasefire continues through November 18? | 19/11 | NO | 0.04 | 10.34 $ | +224.66 $ | 80% | 97% |
 | Will Anthropic IPO by November 30, 2026? | 01/12 | NO | 0.23 | 10.11 $ | +34.82 $ | 68% | 78% |
 
 ## 🧾 15 derniers trades clôturés
