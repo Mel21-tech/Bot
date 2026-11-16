@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 621.0865080179389,
+ "capital": 610.7465080179388,
  "positions": [
   {
    "id": "682705",
@@ -194,6 +194,22 @@
    "categorie": "Outsider",
    "raison": "Aucun incident qualifié confirmé par les sources fiables jusqu'à présent, mais la tension reste élevée et un déclenchement imprévu reste possible.",
    "ouverture": "2026-11-15T07:01:36.397994+00:00"
+  },
+  {
+   "id": "6999655",
+   "event": "326604",
+   "question": "Howard Lutnick out as Secretary of Commerce by November 30?",
+   "regles": "This market will resolve to “Yes” if Howard Lutnick ceases to be the US Secretary of Commerce for any period of time between market creation and November 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nAn announcement of Lutnick's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be official information from the Trump administration however a consensus of credible reporting may also be used.",
+   "p_yes": 0.11,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "slug": "howard-lutnick-out-as-secretary-of-commerce-by-november-30",
+   "cote": "YES",
+   "prix": 0.12,
+   "mise": 10.34,
+   "p_ia": 0.27,
+   "categorie": "Outsider",
+   "raison": "Des pressions politiques et un scandale Nvidia intensifient les discussions d'éviction, mais la loyauté de Lutnick envers Trump et l'absence de décision définitive rendent la probabilité d'un départ avant le 30 novembre 2026 modérée.",
+   "ouverture": "2026-11-16T11:24:00.488652+00:00"
   }
  ],
  "historique": [
@@ -1107,7 +1123,8 @@
    "p_yes": 0.59,
    "fin": "2026-11-16T04:59:00+00:00",
    "date": "2026-10-19T00:01:22.581414+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "682708",
@@ -1702,7 +1719,8 @@
    "p_yes": 0.225,
    "fin": "2026-11-16T04:59:00+00:00",
    "date": "2026-10-23T17:01:31.543257+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "6027088",
@@ -2343,7 +2361,8 @@
    "p_yes": 0.115,
    "fin": "2026-11-16T04:59:00+00:00",
    "date": "2026-11-02T02:01:09.747864+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "631045",
@@ -2603,7 +2622,8 @@
    "p_yes": 0.615,
    "fin": "2026-11-16T04:59:00+00:00",
    "date": "2026-11-05T10:01:10.605033+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "4397030",
@@ -3048,7 +3068,8 @@
    "p_yes": 0.968,
    "fin": "2026-11-14T04:59:00+00:00",
    "date": "2026-11-12T20:01:27.014878+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "6998284",
@@ -3131,6 +3152,24 @@
    "p_yes": 0.9655,
    "fin": "2026-11-19T04:59:00+00:00",
    "date": "2026-11-15T07:01:36.397761+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6999655",
+   "question": "Howard Lutnick out as Secretary of Commerce by November 30?",
+   "p_ia": 0.27,
+   "p_yes": 0.11,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-16T11:24:00.488495+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6908163",
+   "question": "Israel x Iran ceasefire continues through November 20?",
+   "p_ia": 0.85,
+   "p_yes": 0.9565,
+   "fin": "2026-11-21T04:59:00+00:00",
+   "date": "2026-11-16T11:25:03.373199+00:00",
    "recherche": true
   }
  ]
