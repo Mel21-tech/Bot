@@ -1,15 +1,15 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 18/11/2026 04:24 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 18/11/2026 14:01 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **1034.23 $** (+3.4 %) |
+| **Capital total** | **1012.14 $** (+1.2 %) |
 | Disponible | 610.75 $ |
-| Engagé | 423.48 $ sur 13 positions |
-| Trades clôturés | 37 · gagnés 20 (54 %) |
-| Gains/pertes réalisés | +34.23 $ |
+| Engagé | 401.39 $ sur 12 positions |
+| Trades clôturés | 38 · gagnés 20 (53 %) |
+| Gains/pertes réalisés | +12.14 $ |
 
 ## 📈 Rentabilité par catégorie
 
@@ -17,13 +17,13 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 18/11/2026 04:24 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 6 (283 $) |
 | ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
-| 🎲 Outsider | 12 | 2 (17 %) | 169.03 $ | -73.25 $ | -43.3 % | 4 (53 $) |
+| 🎲 Outsider | 13 | 2 (15 %) | 191.12 $ | -95.34 $ | -49.9 % | 3 (31 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **177** · Score Brier IA **0.2607** vs marché **0.1426** (plus bas = meilleur)
+Prédictions résolues : **181** · Score Brier IA **0.2674** vs marché **0.1439** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
@@ -48,11 +48,10 @@ Prédictions résolues : **177** · Score Brier IA **0.2607** vs marché **0.142
 | Will National Party win the most seats in the New Zealand House of Rep | 08/11 | NO | 0.41 | 30.33 $ | +42.75 $ | 41% | 60% |
 | US x Iran Effective Ceasefire by November 22? | 22/11 | YES | 0.49 | 27.26 $ | +27.81 $ | 55% | 48% |
 
-### 🎲 Outsider (4)
+### 🎲 Outsider (3)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
-| Will Mary Peltola win the Alaska Senate race in 2026? | 04/11 | NO | 0.28 | 22.09 $ | +58.24 $ | 57% | 74% |
 | Israel x Iran ceasefire continues through November 18? | 19/11 | NO | 0.04 | 10.34 $ | +224.66 $ | 80% | 97% |
 | Will Anthropic IPO by November 30, 2026? | 01/12 | NO | 0.23 | 10.11 $ | +34.82 $ | 68% | 78% |
 | Howard Lutnick out as Secretary of Commerce by November 30? | 01/12 | YES | 0.12 | 10.34 $ | +75.83 $ | 27% | 11% |
@@ -61,6 +60,7 @@ Prédictions résolues : **177** · Score Brier IA **0.2607** vs marché **0.142
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Will Mary Peltola win the Alaska Senate race in 2026? | 🎲 | NO | 22.09 $ | -22.09 $ |
 | ✅ | Will Spain win on 2026-11-12? | 🛡️ | YES | 50.07 $ | +10.62 $ |
 | ✅ | Will Kai Cenat finish his GTA marathon by November 11, 7:59 AM ET? | 🎲 | YES | 10.01 $ | +22.28 $ |
 | ❌ | Will Max Verstappen win the 2026 F1 Brazilian Grand Prix? | 🎲 | YES | 10.11 $ | -10.11 $ |
@@ -75,4 +75,3 @@ Prédictions résolues : **177** · Score Brier IA **0.2607** vs marché **0.142
 | ❌ | Will the Democratic Party control the House after the 2026 Midterm ele | 🎲 | NO | 20.00 $ | -20.00 $ |
 | ❌ | Will the Democratic Party control the Senate after the 2026 Midterm el | ⚖️ | NO | 4.14 $ | -4.14 $ |
 | ❌ | Will the Democrats win the Texas Senate race in 2026? | ⚖️ | NO | 30.00 $ | -30.00 $ |
-| ❌ | Will the Democrats win the Ohio governor race in 2026? | 🎲 | NO | 2.84 $ | -2.84 $ |

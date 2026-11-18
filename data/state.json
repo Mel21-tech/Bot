@@ -36,22 +36,6 @@
    "ouverture": "2026-10-21T22:01:14.075248+00:00"
   },
   {
-   "id": "634976",
-   "event": "59233",
-   "question": "Will Mary Peltola win the Alaska Senate race in 2026?",
-   "regles": "This market will resolve according to the winner of the 2026 midterm Alaska U.S. Senate election, inclusive of any run-offs, currently scheduled for November 3, 2026.\n\nIf the results of the election are not confirmed by July 31, 2027, this market will resolve to \"Other\".\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race in this state for the same candidate, this market will resolve based on official certification.",
-   "p_yes": 0.735,
-   "fin": "2026-11-04T04:59:00+00:00",
-   "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
-   "cote": "NO",
-   "prix": 0.275,
-   "mise": 22.09,
-   "p_ia": 0.57,
-   "categorie": "Outsider",
-   "raison": "Les sondages récents montrent Peltola légèrement en tête et le vote split possible pour les républicains pourrait favoriser sa victoire.",
-   "ouverture": "2026-10-27T03:01:52.257912+00:00"
-  },
-  {
    "id": "6281141",
    "event": "634802",
    "question": "Iran full airspace closure by November 30, 2026?",
@@ -915,6 +899,25 @@
    "resultat": 1.0,
    "pnl": 10.62,
    "cloture": "2026-11-12T23:00:56.221920+00:00"
+  },
+  {
+   "id": "634976",
+   "event": "59233",
+   "question": "Will Mary Peltola win the Alaska Senate race in 2026?",
+   "regles": "This market will resolve according to the winner of the 2026 midterm Alaska U.S. Senate election, inclusive of any run-offs, currently scheduled for November 3, 2026.\n\nIf the results of the election are not confirmed by July 31, 2027, this market will resolve to \"Other\".\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race in this state for the same candidate, this market will resolve based on official certification.",
+   "p_yes": 0.735,
+   "fin": "2026-11-04T04:59:00+00:00",
+   "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+   "cote": "NO",
+   "prix": 0.275,
+   "mise": 22.09,
+   "p_ia": 0.57,
+   "categorie": "Outsider",
+   "raison": "Les sondages récents montrent Peltola légèrement en tête et le vote split possible pour les républicains pourrait favoriser sa victoire.",
+   "ouverture": "2026-10-27T03:01:52.257912+00:00",
+   "resultat": 1.0,
+   "pnl": -22.09,
+   "cloture": "2026-11-18T14:01:32.358368+00:00"
   }
  ],
  "predictions": [
@@ -1919,7 +1922,8 @@
    "p_yes": 0.735,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-27T03:01:52.257649+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "5674420",
@@ -1997,7 +2001,8 @@
    "p_yes": 0.305,
    "fin": "2026-11-04T04:59:00+00:00",
    "date": "2026-10-29T04:01:08.243828+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "1284058",
@@ -2146,7 +2151,8 @@
    "p_yes": 0.245,
    "fin": "2026-11-03T23:59:00+00:00",
    "date": "2026-10-31T03:03:26.562676+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "6361051",
@@ -2568,7 +2574,8 @@
    "p_yes": 0.735,
    "fin": "2026-11-16T04:59:00+00:00",
    "date": "2026-11-04T20:01:51.988272+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "3399451",
