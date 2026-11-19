@@ -52,22 +52,6 @@
    "ouverture": "2026-11-06T22:01:23.520676+00:00"
   },
   {
-   "id": "4319439",
-   "event": "549019",
-   "question": "Will Anthropic IPO by November 30, 2026?",
-   "regles": "This market will resolve to \"Yes\" if Anthropic shares are listed on a public securities exchange and open for trading by 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No.\"\n\nIf Anthropic is acquired by another company that is already public, this market will immediately resolve to \"No.\"\n\nThe primary resolution source for this market is official filings and announcements from Anthropic and the relevant securities exchange on which the shares are listed, including SEC filings (e.g., Form S-1, Form 8-A), exchange listing confirmations, and official press releases from Anthropic; however a consensus of credible reporting may also be used.",
-   "p_yes": 0.785,
-   "fin": "2026-12-01T04:59:00+00:00",
-   "slug": "will-anthropic-ipo-by-november-30-2026",
-   "cote": "NO",
-   "prix": 0.225,
-   "mise": 10.11,
-   "p_ia": 0.68,
-   "categorie": "Outsider",
-   "raison": "Après le dépôt du S‑1 le 26 octobre 2026 et les indications d’un lancement possible dès la mi‑novembre, la plupart des sources prévoient qu’Anthropic pourra être coté avant le 30 novembre, bien que des retards liés à la régulation ou à la réaction du marché restent possibles.",
-   "ouverture": "2026-11-07T05:01:18.044885+00:00"
-  },
-  {
    "id": "2116493",
    "event": "431450",
    "question": "Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
@@ -921,6 +905,25 @@
    "resultat": 1.0,
    "pnl": -10.34,
    "cloture": "2026-11-19T03:31:01.569097+00:00"
+  },
+  {
+   "id": "4319439",
+   "event": "549019",
+   "question": "Will Anthropic IPO by November 30, 2026?",
+   "regles": "This market will resolve to \"Yes\" if Anthropic shares are listed on a public securities exchange and open for trading by 11:59 PM ET on the listed date. Otherwise, this market will resolve to \"No.\"\n\nIf Anthropic is acquired by another company that is already public, this market will immediately resolve to \"No.\"\n\nThe primary resolution source for this market is official filings and announcements from Anthropic and the relevant securities exchange on which the shares are listed, including SEC filings (e.g., Form S-1, Form 8-A), exchange listing confirmations, and official press releases from Anthropic; however a consensus of credible reporting may also be used.",
+   "p_yes": 0.785,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "slug": "will-anthropic-ipo-by-november-30-2026",
+   "cote": "NO",
+   "prix": 0.225,
+   "mise": 10.11,
+   "p_ia": 0.68,
+   "categorie": "Outsider",
+   "raison": "Après le dépôt du S‑1 le 26 octobre 2026 et les indications d’un lancement possible dès la mi‑novembre, la plupart des sources prévoient qu’Anthropic pourra être coté avant le 30 novembre, bien que des retards liés à la régulation ou à la réaction du marché restent possibles.",
+   "ouverture": "2026-11-07T05:01:18.044885+00:00",
+   "resultat": 1.0,
+   "pnl": -10.11,
+   "cloture": "2026-11-19T21:38:04.127658+00:00"
   }
  ],
  "predictions": [
