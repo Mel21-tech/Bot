@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 610.7465080179388,
+ "capital": 561.1665080179388,
  "positions": [
   {
    "id": "682705",
@@ -162,6 +162,22 @@
    "categorie": "Outsider",
    "raison": "Des pressions politiques et un scandale Nvidia intensifient les discussions d'éviction, mais la loyauté de Lutnick envers Trump et l'absence de décision définitive rendent la probabilité d'un départ avant le 30 novembre 2026 modérée.",
    "ouverture": "2026-11-16T11:24:00.488652+00:00"
+  },
+  {
+   "id": "814613",
+   "event": "96786",
+   "question": "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "regles": "Taiwanese local elections are scheduled to be held on November 28, 2026. \n\nThis market will resolve according to the party whose official candidates win the most head of local government (mayor or magistrate) elections for Taiwan’s major special municipalities, counties, and cities during these elections.\n\nA candidate will be considered an official candidate of a party if they are officially nominated by that party and are registered for the relevant election in affiliation with that party. Independent candidates will not count for any party.\n\nTaiwan’s local governments include the following cities, special municipalities, and counties:\n\nCities/special municipalities (mayoral elections): Taipei City, New Taipei City, Taoyuan City, Taichung City, Tainan City, Kaohsiung City, Keelung City, Hsinchu City, Chiayi City\n\nCounties (magistrate elections): Yilan County, Hsinchu County, Miaoli County, Changhua County, Nantou County, Yunlin County, Chiayi County, Pingtung County, Taitung County, Hualien County, Penghu County, Lienchiang County, Kinmen County\n\nOnly elections for the listed cities, special municipalities or counties will be counted for this market. A party will have won as soon as it becomes mathematically impossible for any other party to equal or surpass its number of wins in these elections.\n\nIn the case of a tie between two or more parties for the greatest number of relevant head of local government elections won, this market will resolve in favor of the party whose En",
+   "p_yes": 0.233,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "slug": "will-the-democratic-progressive-party-dpp-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections",
+   "cote": "NO",
+   "prix": 0.777,
+   "mise": 49.58,
+   "p_ia": 0.15,
+   "categorie": "Sûr",
+   "raison": "Les sondages récents montrent le DPP en tête seulement dans quelques localités du sud et à Taoyuan, tandis que le KMT domine la plupart des grandes villes du nord et plusieurs comtés, et le DPP n’a remporté que 5 postes sur 22 en 2022 ; il est donc peu probable qu’il obtienne la majorité des 22 chefs locaux en 2026.",
+   "ouverture": "2026-11-21T23:20:13.269437+00:00"
   }
  ],
  "historique": [
@@ -3214,6 +3230,24 @@
    "p_yes": 0.3,
    "fin": "2026-11-22T23:59:00+00:00",
    "date": "2026-11-20T03:19:57.592602+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6881301",
+   "question": "Will CA Paranaense vs. Clube do Remo end in a draw?",
+   "p_ia": 0.2,
+   "p_yes": 0.225,
+   "fin": "2026-11-22T19:00:00+00:00",
+   "date": "2026-11-21T23:19:45.315536+00:00",
+   "recherche": true
+  },
+  {
+   "id": "814613",
+   "question": "Will the Democratic Progressive Party (DPP) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "p_ia": 0.15,
+   "p_yes": 0.233,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-21T23:20:13.269275+00:00",
    "recherche": true
   }
  ]
