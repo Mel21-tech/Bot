@@ -3249,6 +3249,24 @@
    "fin": "2026-11-29T04:59:00+00:00",
    "date": "2026-11-21T23:20:13.269275+00:00",
    "recherche": true
+  },
+  {
+   "id": "6896266",
+   "question": "Will Club Atlético de Madrid win on 2026-11-22?",
+   "p_ia": 0.68,
+   "p_yes": 0.635,
+   "fin": "2026-11-22T20:00:00+00:00",
+   "date": "2026-11-22T06:52:20.144879+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5054002",
+   "question": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
+   "p_ia": 0.97,
+   "p_yes": 0.9695,
+   "fin": "2026-12-04T04:59:00+00:00",
+   "date": "2026-11-22T06:52:38.953950+00:00",
+   "recherche": true
   }
  ]
 }
