@@ -3280,6 +3280,15 @@
    "fin": "2026-12-15T04:59:00+00:00",
    "date": "2026-11-23T02:47:42.986580+00:00",
    "recherche": true
+  },
+  {
+   "id": "7158208",
+   "question": "Fourth Jensen Huang affair reported by November 30?",
+   "p_ia": 0.22,
+   "p_yes": 0.9225,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-24T10:57:35.390949+00:00",
+   "recherche": true
   }
  ]
 }
