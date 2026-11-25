@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 24/11/2026 21:13 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 25/11/2026 04:17 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **991.69 $** (-0.8 %) |
-| Disponible | 561.17 $ |
-| Engagé | 430.52 $ sur 11 positions |
+| Disponible | 551.25 $ |
+| Engagé | 440.44 $ sur 12 positions |
 | Trades clôturés | 40 · gagnés 20 (50 %) |
 | Gains/pertes réalisés | -8.31 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 24/11/2026 21:13 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 7 (332 $) |
 | ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
-| 🎲 Outsider | 15 | 2 (13 %) | 211.57 $ | -115.79 $ | -54.7 % | 1 (10 $) |
+| 🎲 Outsider | 15 | 2 (13 %) | 211.57 $ | -115.79 $ | -54.7 % | 2 (20 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
@@ -49,11 +49,12 @@ Prédictions résolues : **187** · Score Brier IA **0.2607** vs marché **0.141
 | Will National Party win the most seats in the New Zealand House of Rep | 08/11 | NO | 0.41 | 30.33 $ | +42.75 $ | 41% | 60% |
 | US x Iran Effective Ceasefire by November 22? | 22/11 | YES | 0.49 | 27.26 $ | +27.81 $ | 55% | 48% |
 
-### 🎲 Outsider (1)
+### 🎲 Outsider (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Howard Lutnick out as Secretary of Commerce by November 30? | 01/12 | YES | 0.12 | 10.34 $ | +75.83 $ | 27% | 11% |
+| Marco Rubio out as Secretary of State by November 30, 2026? | 01/12 | YES | 0.05 | 9.92 $ | +205.73 $ | 28% | 4% |
 
 ## 🧾 15 derniers trades clôturés
 

@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 561.1665080179388,
+ "capital": 551.2465080179388,
  "positions": [
   {
    "id": "682705",
@@ -178,6 +178,22 @@
    "categorie": "Sûr",
    "raison": "Les sondages récents montrent le DPP en tête seulement dans quelques localités du sud et à Taoyuan, tandis que le KMT domine la plupart des grandes villes du nord et plusieurs comtés, et le DPP n’a remporté que 5 postes sur 22 en 2022 ; il est donc peu probable qu’il obtienne la majorité des 22 chefs locaux en 2026.",
    "ouverture": "2026-11-21T23:20:13.269437+00:00"
+  },
+  {
+   "id": "6723100",
+   "event": "1320942",
+   "question": "Marco Rubio out as Secretary of State by November 30, 2026?",
+   "regles": "This market will resolve to “Yes” if Marco Rubio ceases to be U.S. Secretary of State for any period of time between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nAn announcement of Marco Rubio's resignation/removal by this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nThe resolution source for this market will be official information from Marco Rubio and the U.S. government; however, a consensus of credible reporting may also be used.",
+   "p_yes": 0.0365,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "slug": "marco-rubio-out-as-secretary-of-state-by-november-30-2026",
+   "cote": "YES",
+   "prix": 0.046,
+   "mise": 9.92,
+   "p_ia": 0.28,
+   "categorie": "Outsider",
+   "raison": "Des rumeurs de démission après les élections de mi-mandat, mais aucune confirmation officielle, donc probabilité modérée.",
+   "ouverture": "2026-11-25T04:17:23.672309+00:00"
   }
  ],
  "historique": [
@@ -3288,6 +3304,24 @@
    "p_yes": 0.9225,
    "fin": "2026-12-01T04:59:00+00:00",
    "date": "2026-11-24T10:57:35.390949+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6757359",
+   "question": "Will Fenerbahçe SK win on 2026-11-25?",
+   "p_ia": 0.46,
+   "p_yes": 0.415,
+   "fin": "2026-11-25T20:00:00+00:00",
+   "date": "2026-11-25T04:17:05.582042+00:00",
+   "recherche": true
+  },
+  {
+   "id": "6723100",
+   "question": "Marco Rubio out as Secretary of State by November 30, 2026?",
+   "p_ia": 0.28,
+   "p_yes": 0.0365,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-25T04:17:23.672162+00:00",
    "recherche": true
   }
  ]
