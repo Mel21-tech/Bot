@@ -3359,6 +3359,24 @@
    "fin": "2026-11-29T04:59:00+00:00",
    "date": "2026-11-26T08:22:55.764012+00:00",
    "recherche": true
+  },
+  {
+   "id": "3580994",
+   "question": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+   "p_ia": 0.45,
+   "p_yes": 0.365,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-26T19:03:02.092229+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5336560",
+   "question": "Will PSOE win the most seats in the 2026 Spanish general election?",
+   "p_ia": 0.3,
+   "p_yes": 0.265,
+   "fin": "2026-11-30T04:59:00+00:00",
+   "date": "2026-11-26T19:03:44.387662+00:00",
+   "recherche": true
   }
  ]
 }
