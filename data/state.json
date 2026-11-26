@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 551.2465080179388,
+ "capital": 541.3265080179389,
  "positions": [
   {
    "id": "682705",
@@ -194,6 +194,22 @@
    "categorie": "Outsider",
    "raison": "Des rumeurs de démission après les élections de mi-mandat, mais aucune confirmation officielle, donc probabilité modérée.",
    "ouverture": "2026-11-25T04:17:23.672309+00:00"
+  },
+  {
+   "id": "3580995",
+   "event": "848347",
+   "question": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+   "regles": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the candidate who becomes the next Mayor of New Taipei as a result of this election.\n\nTemporary, interim, or placeholder Mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known, or no candidate has been elected, by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Taiwanese government, specifically the Central Election Commission (https://db.cec.gov.tw/).",
+   "p_yes": 0.685,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "slug": "will-su-chiao-hui-win-the-next-new-taipei-mayor-election-20260813125857202",
+   "cote": "NO",
+   "prix": 0.325,
+   "mise": 9.92,
+   "p_ia": 0.42,
+   "categorie": "Outsider",
+   "raison": "Les sondages récents sont très serrés (Su +3 % puis Lee +3,6 %) et l’électorat de New Taipei penche historiquement vers le KMT, ce qui rend la victoire de Su incertaine mais plausible.",
+   "ouverture": "2026-11-26T08:22:55.764198+00:00"
   }
  ],
  "historique": [
@@ -3333,6 +3349,15 @@
    "p_yes": 0.134,
    "fin": "2026-11-29T04:59:00+00:00",
    "date": "2026-11-25T23:38:45.347707+00:00",
+   "recherche": true
+  },
+  {
+   "id": "3580995",
+   "question": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+   "p_ia": 0.42,
+   "p_yes": 0.685,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-26T08:22:55.764012+00:00",
    "recherche": true
   }
  ]
