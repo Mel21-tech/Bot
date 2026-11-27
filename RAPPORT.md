@@ -1,29 +1,29 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 27/11/2026 02:14 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 27/11/2026 10:54 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
-| **Capital total** | **991.69 $** (-0.8 %) |
+| **Capital total** | **961.36 $** (-3.9 %) |
 | Disponible | 442.17 $ |
-| Engagé | 549.52 $ sur 15 positions |
-| Trades clôturés | 40 · gagnés 20 (50 %) |
-| Gains/pertes réalisés | -8.31 $ |
+| Engagé | 519.19 $ sur 14 positions |
+| Trades clôturés | 41 · gagnés 20 (49 %) |
+| Gains/pertes réalisés | -38.64 $ |
 
 ## 📈 Rentabilité par catégorie
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 9 (432 $) |
-| ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
+| ⚖️ Équilibré | 14 | 6 (43 %) | 368.98 $ | -24.87 $ | -6.7 % | 2 (57 $) |
 | 🎲 Outsider | 15 | 2 (13 %) | 211.57 $ | -115.79 $ | -54.7 % | 3 (30 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **190** · Score Brier IA **0.2585** vs marché **0.1410** (plus bas = meilleur)
+Prédictions résolues : **192** · Score Brier IA **0.2596** vs marché **0.1409** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
@@ -43,12 +43,11 @@ Prédictions résolues : **190** · Score Brier IA **0.2585** vs marché **0.141
 | Will it be confirmed that a software or configuration error caused the | 01/12 | NO | 0.74 | 49.58 $ | +17.78 $ | 8% | 27% |
 | Another Fed rate hike in 2026? | 10/12 | YES | 0.83 | 50.07 $ | +9.89 $ | 88% | 82% |
 
-### ⚖️ Équilibré (3)
+### ⚖️ Équilibré (2)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
-| Will National Party win the most seats in the New Zealand House of Rep | 08/11 | NO | 0.41 | 30.33 $ | +42.75 $ | 41% | 60% |
 | US x Iran Effective Ceasefire by November 22? | 22/11 | YES | 0.49 | 27.26 $ | +27.81 $ | 55% | 48% |
 
 ### 🎲 Outsider (3)
@@ -63,6 +62,7 @@ Prédictions résolues : **190** · Score Brier IA **0.2585** vs marché **0.141
 
 | | Marché | Cat. | Pari | Mise | Gain/perte |
 |---|---|---|---|---|---|
+| ❌ | Will National Party win the most seats in the New Zealand House of Rep | ⚖️ | NO | 30.33 $ | -30.33 $ |
 | ❌ | Will Anthropic IPO by November 30, 2026? | 🎲 | NO | 10.11 $ | -10.11 $ |
 | ❌ | Israel x Iran ceasefire continues through November 18? | 🎲 | NO | 10.34 $ | -10.34 $ |
 | ❌ | Will Mary Peltola win the Alaska Senate race in 2026? | 🎲 | NO | 22.09 $ | -22.09 $ |
@@ -77,4 +77,3 @@ Prédictions résolues : **190** · Score Brier IA **0.2585** vs marché **0.141
 | ❌ | Will the Democratic Party win the NC-09 House seat? | ⚖️ | NO | 3.28 $ | -3.28 $ |
 | ✅ | Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan | 🛡️ | NO | 53.76 $ | +8.39 $ |
 | ❌ | 2026 Balance of Power: D Senate, D House | ⚖️ | NO | 26.42 $ | -26.42 $ |
-| ❌ | Will the Democratic Party control the House after the 2026 Midterm ele | 🎲 | NO | 20.00 $ | -20.00 $ |

@@ -52,22 +52,6 @@
    "ouverture": "2026-11-06T22:01:23.520676+00:00"
   },
   {
-   "id": "2116493",
-   "event": "431450",
-   "question": "Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-   "regles": "A general election is scheduled to be held in New Zealand on November 7, 2026.\n\nThis market will resolve according to the political party that wins the greatest number of seats in the New Zealand House of Representatives as a result of this election.\n\nIf the results of this election are not known definitively by October 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties for the most seats won, this market will resolve in favor of the party that received a greater number of valid party list votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party in the New Zealand House of Representatives in this election.\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by New Zealand government sources such as the New Zealand Electoral Commission (https://elections.nz/).",
-   "p_yes": 0.595,
-   "fin": "2026-11-08T04:59:00+00:00",
-   "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-   "cote": "NO",
-   "prix": 0.415,
-   "mise": 30.33,
-   "p_ia": 0.41,
-   "categorie": "Équilibré",
-   "raison": "Les derniers sondages montrent une course très serrée, avec National parfois en tête mais souvent derrière Labour, et les prévisions de sièges récentes donnent à National une légère majorité dans environ un tiers des scénarios.",
-   "ouverture": "2026-11-07T07:01:08.234490+00:00"
-  },
-  {
    "id": "6831495",
    "event": "1337182",
    "question": "US x Iran Effective Ceasefire by November 22?",
@@ -1004,6 +988,25 @@
    "resultat": 1.0,
    "pnl": -10.11,
    "cloture": "2026-11-19T21:38:04.127658+00:00"
+  },
+  {
+   "id": "2116493",
+   "event": "431450",
+   "question": "Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "regles": "A general election is scheduled to be held in New Zealand on November 7, 2026.\n\nThis market will resolve according to the political party that wins the greatest number of seats in the New Zealand House of Representatives as a result of this election.\n\nIf the results of this election are not known definitively by October 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties for the most seats won, this market will resolve in favor of the party that received a greater number of valid party list votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party in the New Zealand House of Representatives in this election.\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by New Zealand government sources such as the New Zealand Electoral Commission (https://elections.nz/).",
+   "p_yes": 0.595,
+   "fin": "2026-11-08T04:59:00+00:00",
+   "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+   "cote": "NO",
+   "prix": 0.415,
+   "mise": 30.33,
+   "p_ia": 0.41,
+   "categorie": "Équilibré",
+   "raison": "Les derniers sondages montrent une course très serrée, avec National parfois en tête mais souvent derrière Labour, et les prévisions de sièges récentes donnent à National une légère majorité dans environ un tiers des scénarios.",
+   "ouverture": "2026-11-07T07:01:08.234490+00:00",
+   "resultat": 1.0,
+   "pnl": -30.33,
+   "cloture": "2026-11-27T10:54:33.760416+00:00"
   }
  ],
  "predictions": [
@@ -2812,7 +2815,8 @@
    "p_yes": 0.595,
    "fin": "2026-11-08T04:59:00+00:00",
    "date": "2026-11-07T07:01:08.234299+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 1.0
   },
   {
    "id": "2116494",
@@ -2821,7 +2825,8 @@
    "p_yes": 0.325,
    "fin": "2026-11-08T04:59:00+00:00",
    "date": "2026-11-07T08:01:04.987505+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "6236266",
