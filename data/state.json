@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 442.1665080179389,
+ "capital": 433.4265080179389,
  "positions": [
   {
    "id": "682705",
@@ -226,6 +226,22 @@
    "categorie": "Sûr",
    "raison": "Les communiqués officiels attribuent l'arrêt à un problème de données sur un routeur hérité, pas à une erreur logicielle ou de configuration.",
    "ouverture": "2026-11-27T02:13:52.528456+00:00"
+  },
+  {
+   "id": "3581102",
+   "event": "848370",
+   "question": "Will Huang Shih-chieh win the next Taoyuan Mayor election?",
+   "regles": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the candidate who becomes the next Mayor of Taoyuan as a result of this election.\n\nTemporary, interim, or placeholder Mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known, or no candidate has been elected, by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Taiwanese government, specifically the Central Election Commission (https://db.cec.gov.tw/).",
+   "p_yes": 0.088,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "slug": "will-huang-shih-chieh-win-the-next-taoyuan-mayor-election-20260813125857302",
+   "cote": "YES",
+   "prix": 0.098,
+   "mise": 8.74,
+   "p_ia": 0.18,
+   "categorie": "Outsider",
+   "raison": "Les derniers sondages montrent un avantage modéré de Chang (environ 6 points) avec une marge d’erreur de quelques points, ce qui laisse une petite mais non négligeable chance que Huang l’emporte.",
+   "ouverture": "2026-11-27T19:59:22.409392+00:00"
   }
  ],
  "historique": [
@@ -3441,6 +3457,24 @@
    "p_yes": 0.745,
    "fin": "2026-11-30T04:59:00+00:00",
    "date": "2026-11-27T02:14:15.709962+00:00",
+   "recherche": true
+  },
+  {
+   "id": "3581102",
+   "question": "Will Huang Shih-chieh win the next Taoyuan Mayor election?",
+   "p_ia": 0.18,
+   "p_yes": 0.088,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-27T19:59:22.409208+00:00",
+   "recherche": true
+  },
+  {
+   "id": "7202037",
+   "question": "Will Manchester United FC win on 2026-11-28?",
+   "p_ia": 0.38,
+   "p_yes": 0.425,
+   "fin": "2026-11-28T15:00:00+00:00",
+   "date": "2026-11-27T19:59:42.862669+00:00",
    "recherche": true
   }
  ]

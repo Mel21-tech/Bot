@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 27/11/2026 10:54 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 27/11/2026 19:59 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **961.36 $** (-3.9 %) |
-| Disponible | 442.17 $ |
-| Engagé | 519.19 $ sur 14 positions |
+| Disponible | 433.43 $ |
+| Engagé | 527.93 $ sur 15 positions |
 | Trades clôturés | 41 · gagnés 20 (49 %) |
 | Gains/pertes réalisés | -38.64 $ |
 
@@ -17,7 +17,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 27/11/2026 10:54 UTC_
 |---|---|---|---|---|---|---|
 | 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 9 (432 $) |
 | ⚖️ Équilibré | 14 | 6 (43 %) | 368.98 $ | -24.87 $ | -6.7 % | 2 (57 $) |
-| 🎲 Outsider | 15 | 2 (13 %) | 211.57 $ | -115.79 $ | -54.7 % | 3 (30 $) |
+| 🎲 Outsider | 15 | 2 (13 %) | 211.57 $ | -115.79 $ | -54.7 % | 4 (39 $) |
 
 _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital · ⚖️ Équilibré = 0,35 à 0,70, mise max 3 % · 🎲 Outsider = prix < 0,35, rapporte gros mais gagne rarement, mise 0,5 à 1 % (et 20 % du capital au total)._
 
@@ -50,11 +50,12 @@ Prédictions résolues : **192** · Score Brier IA **0.2596** vs marché **0.140
 | Will Aleksandar Vučić be the next Prime Minister of Serbia? | 25/10 | YES | 0.67 | 30.11 $ | +14.70 $ | 78% | 66% |
 | US x Iran Effective Ceasefire by November 22? | 22/11 | YES | 0.49 | 27.26 $ | +27.81 $ | 55% | 48% |
 
-### 🎲 Outsider (3)
+### 🎲 Outsider (4)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Su Chiao-hui win the next New Taipei Mayor election? | 29/11 | NO | 0.33 | 9.92 $ | +20.60 $ | 42% | 68% |
+| Will Huang Shih-chieh win the next Taoyuan Mayor election? | 29/11 | YES | 0.10 | 8.74 $ | +80.44 $ | 18% | 9% |
 | Howard Lutnick out as Secretary of Commerce by November 30? | 01/12 | YES | 0.12 | 10.34 $ | +75.83 $ | 27% | 11% |
 | Marco Rubio out as Secretary of State by November 30, 2026? | 01/12 | YES | 0.05 | 9.92 $ | +205.73 $ | 28% | 4% |
 
