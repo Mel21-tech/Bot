@@ -1,13 +1,13 @@
 # 📊 Rapport du bot (argent FICTIF)
-_Version 2 · départ le 18/10/2026 · mis à jour le 26/11/2026 19:03 UTC_
+_Version 2 · départ le 18/10/2026 · mis à jour le 27/11/2026 02:14 UTC_
 
 ## 💰 Résumé
 
 | | |
 |---|---|
 | **Capital total** | **991.69 $** (-0.8 %) |
-| Disponible | 541.33 $ |
-| Engagé | 450.36 $ sur 13 positions |
+| Disponible | 442.17 $ |
+| Engagé | 549.52 $ sur 15 positions |
 | Trades clôturés | 40 · gagnés 20 (50 %) |
 | Gains/pertes réalisés | -8.31 $ |
 
@@ -15,7 +15,7 @@ _Version 2 · départ le 18/10/2026 · mis à jour le 26/11/2026 19:03 UTC_
 
 | Catégorie | Clôturés | Gagnés | Misé | Gain/perte | ROI | En cours |
 |---|---|---|---|---|---|---|
-| 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 7 (332 $) |
+| 🛡️ Sûr | 12 | 12 (100 %) | 592.69 $ | +102.02 $ | +17.2 % | 9 (432 $) |
 | ⚖️ Équilibré | 13 | 6 (46 %) | 338.65 $ | +5.46 $ | +1.6 % | 3 (88 $) |
 | 🎲 Outsider | 15 | 2 (13 %) | 211.57 $ | -115.79 $ | -54.7 % | 3 (30 $) |
 
@@ -23,22 +23,24 @@ _🛡️ Sûr = on achète le favori (prix ≥ 0,70), mise max 5 % du capital ·
 
 ## 🧠 L'IA bat-elle le marché ?
 
-Prédictions résolues : **189** · Score Brier IA **0.2596** vs marché **0.1414** (plus bas = meilleur)
+Prédictions résolues : **190** · Score Brier IA **0.2585** vs marché **0.1410** (plus bas = meilleur)
 
 ❌ Le marché est plus précis que l'IA. Pas d'edge pour l'instant.
 
 ## 📂 Positions ouvertes
 
-### 🛡️ Sûr (7)
+### 🛡️ Sûr (9)
 
 | Marché | Fin | Pari | Prix | Mise | Gain si ✅ | IA (YES) | Marché (YES) |
 |---|---|---|---|---|---|---|---|
 | Will Benjamin Netanyahu be the next Prime Minister of Israel? | 28/10 | NO | 0.73 | 50.00 $ | +18.03 $ | 12% | 28% |
 | Will Zoran Janković win the 2026 Ljubljana mayoral election? | 16/11 | YES | 0.75 | 31.03 $ | +10.34 $ | 78% | 74% |
 | Will the Democratic Progressive Party (DPP) win the most head of local | 29/11 | NO | 0.78 | 49.58 $ | +14.23 $ | 15% | 23% |
+| Will Lai Jui-lung win the next Kaohsiung Mayor election? | 29/11 | YES | 0.81 | 49.58 $ | +11.25 $ | 88% | 80% |
 | Russia x Ukraine energy ceasefire agreement by November 30, 2026? | 30/11 | NO | 0.84 | 51.18 $ | +9.39 $ | 7% | 16% |
 | Iran full airspace closure by November 30, 2026? | 01/12 | NO | 0.80 | 50.55 $ | +12.64 $ | 15% | 21% |
 | Will Anthropic have the best AI model at the end of November 2026? | 01/12 | NO | 0.80 | 50.07 $ | +12.52 $ | 7% | 21% |
+| Will it be confirmed that a software or configuration error caused the | 01/12 | NO | 0.74 | 49.58 $ | +17.78 $ | 8% | 27% |
 | Another Fed rate hike in 2026? | 10/12 | YES | 0.83 | 50.07 $ | +9.89 $ | 88% | 82% |
 
 ### ⚖️ Équilibré (3)

@@ -1,7 +1,7 @@
 {
  "version": 2,
  "debut": "2026-10-18T07:20:33.263693+00:00",
- "capital": 541.3265080179389,
+ "capital": 442.1665080179389,
  "positions": [
   {
    "id": "682705",
@@ -210,6 +210,38 @@
    "categorie": "Outsider",
    "raison": "Les sondages récents sont très serrés (Su +3 % puis Lee +3,6 %) et l’électorat de New Taipei penche historiquement vers le KMT, ce qui rend la victoire de Su incertaine mais plausible.",
    "ouverture": "2026-11-26T08:22:55.764198+00:00"
+  },
+  {
+   "id": "3581450",
+   "event": "848409",
+   "question": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
+   "regles": "Taiwanese local elections are scheduled to be held on November 28, 2026.\n\nThis market will resolve according to the candidate who becomes the next Mayor of Kaohsiung as a result of this election.\n\nTemporary, interim, or placeholder Mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known, or no candidate has been elected, by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Taiwanese government, specifically the Central Election Commission (https://db.cec.gov.tw/).",
+   "p_yes": 0.805,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "slug": "will-lai-jui-lung-win-the-next-kaohsiung-mayor-election-20260813125857602",
+   "cote": "YES",
+   "prix": 0.815,
+   "mise": 49.58,
+   "p_ia": 0.88,
+   "categorie": "Sûr",
+   "raison": "Lai Jui-lung mène les sondages de 7 à 26 points et le DPP domine traditionnellement Kaohsiung, rendant sa victoire très probable【9†L33-L38】【9†L53-L55】【10†L33-L36】",
+   "ouverture": "2026-11-27T02:12:51.712540+00:00"
+  },
+  {
+   "id": "7023983",
+   "event": "1382473",
+   "question": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
+   "regles": "This market will resolve according to the cause or causes to which the U.S. government officially attributes the FAA's nationwide ground stop on November 13, 2026, between market creation and November 30, 2026, 11:59 PM ET.\n\nEach market will resolve to \"Yes\" if the U.S. government officially attributes the ground stop to the listed cause within this timeframe. Otherwise, this market will resolve to \"No\". More than one market may resolve to \"Yes\".\n\nThe ground stop refers to the nationwide departure ground stop the Federal Aviation Administration (FAA) issued on November 13, 2026. A cause qualifies if it is attributed as a cause of the ground stop or of the radio, radar, communications, or other system outage behind it.\n\nThe listed causes are defined as follows:\nEquipment or system failure: a malfunction of hardware, software, power, or telecommunications equipment used by the FAA or its contractors, including one set off by maintenance work or accidental damage. A cyberattack, jamming, or sabotage is not a failure.\nMaintenance or upgrade work: planned maintenance, an upgrade, a configuration change, or a cutover on an FAA or contractor system.\nCable cut or physical damage: accidental damage to a cable, line, antenna, or other physical equipment, including by construction work or weather.\nSoftware or configuration error: a fault in software, or a wrong setting or configuration, in an FAA or contractor system, including one introduced by an update or upgrade.\nTelecom carrier or ",
+   "p_yes": 0.2745,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "slug": "faa-ground-stop-cause-software-or-configuration-error",
+   "cote": "NO",
+   "prix": 0.736,
+   "mise": 49.58,
+   "p_ia": 0.08,
+   "categorie": "Sûr",
+   "raison": "Les communiqués officiels attribuent l'arrêt à un problème de données sur un routeur hérité, pas à une erreur logicielle ou de configuration.",
+   "ouverture": "2026-11-27T02:13:52.528456+00:00"
   }
  ],
  "historique": [
@@ -2016,7 +2048,8 @@
    "p_yes": 0.24,
    "fin": "2026-10-31T20:59:00+00:00",
    "date": "2026-10-27T07:01:10.808218+00:00",
-   "recherche": true
+   "recherche": true,
+   "resultat": 0.0
   },
   {
    "id": "630925",
@@ -3376,6 +3409,33 @@
    "p_yes": 0.265,
    "fin": "2026-11-30T04:59:00+00:00",
    "date": "2026-11-26T19:03:44.387662+00:00",
+   "recherche": true
+  },
+  {
+   "id": "3581450",
+   "question": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
+   "p_ia": 0.88,
+   "p_yes": 0.805,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-27T02:12:51.712353+00:00",
+   "recherche": true
+  },
+  {
+   "id": "7023983",
+   "question": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
+   "p_ia": 0.08,
+   "p_yes": 0.2745,
+   "fin": "2026-12-01T04:59:00+00:00",
+   "date": "2026-11-27T02:13:52.528274+00:00",
+   "recherche": true
+  },
+  {
+   "id": "5336561",
+   "question": "Will PP win the most seats in the 2026 Spanish general election?",
+   "p_ia": 0.75,
+   "p_yes": 0.745,
+   "fin": "2026-11-30T04:59:00+00:00",
+   "date": "2026-11-27T02:14:15.709962+00:00",
    "recherche": true
   }
  ]
