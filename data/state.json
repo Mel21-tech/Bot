@@ -3476,6 +3476,15 @@
    "fin": "2026-11-28T15:00:00+00:00",
    "date": "2026-11-27T19:59:42.862669+00:00",
    "recherche": true
+  },
+  {
+   "id": "3581101",
+   "question": "Will Chang San-cheng win the next Taoyuan Mayor election?",
+   "p_ia": 0.68,
+   "p_yes": 0.9,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-28T02:42:50.092380+00:00",
+   "recherche": true
   }
  ]
 }
