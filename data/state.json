@@ -3485,6 +3485,15 @@
    "fin": "2026-11-29T04:59:00+00:00",
    "date": "2026-11-28T02:42:50.092380+00:00",
    "recherche": true
+  },
+  {
+   "id": "814612",
+   "question": "Will Kuomintang (KMT) win the most head of local government elections in the 2026 Taiwan local elections?",
+   "p_ia": 0.75,
+   "p_yes": 0.93,
+   "fin": "2026-11-29T04:59:00+00:00",
+   "date": "2026-11-28T11:51:15.662808+00:00",
+   "recherche": true
   }
  ]
 }
